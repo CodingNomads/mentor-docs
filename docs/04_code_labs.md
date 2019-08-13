@@ -3,6 +3,7 @@
 We want our students to **practice coding** as much as possible.
 
 For this, we provide them with:
+
 * Coding Quizzes (in-course)
 * Labs & Projects (GitHub)
 
