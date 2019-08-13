@@ -67,6 +67,19 @@ Schedule the 1-on-1 with your student at a **fixed recurring time every week**. 
 
 Use your first call to lock in a time slot, then stick to it. No one enjoys the back-and-forth of trying to figure out a time, and we're aware that you have more important (and more fun) things to do with your time.
 
+## Help your students come prepared
+
+Calls will be more productive if both you and your student come prepared.
+
+To make that more likely, you can:
+
+* send an email or chat message to your student one day before your call
+* or copy this [1:1 prep form template](https://docs.google.com/forms/d/e/1FAIpQLSdwZsajyzT8CnPWusgn5dB-9AwI2sZNxJR8PAl5MZZ_bvyldw/viewform) and send it to your student
+
+**NOTE:** In order to receive your students' answers when using the 1:1 prep form, you will need to _"Make a copy"_ and host it on your own Google Drive. The answers are sent to the account that hosts the form.
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdwZsajyzT8CnPWusgn5dB-9AwI2sZNxJR8PAl5MZZ_bvyldw/viewform" target="_blank">![1:1 meeting preparation form](images/form_meeting_prep.png)</a>
+
 ## What to talk about?
 
 During your 1-on-1 call, you **review their labs together and discuss their code**. These labs are the content of their aforementioned submissions. “Grading” these submissions, therefore, happens in a live discussion with the student, rather than separate from the call. This allows students to ask specific questions and brings about a more organic discussion regarding their code.
