@@ -71,11 +71,13 @@ Use your first call to lock in a time slot, then stick to it. No one enjoys the 
 
 During your 1-on-1 call, you **review their labs together and discuss their code**. These labs are the content of their aforementioned submissions. “Grading” these submissions, therefore, happens in a live discussion with the student, rather than separate from the call. This allows students to ask specific questions and brings about a more organic discussion regarding their code.
 
+* See more in [Labs & Projects](04_code_labs.md)
+
 You will **discuss challenging concepts** from the course materials if the student has not quite gotten a grip on them yet. Interested students have interesting questions! Help them find the answers. You are there to help them get unstuck, and help them learn _how_ to get unstuck by themselves.
 
 Finally, you will help them create **study schedules**, set realistic **expectations**, and check in with them on their progress. You are there to **hold them accountable** for their plans. Help them set generous plans for themselves so that they will be able to stick to their plans.
 
-In short, during your 1-on-1 session you should:
+<ins>In short, during your 1-on-1 session you should</ins>:
 
 *   Review labs and project code together
 *   Discuss course-related concepts
@@ -90,17 +92,30 @@ Students can thereby re-watch helpful parts of a meeting. Some students will be 
 
 Recorded sessions also give us the possibility to provide feedback and suggestions to you regarding mentorship. We won't peek into your sessions unless you ask for feedback, or in case there seems to be any trouble. We will always communicate this to you beforehand, and accessing your video recordings will always happen while in communication with you.
 
-# Session Reports
+# <span style="color: lightgray;">Session Reports (currently optional)</span>
 
+<span style="color: lightgray;">
 At the end of each session, we ask you to give a short report on how it went that day.
+</span>
 
-Linked below you will find a Google Form with a few questions.
+<span style="color: lightgray;">Linked below you will find a Google Form with a few questions.</span>
 
-Please bookmark this form, and **submit a filled-out copy after every call**. This recap **will _not_ be visible to your student** nor to other mentors, but only to you and the CodingNomads team.
+<span style="color: lightgray;">Please bookmark this form, and **submit a filled-out copy after every call**. This recap **will _not_ be visible to your student** nor to other mentors, but only to you and the CodingNomads team.</span>
 
-We want to keep it short so it doesn't take much of your time. However, consistently keeping short recaps is helpful.
+<span style="color: lightgray;">We want to keep it short so it doesn't take much of your time. However, consistently keeping short recaps is helpful to monitor student progress and anticipate challenges.
+</span>
 
 *   [Session Report Form](https://docs.google.com/forms/d/e/1FAIpQLSfcYcVSnGAIhEB4wNr4tURIqQ_6lRa0xo7ARpWeDuhFq9a7bA/viewform)
+
+# Weekly Mentor Standup
+
+Every Friday, we ask our **active mentors** to complete a quick form. In this form you'll check in about this week's mentorship. You can raise concerns regarding a student's progress, so we can help in intervening quickly.
+
+<ins>Please make sure to submit this form every week</ins>:
+
+* [Weekly Mentor Standup](https://docs.google.com/forms/d/e/1FAIpQLSdZEKcxX9ZYE-M1P8xZ8Wuipkt2W2lE1ArtZCUUO6z1pOtuRA/viewform)
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdZEKcxX9ZYE-M1P8xZ8Wuipkt2W2lE1ArtZCUUO6z1pOtuRA/viewform" target="_blank">![Weekly mentor standup form](images/form_weekly_standup.png)</a>
 
 # Time tracking with Toggl
 

@@ -14,7 +14,8 @@ This page contains **resources that you will need frequently**. Please copy the 
 *   Each of your students' **Outline Report** ([here's how to get to these links](05_tools.md))
 *   Each of your students' **Google Photos Album** for uploaded screen recordings ([here's how to make one](05_tools.md))
 *   [Student Notes](13_student_notes.md)
-*   [Session Report Form](https://docs.google.com/forms/d/e/1FAIpQLSfcYcVSnGAIhEB4wNr4tURIqQ_6lRa0xo7ARpWeDuhFq9a7bA/viewform)
+*   <span style="color:lightgray;">[Session Report Form](https://docs.google.com/forms/d/e/1FAIpQLSfcYcVSnGAIhEB4wNr4tURIqQ_6lRa0xo7ARpWeDuhFq9a7bA/viewform)</span>
+*   [Weekly Mentor Standup](https://docs.google.com/forms/d/e/1FAIpQLSdZEKcxX9ZYE-M1P8xZ8Wuipkt2W2lE1ArtZCUUO6z1pOtuRA/viewform)
 
 # Other Links
 

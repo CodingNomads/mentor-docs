@@ -7,6 +7,10 @@ For this, we provide them with:
 * Coding Quizzes (in-course)
 * Labs & Projects (GitHub)
 
+During your 1:1 calls, **talk with your student about the code they wrote**. Discuss labs and project code, ask them _why_ they solved a challenge how they did, and give them hints about other possible solutions.
+
+In short: **Talk about code!**. It really helps.
+
 ## Why code locally?
 
 Unlike most online courses, we don't put our focus on an in-browser coding environment. Our focus is on:
