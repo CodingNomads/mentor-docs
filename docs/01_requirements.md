@@ -1,6 +1,6 @@
 # Requirements to Become a CodingNomads Mentor
 
-Welcome! Happy that you are interested in becoming a mentor for CodingNomads. This document describes our ideas about mentorship, and what we'd like our ideal mentor to be like. Please read this document carefully. If you have questions write to <img style="display: inline-block;" alt="contact address for martin" src="../images/email_martin.png"/>.
+Welcome! Happy that you are interested in becoming a Mentor for CodingNomads. This document describes our ideas about mentorship, and what we'd like our ideal mentor to be like. Please read this document carefully. If you have questions write to <img style="display: inline-block;" alt="contact address for martin" src="../images/email_martin.png"/>.
 
 [TOC]
 
