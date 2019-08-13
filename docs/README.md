@@ -5,7 +5,7 @@ Follow these links step-by-step to gather all the info related to being a Coding
 The information might be updated as we expand the service, but this document is your guideline until further notice.
 
 1. [Requirements to Become a CodingNomads Mentor](01_requirements.md)
-2. [What to do if you're a new Mentor](02_new_mentors.md) and a quicklink to the [Mentor Onboarding Tasks](https://docs.google.com/forms/d/e/1FAIpQLSf-Ok5OAqM749xVfpe_Wt1U2h6PPhWowlITSW2K5_koMjPQBA/viewform)
+2. [What to do if you're a new Mentor](02_new_mentors.md) and a quicklink to the <a href="https://docs.google.com/forms/d/e/1FAIpQLSf-Ok5OAqM749xVfpe_Wt1U2h6PPhWowlITSW2K5_koMjPQBA/viewform" target="_blank">Mentor Onboarding Tasks</a>
 3. [CodingNomads Mentorship Process](03_mentorship_process.md)
 4. [Labs & Projects](04_code_labs.md)
 5. [How to be a great Mentor](04_how_to_mentor.md)
@@ -19,3 +19,7 @@ The information might be updated as we expand the service, but this document is 
 13. [Get started communicating with your student](12_templates.md)
 
 ![CodingNomads Logo](images/cn_logo.png "We are the CodingNomads")
+
+# Mentor Docs Intro
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ok4Zti5tfHs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
