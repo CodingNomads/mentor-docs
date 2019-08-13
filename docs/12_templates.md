@@ -116,6 +116,25 @@ And looking forward to talking soon!
 
 {MENTOR_NAME}
 
+# Prompt to stick with weekly meetings
+
+Hi {STUDENT_NAME}!
+
+Hope it's been going well for you.
+You mentioned you'd like to cancel this week's call.
+I just wanted to suggest you to try to be as consistent as possible with the calls.
+
+It really helps to think of it as a weekly institution - even if you haven’t made too much progress.
+We can always talk over some older piece of code, or ask me to give you some quick thoughts or preview the material together.
+
+Sticking to that routine, that you know you’ll have your call every week, helps with staying on track. It really does! : )
+
+That’s why it helps to find a good time that’ll very likely work for you every week - and then we just keep at it!
+
+Hope that makes sense, let me know if you have any questions.
+
+I'm just trying to make it the most effective for you - and we’ve learned that the regular calls really do help. : )
+
 
 # Twitter Accounts to suggest
 
