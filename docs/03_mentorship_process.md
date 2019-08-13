@@ -39,6 +39,21 @@ We also recommend **keeping a document** with info about your students. It helps
 
 *   [Student Notes](13_student_notes.md)
 
+## Answer Forum Questions
+
+Prompt your students to post to, answer, and discuss on [our forum](http://forum.codingnomads.co). We want to promote the forum as a helpful and welcoming place where students and mentors interact and share knowledge.
+
+Therefore we welcome if you:
+
+* Monitor the Forum regularly
+* Prompt your students to discuss questions on the forum
+* Answer your students' questions
+* Answer other students' questions
+* Contribute interesting posts
+
+<a href="http://forum.codingnomads.co" target="_blank">![CodingNomads Forum home page](images/cn_forum.png)</a>
+
+
 ## Stay up-to-date with your students' progress
 
 Knowing where your students are currently at, what they have succeeded to do and what they might be struggling with, is an important piece in making them understand that we care for their learning process and progress. Our platform offers ways to stay up-to-date with your students' progress. Here are instructions on how to find your students' progress logs. Please **bookmark** these pages for quick access.
