@@ -1,8 +1,6 @@
 site_name: CodingNomads Mentor Docs
 site_description: Information on how to deliver a great mentorship experience.
 site_author: Martin Breuss
-date: 2019-07-17
-some_url: https://codingnomads.co/
 nav:
   - Start Here: README.md
   - Requirements: 01_requirements.md
@@ -10,7 +8,7 @@ nav:
   - Mentorship Cheatsheet: 03_mentorship_process.md
   - Labs & Projects: 04_code_labs.md
   - On Mentorship: 04_how_to_mentor.md
-  - Mentor Tools: 05_tools.md
+  - Mentor Tools: 05_tools.mds
   - Community: 06_community.md
   - Payment: 07_payment.md
   - Checklist: 08_checklist.md
