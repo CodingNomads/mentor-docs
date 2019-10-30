@@ -67,7 +67,7 @@ If you haven't received an invitation to the shared mentor calendar, please requ
 
 To improve visibility and make it easier to pair students with mentors based on their availability, we ask you to add your general availability to our shared Mentorship Calendar.
 
-<iframe width="560" height="315" src="https://youtu.be/A1echzaLETk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A1echzaLETk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Video Sessions and Recordings: Zoom
 
@@ -83,7 +83,7 @@ Watch the [official video walkthrough](https://www.youtube.com/watch?v=E0XmIIXcr
 
 ## Schedule a student meeting
 
-<iframe width="560" height="315" src="https://youtu.be/lHRX9b_NmEA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lHRX9b_NmEA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Click “Schedule a meeting” on the browser extension
 
@@ -140,8 +140,7 @@ When the processing is done, the recording will be in your `~/Documents/Zoom/` f
 
 _Google Photos allows free video uploads and storage for the video resolution that we are working with. That means it **won't count against your Google storage space quota**._
 
-
-<iframe width="560" height="315" src="https://youtu.be/auJFJgR_sa4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/auJFJgR_sa4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Navigate to [Google Photos](https://photos.google.com/) (and sign in to your account if necessary)
 * **Create a new Shared Album in your Google Photos account for each student**
