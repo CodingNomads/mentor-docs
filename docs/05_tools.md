@@ -63,6 +63,12 @@ We use Google Calendar for scheduling. If you don't have a Google account, [plea
 
 If you haven't received an invitation to the shared mentor calendar, please request an invite by writing to <img style="display: inline-block;" alt="contact address for martin" src="../images/email_martin.png"/>.
 
+## Setting Your Availability
+
+To improve visibility and make it easier to pair students with mentors based on their availability, we ask you to add your general availability to our shared Mentorship Calendar.
+
+<iframe width="560" height="315" src="https://youtu.be/A1echzaLETk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Video Sessions and Recordings: Zoom
 
 We use **Zoom** for 1-on-1 calls because it allows for simple screen sharing and screen recording.
@@ -76,6 +82,8 @@ Watch the [official video walkthrough](https://www.youtube.com/watch?v=E0XmIIXcr
 3. Connect your Google account
 
 ## Schedule a student meeting
+
+<iframe width="560" height="315" src="https://youtu.be/lHRX9b_NmEA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Click “Schedule a meeting” on the browser extension
 
@@ -131,6 +139,9 @@ When the processing is done, the recording will be in your `~/Documents/Zoom/` f
 # Storage: Google Photos
 
 _Google Photos allows free video uploads and storage for the video resolution that we are working with. That means it **won't count against your Google storage space quota**._
+
+
+<iframe width="560" height="315" src="https://youtu.be/auJFJgR_sa4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Navigate to [Google Photos](https://photos.google.com/) (and sign in to your account if necessary)
 * **Create a new Shared Album in your Google Photos account for each student**
