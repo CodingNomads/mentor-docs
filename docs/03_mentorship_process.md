@@ -151,6 +151,31 @@ To keep track of the time you spend on mentoring your students, please use the T
 
 *   [How to use Toggl for CodingNomads time tracking](05_tools.md)
 
+# Wrapping up working with a student
+
+When you student progresses well through the course, they will eventually reach the end and graduate.
+
+## Progress Notifications
+
+To stay up-to-date with our students' progress on the organization team, we ask you to send us a couple of progress updates throughout each student's course journey:
+
+- **50% Complete**: Send a chat message or email to Martin when your students is about halfway through the course. This is not an exact marker point, but an approximation.
+- **Capstone Started**: Inform us when your student has started working on their capstone project (chat message or email)
+- **Capstone Reviewed**: Once your student has finished their capstone project and you have reviewed and approved their code on GitHub, send us the final progress notification per chat message or email. This message should reach us before your final call with the student. Receiving this information from you is extremely important, so that we can commence the close-out process for that student.
+
+## The Final Call
+
+After reviewing your student's capstone project code and letting us know that they have completed the course, you'll go on a final close-out call with your student. Similar to your intro call, this call will be a little different than your other 1:1s. Here are some helpful tips to keep in mind:
+
+- **It's The End**: Clearly state to your student that the upcoming call will be your final call. This gives them a chance to revisit topics and assemble some questions that might still linger on their minds.
+- **Give Pointers**: By the time your final call comes around, you will know your student's interests well, so you're encouraged to provide them with tips and suggestions on how to continue their learning journey following their interests.
+- **Ask For Satisfaction**: Ask your student if there is anything we can do to make them completely satisfied with our service. We want to provide great mentorship and we want our students to be happy and satisfied. If they have feedback and wishes, let them know we'll do our best and pass on their suggestions to us.
+- **Ask For Reviews**: Reviews are important to help others discover and trust our mentoring services. Ask your student to leave us a review on [SwitchUp](https://www.switchup.org/bootcamps/codingnomads
+) and [CourseReport](https://www.coursereport.com/schools/codingnomads). They can write one and copy-paste to the other service. This is extremely helpful for getting the word out and building trust for our future students.
+- **Point To Our Community**: Re-iterate that alumni of our courses are very welcome to keep asking and answering questions on our [Forum](http://forum.codingnomads.co/) and our chat community. They can keep reaching out to us and other students. We would love for them to be an active part of the CodingNomads community.
+
+---
+
 # Troubleshooting
 
 Check out our [FAQ page](09_faq.md).
