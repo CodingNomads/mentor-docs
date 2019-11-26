@@ -2,20 +2,6 @@
 
 [TOC]
 
-# What do you get paid for?
-
-When you start to work with CodingNomads, we pay you **one time for 6 hours of onboarding**.
-
-Regularly, we can pay **up to 1.5 hours of your time per student per week**. This time can be split between the following tasks:
-
-*   1 weekly 45-minute 1-on-1 call with your student
-*   Chat support time with your student
-*   Writing Forum posts and answers
-*   Researching for tricky student questions
-*   Monthly mentor team meetings
-
-In exceptional cases, it can be okay to go over time. If 30 minutes more will bring a student from happy to _extremely_ happy, then go ahead. However, we can't afford to pay for overtime regularly.
-
 # Mentors without a US bank account
 
 For mentors who bank outside of the USA, we use **TransferWise** bank transfers, which charge the lowest recipient fee (~ 1%) and best exchange rate than any other service we've found.
