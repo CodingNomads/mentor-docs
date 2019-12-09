@@ -48,28 +48,31 @@ Here are some examples of code reviews from the on-site course part. Read over t
 
 Every time your student commits code and pushes it to GitHub, it will be available for other people to comment on. Use the great in-line code comment functionality on GitHub commits to facilitate learning and get your students used to the idea of code reviews.
 
+>Go over how to create and interact with GitHub code comments together with your student on a call.
+
 ### How to add a comment?
+
 Here's a step-by-step walkthrough on adding a comment to a GitHub commit:
 
 Go to your student's GitHub account, choose the right repository and navigate to their commits:
 
-
+![GitHub commit tab](images/gh_commit_tab.png)
 
 You will see a page similar to the following screenshot. Once there, click on a single commit (you can do this for every commit!). This steps you into the code that was added/changed/deleted during that specific commit:
 
-
+![GitHub commit list](images/gh_commit_list.png)
 
 Inside of a commit's page, you'll see code lines, some of them green and red. The view is split up on a per file basis and you can easily comment directly in a specific line by clicking on the blue plus that appears when hovering over a line:
 
- 
+![Add GitHub in-line comment](images/gh_add_comment_button.png)
 
 Clicking it opens up a comment box, like so:
 
-
+![GitHub in-line comment box opened](images/gh_open_comment.png)
 
 Type your code comment into this box. Remember [our code review tips](#teach-and-learn-by-doing-code-reviews) (e.g. that Markdown is supported). You can check up on your result by clicking the `Preview` tab:
 
-
+![GitHub comment preview](images/gh_comment_preview_tab.png)
 
 Finally, click Add single comment and your feedback is live!
 
