@@ -51,3 +51,16 @@ Ryan:
 >The way I always tell our potential students is that they have one scheduled call per week, but that they are highly encouraged to reach out anytime they are stuck or have a question and anyone of our mentors will get back to them asap. And this is unlimited. We used to do two calls per week but most students ended up cancelling the second call. 
 
 >I also mention that we are happy to hop on quick screenshares with students when they’re stuck any time. (So long as we’re available)
+
+# How closely should I monitor my students' progress?
+
+Stay up-to-date with what they're working on, it'll make your 1:1 call more effective and your support more actionable for the student. Use the [Outline Report](05_tools.md#how-to-find-student-progress-logs) provided in our platform to help with that.
+
+You can also set up an agreement with your student that they check in with you every day in a stand-up fashion and send you a quick message on:
+* what are they currently working on?
+* anything they are stuck with?
+* what are their plans for today?
+
+Also, ask them to share their GitHub account with you. You can subscribe to be notified when they push updates, which may make it easier for you to keep track of their progress with the labs.
+
+>Being up-to-date with your students' progress helps to build an understanding of their knowledge and blind spots.

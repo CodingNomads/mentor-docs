@@ -17,6 +17,7 @@ nav:
   - Bookmarks: 11_bookmarks.md
   - Templates: 12_templates.md
   - Student Notes: 13_student_notes.md
+  - Mentorship Practical Tips: 14_tips.md
 theme:
   name: readthedocs
   shortcuts:
