@@ -39,9 +39,9 @@ GitHub allows you to create in-line code comments in commits. Giving and getting
 2. **Congratulations**: Give positive feedback if there's something you liked or found interesting
 3. **Challenges**: Introduce challenges if you see that someone is onto something and might benefit from a nudge into a specific direction
 
-Examples
-Here are some examples of code reviews from the on-site course part. Read over them to get an idea of how to give code reviews.
+### Examples [TODO]
 
+Here are some examples of code reviews from the on-site course part. Read over them to get an idea of how to give code reviews.
 
 
 ## Do code reviews on GitHub
