@@ -31,7 +31,7 @@ US citizens must also fill the [Form W-9 for Independent Contractors](https://dr
 
 # Monthly payment process
 
-To receive payment, please email an invoice and Toggl PDF Report timesheet to Kim on the **first day of each month** following your monthly billing period: <img style="display: inline-block;" alt="contact address for kim" src="../images/email_kim.png"/>.
+To receive payment, please email an invoice and Toggl CSV and PDF Report to Kim by the **fifth day of each month** following your monthly billing period: <img style="display: inline-block;" alt="contact address for kim" src="../images/email_kim.png"/>.
 
 *   Here is an [invoice template](https://docs.google.com/document/d/1-o45pFgiwheTOZCKr38iPZHm9nUzdYUC79GbfePV380/edit?usp=sharing) that you can make a copy of and use. You can also use the invoice of your choosing.
 *   Since you are keeping time in Toggl, you do not need to add more line items to the invoice unless you want a more detailed invoice for your own records. The Toggl **Detailed Report** will serve as an addendum to each invoice for our tax reporting purposes.
@@ -43,7 +43,7 @@ To receive payment, please email an invoice and Toggl PDF Report timesheet to Ki
 
 We will process your invoice no later than the 15th day of the month that you submitted your invoice. For example:
 
-For the hours you worked in **December** you will submit an invoice on **January 1**, and you will be paid by **January 15**.
+For the hours you worked in **December** you will submit an invoice by **January 5**, and you will be paid by **January 15**.
 
 # Payment support and questions
 
