@@ -70,7 +70,7 @@ Clicking it opens up a comment box, like so:
 
 ![GitHub in-line comment box opened](images/gh_open_comment.png)
 
-Type your code comment into this box. Remember [our code review tips](#teach-and-learn-by-doing-code-reviews) (e.g. that Markdown is supported). You can check up on your result by clicking the `Preview` tab:
+Type your code comment into this box. Remember [our code review tips](14_tips.md#teach-and-learn-by-doing-code-reviews) (e.g. that Markdown is supported). You can check up on your result by clicking the `Preview` tab:
 
 ![GitHub comment preview](images/gh_comment_preview_tab.png)
 

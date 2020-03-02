@@ -12,7 +12,7 @@ After you've become a part of our Mentor Community, we will want to connect you 
 2. **Student Info**: When you accept, we send you the student's background info
 3. **First Contact**: We send a shared email to both you and your student, to introduce you and establish the initial contact
 4. **Scheduling Orientation Call**: You reach out to your new mentee in order to schedule an orientation call. Please send them a calendar invite and the contact method you'll use to get in touch. If you want, you can use [Doodle](https://doodle.com/create/options) to find a common time slot.
-5. **Scheduling Recurring Weekly Call**: During your orientation call, you will schedule your [standing weekly 1-on-1 call](#core-duty-#2-weekly-1-on-1-calls)
+5. **Scheduling Recurring Weekly Call**: During your orientation call, you will schedule your [standing weekly 1-on-1 call](03_mentorship_process.md#core-duty-#2-weekly-1-on-1-calls)
 
 **Note:** We use Zoom to record all meetings for the student and our records. Here's info on [Using Zoom for scheduling, video sessions, and recordings](05_tools.md#video-sessions-and-recordings-zoom).
 
