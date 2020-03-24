@@ -1,6 +1,6 @@
 # Step-by-step
 
-Follow these links step-by-step to gather all the info related to being a CodingNomads Mentor.
+Follow these links step-by-step to gather all the info related to being a [CodingNomads](http://codingnomads.co/) Mentor.
 
 This information will be updated as we expand our mentorship program , and we will notify you of any changes that need attention.
 
@@ -18,7 +18,7 @@ This information will be updated as we expand our mentorship program , and we wi
 12. [Links to bookmark](11_bookmarks.md)
 13. [Get started communicating with your student](12_templates.md)
 
-![CodingNomads Logo](images/cn_logo.png "We are the CodingNomads")
+[![CodingNomads Logo](images/cn_logo.png "We are the CodingNomads")](http://codingnomads.co/)
 
 # Mentor Docs Intro
 
