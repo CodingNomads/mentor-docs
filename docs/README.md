@@ -2,7 +2,7 @@
 
 Follow these links step-by-step to gather all the info related to being a CodingNomads Mentor.
 
-The information might be updated as we expand the service, but this document is your guideline until further notice.
+This information will be updated as we expand our mentorship program , and we will notify you of any changes that need attention.
 
 1. [Requirements to Become a CodingNomads Mentor](01_requirements.md)
 2. [What to do if you're a new Mentor](02_new_mentors.md) and a quicklink to the <a href="https://docs.google.com/forms/d/e/1FAIpQLSf-Ok5OAqM749xVfpe_Wt1U2h6PPhWowlITSW2K5_koMjPQBA/viewform" target="_blank">Mentor Onboarding Tasks</a>
