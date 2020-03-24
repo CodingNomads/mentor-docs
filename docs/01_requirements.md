@@ -1,6 +1,6 @@
 # Requirements to Become a CodingNomads Mentor
 
-Welcome! We're thrilled that you are interested in becoming a Mentor for CodingNomads. This document describes what mentorship means to CodingNomads, and what we look for in an ideal mentor. Please read this document carefully. If you have questions please write to <a href="mailto:martin@codingnomads.co">Martin Breuss,</a> CodingNomads' Meta Mentor.
+Welcome! We're thrilled that you are interested in becoming a Mentor for CodingNomads. This document describes what mentorship means to CodingNomads, and what we look for in an ideal mentor. Please read this document carefully. If you have questions please reach out to Martin Breuss, CodingNomads' Meta Mentor, via <img style="display: inline-block;" alt="contact address for martin" src="../images/email_martin.png"/>.
 
 [TOC]
 
