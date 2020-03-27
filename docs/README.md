@@ -14,7 +14,7 @@ And some more links to relevant sections:
 
 ![#stayathome mentorship thank you webpage](images/stayathome_page.png)
 
-The info below is part of our regular mentorship docs, so some of it will not be relevant if you are here for the #StaAtHome Mentorship Effort. Feel free to read on.
+The info below is part of our regular mentorship docs, so some of it will not be relevant if you are here for the #StayAtHome Mentorship Effort. Feel free to read on.
 
 ---
 
