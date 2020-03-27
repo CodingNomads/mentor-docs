@@ -25,5 +25,3 @@ Most important is to make your student **understand that you care for them and t
 *   Fill and submit the [session report](https://docs.google.com/forms/d/e/1FAIpQLSfcYcVSnGAIhEB4wNr4tURIqQ_6lRa0xo7ARpWeDuhFq9a7bA/viewform)
 
 These are the required tasks for mentoring for CodingNomads. We welcome any additional involvement from your side - [here are some thoughts and suggestions](04_how_to_mentor.md).
-
-We can pay up to 1.5 hours of your work time per week per student.
