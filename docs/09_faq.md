@@ -42,15 +42,13 @@ However, if you haven't heard back from your mentee in 2 weeks, please reach out
 
 # The website says students get "unlimited support" - How much time should I invest?
 
-Ryan:
+This means that students are not limited to just their one weekly call. If they want, they can reach out every single day to their mentors on chat and Forum and the public chat channels.
 
->It means that students are not limited to just their one weekly call. If they want, they can reach out every single day to their mentors on chat and Forum and the public chat channels.
+Few students naturally go over the 1.5 (occasionally 2)  hours of direct 1-on-1 mentorship per week, and most actually stay below it. So if there are a few students here and there that are really soaking up your mentor time, then it's ok because they can basically absorb the mentorship time that we have alotted and budgeted for other students but that those other students aren't using or haven't used.
 
->Few students naturally go over the 1.5 (occasionally 2)  hours of direct 1-on-1 mentorship per week, and most actually stay below it. So if there are a few students here and there that are really soaking up the mentor time, then it's ok because they can basically absorb the mentorship time that we have alotted and budgeted for other students but that those other students aren't using or haven't used.
+We tell our potential students that they have one scheduled call per week, but that they are highly encouraged to reach out anytime they are stuck or have a question and anyone of our mentors will get back to them asap. And this is unlimited. We used to do two calls per week but most students ended up cancelling the second call. 
 
->The way I always tell our potential students is that they have one scheduled call per week, but that they are highly encouraged to reach out anytime they are stuck or have a question and anyone of our mentors will get back to them asap. And this is unlimited. We used to do two calls per week but most students ended up cancelling the second call. 
-
->I also mention that we are happy to hop on quick screenshares with students when they’re stuck any time. (So long as we’re available)
+We are also happy to hop on quick screenshares with students when they’re stuck any time. (So long as we’re available)
 
 # How closely should I monitor my students' progress?
 
