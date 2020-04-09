@@ -18,6 +18,8 @@ nav:
   - Templates: 12_templates.md
   - Student Notes: 13_student_notes.md
   - Mentorship Practical Tips: 14_tips.md
+  - StayAtHome FAQ: 15_home_faq.md
+  - Code of Conduct: 16_code_of_conduct.md
 theme:
   name: readthedocs
   shortcuts:
