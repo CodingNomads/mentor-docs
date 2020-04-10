@@ -2,8 +2,8 @@
 
 If you are a volunteer mentor with the [#StayAtHome program](https://github.com/CodingNomads/stayathome-mentorship/blob/master/README.md), several sections in these docs will not apply to you. Please feel free to use them as a reference and guide for conducting quality and effective mentorship.
 
-**Here's the tl;dr page: [Mentorship Practical Tips](14_tips.md)**
-**Here's a quick FAQ for #StayAtHome Mentors: [StayAtHome Mentorship FAQ](15_home_faq.md)**
+- **Here's the tl;dr page: [Mentorship Practical Tips](14_tips.md)**
+- **Here's a quick FAQ for #StayAtHome Mentors: [StayAtHome Mentorship FAQ](15_home_faq.md)**
 
 And some more links to relevant sections:
 
