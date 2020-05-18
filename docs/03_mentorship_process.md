@@ -18,13 +18,15 @@ After you've become a part of our Mentor Community, we will want to connect you 
 
 ## Orientation Call
 
-This will be the first time that you and your mentee meet. Take some time to get to know them and discuss their goals and expectations for the course.
+**Preparation**: Before your first call, ask the students per email to make as much progress on the beginning sections of the course (machine setup etc.) as possible.
 
-Setting clear expectations as well as clearly knowing _why_ the student is taking the course is incredibly helpful for themselves, and for you to keep them accountable.
+**Introduction**: The orientation call will be the first time that you and your mentee meet face-to-face. Take some time to get to know them and discuss their goals and expectations for the course. Setting clear expectations as well as clearly knowing _why_ the student is taking the course is helpful for themselves, as well as for you, in order to better keep them accountable. Spend about 10-15 minutes on that.
+
+**Screen-Sharing**: Next dive right into letting them share their screen. Make sure they’ve got everything installed correctly, IDE downloaded, labs open in the IDE and able to run applications and push their work to GitHub. Help them fix what might still be missing. If there is extra time, go further into using Git and/or getting cozy working with the IDE.
+
+**Note**: The first call is officially a **full-time mentor call**. It is not only an introduction and chat call and counts towards their mentorship. We want it to be as productive as possible.
 
 *   [Student Support Checklist](08_checklist.md)
-
-We suggest to keep this initial orientation call below 30 minutes.
 
 # CORE DUTY #1: Making your support felt
 
