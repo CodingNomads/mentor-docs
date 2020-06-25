@@ -22,17 +22,23 @@ Please use the TopTracker time tracker for keeping track of your mentor work tim
 
 To get started, please follow these steps:
 
-1. **Download** [TopTracker for Desktop](https://www.toptal.com/tracker)
-2. **Sign up** for a free account by clicking <kbd>Get Started as a Freelancer</kbd>
-3. **Notify** Martin or Ryan once you're set up
-4. **Accept** the invite you will receive for a project called _Onboarding_
-5. **Track** time you spent on onboarding under that project
+- **Download** [TopTracker for Desktop](https://www.toptal.com/tracker)
+- **Sign up** for a free account by clicking "Get Started as a Freelancer"
+- **Create** a new Project called _Onboarding_
 
-The process of accepting an invite to a project, then tracking your time related to this project, is one you will repeat for each student you will work with. Let's look in more detail at how the time tracking will work when you've started working with a student in the next section.
+![Screenshot of creating a new project on TopTracker](images/toptracker_onboarding.png)
+
+- **Invite** Ryan or Martin to the project as a _Supervisor_
+
+![Screenshot of inviting a supervisor to a project](images/toptracker_invite.png)
+
+- **Track** time you spent on onboarding under that project
+
+The process of tracking your time for each student you work with will be very similar to this. Let's look in more detail at how the time tracking will work when you've started working with a student in the next section.
 
 ## Track Mentorship Time
 
-Once you started working with a student, we will set up a <kbd>Project</kbd> with your **student's name** and invite you to it as a freelancer. From then on, you will track the mentorship time you spend related to this student in this student project. If you are working with multiple students, make sure to record your time accordingly.
+Once you started working with a student, we will set up a **Project** with your **student's name** and invite you to it as a freelancer. From then on, you will track the mentorship time you spend related to this student in this student project. If you are working with multiple students, make sure to record your time accordingly.
 
 To track the time you work with your student with minimal effort, you can limit your tracking entries to the following:
 
