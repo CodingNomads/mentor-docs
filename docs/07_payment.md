@@ -31,15 +31,11 @@ US citizens must also fill the [Form W-9 for Independent Contractors](https://dr
 
 # Monthly payment process
 
-To receive payment, please email an invoice and Toggl CSV and PDF Report to Kim by the **fifth day of each month** following your monthly billing period: <img style="display: inline-block;" alt="contact address for kim" src="../images/email_kim.png"/>.
+To receive payment, it is necessary that you have your time tracked with TopTracker and send an invoice to <img style="display: inline-block;" alt="contact address for kim" src="../images/email_kim.png"/>.
 
-*   Here is an [invoice template](https://docs.google.com/document/d/1-o45pFgiwheTOZCKr38iPZHm9nUzdYUC79GbfePV380/edit?usp=sharing) that you can make a copy of and use. You can also use the invoice of your choosing.
-*   Since you are keeping time in Toggl, you do not need to add more line items to the invoice unless you want a more detailed invoice for your own records. The Toggl **Detailed Report** will serve as an addendum to each invoice for our tax reporting purposes.
-
-    *   [How to create a Toggle timesheet report](https://docs.google.com/document/d/1QprIGo-yMWRpYr8ncr-kUrbOLvX7yE_zP9uaQCa0lCM/edit#heading=h.mo6fr7cb5584)
-
-*   Therefore, the hours on your Toggl report must match your Invoice for each month.
-*   If you make changes to your Toggl timesheet after submitting your Invoice, you will need to modify and re-submit your Invoice to match the timesheet.
+*   Here is an [invoice template](https://docs.google.com/document/d/1-o45pFgiwheTOZCKr38iPZHm9nUzdYUC79GbfePV380/edit?usp=sharing) that you can make a copy of and use. You can also use a different invoice of your choosing.
+*   Since you are keeping time in TopTracker and we have access to these time entries, you don't need to send us anything apart from your invoice.
+*   Please make sure that the hours on your TopTracker report matches your invoice each month.
 
 We will process your invoice no later than the 15th day of the month that you submitted your invoice. For example:
 

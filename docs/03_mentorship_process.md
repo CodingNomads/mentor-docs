@@ -150,11 +150,11 @@ Every Friday, we ask our **active mentors** to complete a quick form. In this fo
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdZEKcxX9ZYE-M1P8xZ8Wuipkt2W2lE1ArtZCUUO6z1pOtuRA/viewform" target="_blank">![Weekly mentor standup form](images/form_weekly_standup.png)</a>
 
-# Time tracking with Toggl
+# Time tracking with TopTracker
 
-To keep track of the time you spend on mentoring your students, please use the Toggl time tracker. Toggl is easy to use and makes time tracking (nearly) effortless. Your Toggl Report will be submitted with your invoice each month for payment.
+To keep track of the time you spend on mentoring your students, please use the TopTracker time tracker. TopTracker is easy to use and makes time tracking (nearly) effortless. We will use your TopTracker-recorded time to calculate your payment each month.
 
-*   [How to use Toggl for CodingNomads time tracking](05_tools.md)
+* [How to use TopTracker for CodingNomads time tracking](05_tools.md)
 
 # Wrapping up working with a student
 

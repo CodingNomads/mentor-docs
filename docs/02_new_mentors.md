@@ -8,11 +8,11 @@ We are aware that no one knows everything, and that it takes some time to get fa
 
 During your paid onboarding time, you are expected to use this time to complete the following tasks thoroughly:
 
-*   Set up Toggl and start recording your time
+*   Set up TopTracker and start recording your time
 *   Read the Mentor docs to make yourself familiar with CodingNomads' mentorship process, logistics, and expectations
 *   Set up your system with the necessary software and give everything a test-run:
     *   Install Zoom and making sure you understand the workflow for scheduling and conducting a 1-on-1 meeting
-    *   Explore Toggl and go through the process of recording your time and generating a report
+    *   Explore TopTracker and go through the process of recording your time
 *   Log in to our learning platform and get familiar with its navigation, as well as where you can keep track of students' progress
 *   Skim over the whole course content, so that you understand the course structure, which topics we discuss, and how we approach them
 *   Clone the relevant GitHub repository that contains the labs for your course and look into the code to make sure you understand the instructions

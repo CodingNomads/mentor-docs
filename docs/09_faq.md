@@ -22,11 +22,11 @@ Your meeting time slot should be on a **fixed time every week**. If a student do
 
 If you haven't heard from your student until the meeting time, please wait for 10 minutes to see whether they are just late, then cancel the call. Record the no-show in your Session Report. We will pay you 50% of the scheduled call time in the event of a no-show. This also applies for a <12 hours communicated reschedule attempt from the student's side.
 
-Record 25 minutes in your Toggl timesheet and make sure to mention it was a no-show in your Session Report. Please clearly communicate to your students that we aim for a professional environment, which means, in this case, to stick to scheduled meetings as much as possible, and give at least 24 hours notice if it won't be possible to make the meeting for them.
+Record 25 minutes in your TopTracker activities and make sure to mention it was a no-show in your Session Report. Please clearly communicate to your students that we aim for a professional environment, which means, in this case, to stick to scheduled meetings as much as possible, and give at least 24 hours notice if it won't be possible to make the meeting for them.
 
 # Rescheduling _with_ prior notice
 
-If a student needs to reschedule one of their meetings and does so with adequate prior notice (12 hours or more), we'd encourage you to find a new time with them. Life can get in the way, and as long as this is an exception, and you can manage to make time in your own schedule, we want to support students to have their mentor calls. You can add 5 minutes of billable time via Toggl for each reschedule. That said, we expect reschedules to be rare.
+If a student needs to reschedule one of their meetings and does so with adequate prior notice (12 hours or more), we'd encourage you to find a new time with them. Life can get in the way, and as long as this is an exception, and you can manage to make time in your own schedule, we want to support students to have their mentor calls. You can add 5 minutes of billable time via TopTracker for each reschedule. That said, we expect reschedules to be rare.
 
 You have no obligation to reschedule any meeting with the student if it happens outside of the agreed-upon time slot. We understand that you have other work to do, and we want to set clear examples to avoid time spent on scheduling wherever possible. If you do want to reschedule, it is at your own discretion to do so.
 

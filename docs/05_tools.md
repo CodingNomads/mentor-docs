@@ -10,52 +10,44 @@ You can set communication snippets up as [Gmail templates](https://www.lifewire.
 
 Feel free to personalize as much as you want to. These templates are meant to make it quicker for you to get started communicating, but personal communication is priceless for good mentorship results.
 
-*   [Student Communication Templates](12_templates.md)
+* [Student Communication Templates](12_templates.md)
 
 Please add any relevant repeating communications that you might create yourself, or comment when you think that something is missing.
 
-# Time Tracking with Toggl
+# Time Tracking with TopTracker
 
-Please use the Toggl time tracker for keeping track of your mentor work time as well as for submitting Toggl Reports as timesheets together with your invoice each month.
+Please use the TopTracker time tracker for keeping track of your mentor work time.
 
-## Get started with Toggl
+## Get Started With TopTracker
 
 To get started, please follow these steps:
 
-1. [Download Toggl for Desktop](https://toggl.com/toggl-desktop/)
-2. Sign up for a free account
-3. **Create a new Client **“_CodingNomads_”
-4. **Create the following projects** associated with the new CodingNomads client:
-    1. _1-on-1 Mentoring_
-    2. _Forum Posts and Answers_
-    3. _Slack Support_
-    4. _Code Review_
-    5. _Organizational_
-    6. _Onboarding_
-    7. _Team Meetings_
-5. From then on, when you work on any of these topics, simply run the timer
+1. **Download** [TopTracker for Desktop](https://www.toptal.com/tracker)
+2. **Sign up** for a free account by clicking <kbd>Get Started as a Freelancer</kbd>
+3. **Notify** Martin or Ryan once you're set up
+4. **Accept** the invite you will receive for a project called _Onboarding_
+5. **Track** time you spent on onboarding under that project
 
-## Create timesheet reports
+The process of accepting an invite to a project, then tracking your time related to this project, is one you will repeat for each student you will work with. Let's look in more detail at how the time tracking will work when you've started working with a student in the next section.
 
-Toggl also allows you to create Reports. To do so, head to their web interface at [https://toggl.com](https://toggl.com/).
+## Track Mentorship Time
 
-Scroll down for step-by-step instructions on how to generate a **Detailed Report** to submit together with your timesheet,
+Once you started working with a student, we will set up a <kbd>Project</kbd> with your **student's name** and invite you to it as a freelancer. From then on, you will track the mentorship time you spend related to this student in this student project. If you are working with multiple students, make sure to record your time accordingly.
 
-* Find the “Reports” section on the left navigation bar, then click **“Detailed Report”** up top
+To track the time you work with your student with minimal effort, you can limit your tracking entries to the following:
 
-![How to access Detailed Report in Toggl](images/toggle_report_section.png)
+1. call
+2. forum
+3. slack
+4. code review
+5. organization
+7. team meetings
 
-* Select “CodingNomads” as the client
+Below is a screencast that shows you how time tracking with TopTracker works in practice:
 
-![Select 'CodingNomads' as client in Toggl](images/toggl_select_client.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kho8-5TcapE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* This gives you an overview of all the time slots that you recorded for us. Please select _“This Month”_ from the time slot selection.
-* Now you can Download a PDF version of this report using the download symbol at the top right of the screen
-
-![Download options for Report Sheets](images/toggle_download.png)
-
-* Attach the generated PDF to your invoice.
-
+Please follow this workflow to keep track of the time you spend working with your student, as your compensation is based on the recorded time.
 
 # Scheduling: Google Calendar
 
