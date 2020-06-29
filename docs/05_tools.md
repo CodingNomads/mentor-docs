@@ -16,7 +16,7 @@ Please add any relevant repeating communications that you might create yourself,
 
 # Time Tracking with TopTracker
 
-Please use the TopTracker time tracker for keeping track of your mentor work time.
+Please use the TopTracker to record the time you spend on mentorship.
 
 ## Get Started With TopTracker
 
@@ -34,13 +34,13 @@ To get started, please follow these steps:
 
 - **Track** time you spent on onboarding under that project
 
-The process of tracking your time for each student you work with will be very similar to this. Let's look in more detail at how the time tracking will work when you've started working with a student in the next section.
+Tracking your mentorship time will work similarly to this. In the next section, you will see in more detail how you will track your mentorship time once you've started working with a student.
 
 ## Track Mentorship Time
 
-Once you started working with a student, we will set up a **Project** with your **student's name** and invite you to it as a freelancer. From then on, you will track the mentorship time you spend related to this student in this student project. If you are working with multiple students, make sure to record your time accordingly.
+Once you started working with a student, we will set up a **Project** with your **student's name** and invite you as a freelancer. From then on, you can track the time you spend mentoring this student in this dedicated project. If you are working with multiple students, make sure to record your time accordingly.
 
-To track the time you work with your student with minimal effort, you can limit your tracking entries to the following:
+To minimize your effort, you can limit your tracking entries to the following keywords:
 
 1. call
 2. forum
@@ -49,11 +49,11 @@ To track the time you work with your student with minimal effort, you can limit 
 5. organization
 7. team meetings
 
-Below is a screencast that shows you how time tracking with TopTracker works in practice:
+Watch this screencast below, which shows you how mentorship time tracking with TopTracker works in practice:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kho8-5TcapE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Please follow this workflow to keep track of the time you spend working with your student, as your compensation is based on the recorded time.
+<br>Please follow this workflow to keep track of the time you spend working with your student. Your compensation is based on the recorded time.
 
 # Scheduling: Google Calendar
 
