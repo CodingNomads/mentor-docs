@@ -191,9 +191,11 @@ Therefore, the “**Outline Report**” allows you to quickly understand where y
 
 # Code Reviews: GitHub
 
-Currently, we use GitHub inline comments for code reviews. Check out the **Forum Post** for suggestions on how to do those.
+Currently, we use GitHub inline comments for code reviews. Check out the **Forum Post** for suggestions on how to give helpful and effective code reviews:
 
 *   [Giving and getting code reviews](http://forum.codingnomads.co/t/about-the-code-reviews-category/38)
+
+If you are not familiar with giving code reviews in GitHub, check out our [Guide on giving GitHub Reviews](14_tips.md#do-code-reviews-on-github).
 
 # Feedback: Trello
 

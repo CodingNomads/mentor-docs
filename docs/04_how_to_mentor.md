@@ -60,11 +60,13 @@ It would be awesome if we together developed ourselves as an elite group of awes
 
 # Code Reviews
 
-We're currently using **GitHub in-line comments** for code review. This gets students more familiar with additional functionality in GitHub and makes it easy for us to provide well-formatted and on-the-spot feedback.
+We're currently using **GitHub in-line comments** for code review. This gets students more familiar with additional functionality in GitHub and makes it easy for us to provide well-formatted and on-the-spot feedback. If you are not familiar with giving code reviews in GitHub, check out our [Guide on giving GitHub Reviews](14_tips.md#do-code-reviews-on-github).
 
-There are some downsides to it. E.g. it's difficult to code review for students who commit code often because a piece of code you are providing feedback on might not be the most recent version.
+**Difficulties**: There are some downsides to this process. E.g. it's difficult to code review for students who commit code often because a piece of code you are providing feedback on might not be the most recent version. What helps with this is to always start at doing your code review on the latest commit.
 
-What helps with this is to always start at doing your code review on the latest commit.
+**Logical Commits**: Generally, advise your students to commit _logical_ pieces of work, e.g. when they finished one lab, or when they finished the labs for one full section of the course. This is a good practice for software development anyways, and helps them get used to working in that way early on.
+
+**Pull Requests**: If your students are more experienced working with GitHub, you can also suggest them to create Pull Requests. PRs squash multiple commits and you can do a proper code review on the changes introduced through the PR, which is optimal for everyone's convenience, as well as closest to real-life software development and code review processes.
 
 # Code Repository Updates
 
