@@ -61,6 +61,8 @@ We use Google Calendar for scheduling. If you don't have a Google account, [plea
 
 If you haven't received an invitation to the shared mentor calendar, please request an invite by writing to <img style="display: inline-block;" alt="contact address for martin" src="../images/email_martin.png"/>.
 
+To make life easier for you, we also recommend using [Calendly](https://calendly.com/). Using their free tier you can specify times you are available, then send your student a link where they can choose a time that fits well for them. Calendly also integrates with Google Calendar.
+
 ## Setting Your Availability
 
 To improve visibility and make it easier to pair students with mentors based on their availability, we ask you to add your general availability to our shared Mentorship Calendar.
