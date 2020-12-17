@@ -6,7 +6,7 @@ Below are more links to relevant sections:
 
 - **[What Mentorship Means To Us](01_requirements.md#what-does-mentorship-mean-to-us)**: Thoughts on why good mentorship can make a huge difference
 - **[How To Be A Great Mentor](04_how_to_mentor.md)**: Thoughts on ways to approach mentorship (more theoretical)
-- **[Mentorship Process Blueprint](03_mentorship_process.md)**: Suggestions and step-by-step tips on how to conduct an effective mentorship session (no need to read further than "Record your video sessions") (more practical)
+- **[Mentorship Process Blueprint](03_mentorship_process.md)**: Suggestions and step-by-step tips on how to conduct an effective mentorship session (more practical)
 - **[Tools For Mentors](05_tools.md)**: Processes, programs and tools that can be helpful to support you when conducting mentorship
 - **[Student Support Checklist](08_checklist.md)**: Quick checklist to keep most important points in mind
 
