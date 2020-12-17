@@ -1,3 +1,18 @@
+# #StayAtHome COVID-19 Mentorship Program
+
+If you are a volunteer mentor with the [#StayAtHome program](https://github.com/CodingNomads/stayathome-mentorship/blob/master/README.md), several sections in these docs will not apply to you. Please feel free to use them as a reference and guide for conducting quality and effective mentorship.
+
+- **Here's the tl;dr page: [Mentorship Practical Tips](14_tips.md)**
+- **Here's a quick FAQ for #StayAtHome Mentors: [StayAtHome Mentorship FAQ](15_home_faq.md)**
+
+And some more links to relevant sections:
+
+- **[What Mentorship Means To Us](01_requirements.md#what-does-mentorship-mean-to-us)**: Thoughts on why good mentorship can make a huge difference
+- **[How To Be A Great Mentor](04_how_to_mentor.md)**: Thoughts on ways to approach mentorship (more theoretical)
+- **[Mentorship Process Blueprint](03_mentorship_process.md)**: Suggestions and step-by-step tips on how to conduct an effective mentorship session (no need to read further than "Record your video sessions") (more practical)
+- **[Tools For Mentors](05_tools.md)**: Processes, programs and tools that can be helpful to support you when conducting mentorship
+- **[Student Support Checklist](08_checklist.md)**: Quick checklist to keep most important points in mind
+
 [TOC]
 
 # Mentorship Tips 
@@ -60,3 +75,5 @@ Yes. Please do.
 # What If My Student/Mentee Is Requiring Too Much Of My Time?
 
 Just let us know and we'll help out immediately.
+
+![#stayathome mentorship thank you webpage](images/stayathome_page.png)

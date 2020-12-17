@@ -1,11 +1,8 @@
-# #StayAtHome COVID-19 Mentorship Program
+# Quick Links
 
-If you are a volunteer mentor with the [#StayAtHome program](https://github.com/CodingNomads/stayathome-mentorship/blob/master/README.md), several sections in these docs will not apply to you. Please feel free to use them as a reference and guide for conducting quality and effective mentorship.
+If you're already a CodingNomads mentor, use the _Search docs_ feature in the top left corner to look for answers. For quick info, check out the tl;dr page: [Mentorship Practical Tips](14_tips.md).
 
-- **Here's the tl;dr page: [Mentorship Practical Tips](14_tips.md)**
-- **Here's a quick FAQ for #StayAtHome Mentors: [StayAtHome Mentorship FAQ](15_home_faq.md)**
-
-And some more links to relevant sections:
+Below are more links to relevant sections:
 
 - **[What Mentorship Means To Us](01_requirements.md#what-does-mentorship-mean-to-us)**: Thoughts on why good mentorship can make a huge difference
 - **[How To Be A Great Mentor](04_how_to_mentor.md)**: Thoughts on ways to approach mentorship (more theoretical)
@@ -13,13 +10,17 @@ And some more links to relevant sections:
 - **[Tools For Mentors](05_tools.md)**: Processes, programs and tools that can be helpful to support you when conducting mentorship
 - **[Student Support Checklist](08_checklist.md)**: Quick checklist to keep most important points in mind
 
-![#stayathome mentorship thank you webpage](images/stayathome_page.png)
-
-The info below is part of our regular mentorship docs, so some of it will not be relevant if you are here for the #StayAtHome Mentorship Effort. Feel free to read on.
-
 ---
 
-# Step-By-Step (Relevant when applying as a regular CodingNomads Mentor)
+# Applying As a CodingNomads Mentor
+
+If you are new to this page and you are interested in mentoring for CodingNomads, please start by watching this short introductory video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ok4Zti5tfHs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+To apply for working with us, please keep on reading below.
+
+## Step-by-Step
 
 Follow these links step-by-step to gather all the info related to being a [CodingNomads](http://codingnomads.co/) Mentor.
 
@@ -41,6 +42,4 @@ This information will be updated as we expand our mentorship program , and we wi
 
 [![CodingNomads Logo](images/cn_logo.png "We are the CodingNomads")](http://codingnomads.co/)
 
-# Mentor Docs Intro
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ok4Zti5tfHs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+We're looking forward to hearing from you!
