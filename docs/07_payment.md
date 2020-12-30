@@ -27,7 +27,7 @@ For mentors who bank within the USA, we use **Zelle** bank transfers.
 *   All we need is the email address associated with your bank account.
 *   If you are not already signed up with Zelle, you will receive an email at the address you provide with directions on how to complete the receipt of your payment.
 
-US citizens must also fill the [Form W-9 for Independent Contractors](https://drive.google.com/file/d/0BxJrtYx-WJMEY2U1RmdvXzJrTHY4Mjlteld1cFkxSTJlaFpR/view?usp=sharing), and email the completed form to Kim: <img style="display: inline-block;" alt="contact address for kim" src="../images/email_kim.png"/>
+US citizens must also fill the [Form W-9 for Independent Contractors](https://www.irs.gov/pub/irs-pdf/fw9.pdf), and email the completed form to Kim: <img style="display: inline-block;" alt="contact address for kim" src="../images/email_kim.png"/>
 
 # Monthly payment process
 
