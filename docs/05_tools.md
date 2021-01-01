@@ -34,6 +34,8 @@ To get started, please follow these steps:
 
 - **Track** time you spent on onboarding under that project
 
+**Skip Payoneer Setup:** We _don't_ use Payoneer for payment. You can skip that section while setting up your TopTracker account.
+
 Tracking your mentorship time will work similarly to this. In the next section, you will see in more detail how you will track your mentorship time once you've started working with a student.
 
 ## Track Mentorship Time
