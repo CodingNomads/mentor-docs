@@ -3,7 +3,6 @@
 A collection of quick how-to guides for using the necessary tools to be an effective CodingNomads Mentor.
 
 <!-- Removing the TOC because it breaks the collapsible side-bar navigation -->
-
 [TOC]
 
 ## Student Communication Templates
