@@ -1,10 +1,10 @@
 # CodingNomads Mentorship Process
 
-This document contains a breakdown of the logistics surrounding our mentorship process, with links to other documents with more in-depth descriptions.
+This document contains a breakdown of the logistics surrounding our mentorship process, with links to other documents that have more in-depth descriptions.
 
 [TOC]
 
-# Starting to work with a student
+## Starting to work with a student
 
 After you've become a part of our Mentor Community, we will want to connect you with students. This happens as follows:
 

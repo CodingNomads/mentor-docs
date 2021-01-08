@@ -4,9 +4,7 @@ Welcome! We're thrilled that you are interested in becoming a Mentor for CodingN
 
 [TOC]
 
-# CodingNomads Mentor Guidelines
-
-## What does mentorship mean to us?
+## What Mentorship Means To Us
 
 At CodingNomads, mentorship means that we care for our students as the individual person they are, and that we try our best to help students have an enjoyable, productive and meaningful learning process.
 
@@ -18,19 +16,19 @@ As a mentor, you know that it's ultimately the student's effort that makes the d
 
 Check in with your students frequently, make them understand that you care for their learning process and that you are available to help. Be polite, positive, fun, and encouraging - and help your students with creating learning plans and sticking to them. Get to know your students, be compassionate, and try your best to improve the learning process for each individual student that you are working with.
 
-In a nutshell, mentorship at CodingNomads is all about caring. When a student knows that they have a mentor who cares about their learning and their progress, it's a game changer. At CodingNomads, we want our mentors to be game changers.
+In a nutshell, mentorship at CodingNomads is all about **caring**. When a student knows that they have a mentor who cares about their learning and their progress, it's a game changer. At CodingNomads, we want our mentors to be game changers.
 
-*   [Mentor Tips](04_how_to_mentor.md)
+- [Mentor Tips](04_how_to_mentor.md)
 
-## What we don't do
+## What We Don't Do
 
-*   We never make our students feel insecure about not knowing something.
-*   We don't assume that a student "should" know something already. If they don't know something, we patiently explain.
-*   We don't discriminate against anyone for any reason.
+- We never make our students feel insecure about not knowing something.
+- We don't assume that a student "should" know something already. If they don't know something, we patiently explain.
+- We don't discriminate against anyone for any reason.
 
 We're all humans here, let's be nice to each other.
 
-## What do we look for in a mentor?
+## What We Look For In A Mentor
 
 We want to work with **mentors who know their topics well and enjoy helping others learn**. If you want to mentor e.g. for our Python course, you should know Python well. If you want to mentor for Java, you should know Java. The course that you are mentoring for should be a rich learning experience for your student, which requires a certain level of expertise and fluidity with the technology.
 

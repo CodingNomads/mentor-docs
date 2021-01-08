@@ -2,7 +2,9 @@
 
 A collection of quick how-to guides for using the necessary tools to be an effective CodingNomads Mentor.
 
-<!-- [TOC] -->
+<!-- Removing the TOC because it breaks the collapsible side-bar navigation -->
+
+[TOC]
 
 ## Student Communication Templates
 
@@ -88,9 +90,7 @@ Sometimes, students will need to cancel or move a meeting. Make sure that this i
 
 ## Video Sessions and Recordings With Zoom
 
-We use **Zoom** for 1-on-1 calls, because it allows screen sharing and screen recording.
-
-Watch the [official video walkthrough](https://www.youtube.com/watch?v=E0XmIIXcrEY) for installing the client and scheduling a meeting.
+We use **Zoom** for 1-on-1 calls, because it allows screen sharing and screen recording. Watch the [official video walkthrough](https://www.youtube.com/watch?v=E0XmIIXcrEY) for installing the client and scheduling a meeting.
 
 ### Set Up Zoom
 
@@ -106,7 +106,7 @@ This screencast and the text below it walk you through how to schedule a meeting
 
 The text below sums up the content of the video in writing, and shows how to schedule the meeting using Zoom's browser extension:
 
-Click _Schedule a meeting_ in the browser extension:
+Click _Schedule a Meeting_ in the browser extension:
 
 ![Scheduling a Zoom meeting from the browser extension](images/zoom_schedule_meeting.png)
 
