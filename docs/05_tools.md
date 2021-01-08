@@ -73,9 +73,13 @@ Calendly can significantly reduce the effort needed to find a time that works fo
 
 ### Recording Meetings On Google Calendar
 
-Every student meeting you have needs to be recorded on the shared **CN Mentorship Calendar**. We use this information to keep track of how far along students are in their subscription.
+Every student meeting you have needs to be recorded on the shared **CN Mentorship Calendar**:
 
-This means for you to:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e-G2UtY97QY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+We use this information to keep track of how far along students are in their subscription.
+
+This means you need to:
 
 - **schedule** every recurring student meeting on this calendar
 - **update** any changes to your student meetings on this calendar
