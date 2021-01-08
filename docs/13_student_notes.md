@@ -1,9 +1,23 @@
-# Student Info/Notes
+# Student Info And Notes
 
 Keeping track of things discussed with students during individual calls, as well as their background and ambitions, to know how to help them progress the best towards their aims.
 
-[TOC]
+Use any note-taking app that you like and that you're familiar with. Some examples of apps that our mentors like are:
 
+- [Obsidian](https://obsidian.md/)
+- [Evernote](https://evernote.com/)
+- [Google Docs](https://docs.google.com/)
+- [Microsoft OneNote](https://www.microsoft.com/de-at/microsoft-365/onenote/digital-note-taking-app)
+
+Here are some examples of what these notes could look like. You don't need to write so much and it's enough to keep track using keywords if that works well for you. Everyone has their own style. Use whatever works best for you to stay on top of your students progress and their aims.
+
+## Example Evernote
+
+![Student notes in Evernote app](images/evernote-notes.png)
+
+## Example Markdown
+
+```md
 # Student Name (_fictional example_)
 
 ## Quick Info
@@ -34,15 +48,22 @@ They skimmed over the exercises and completed some that they didn't know so well
 They are originally from Veenendaal, which is fun for me because I spent two weeks there working with a friend on a startup idea.
 
 They've been working on a Django project before (a course platform, essentially) and they'll keep doing that while brushing up on the topics covered in our course. I introduced that it's very useful that they know something already, and that they'll be able to learn a lot through teaching others on the Forum. They're looking forward to the interactions and discussions. I think it will be helpful to direct them to use the Forums as often as possible since they could provide good contributions AND seem to learn very well through discussing and explaining topics.
+```
 
-# Student Name
+## Template
 
-## Quick Info
+You can use this template, if you're keeping your notes in Markdown.
 
-*
+```md
+## Student Name
 
-## Interests
+### Quick Info
 
-*
+-
 
-## Calls
+### Interests
+
+-
+
+### Calls
+```
