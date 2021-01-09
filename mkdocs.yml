@@ -2,24 +2,24 @@ site_name: CodingNomads Mentor Docs
 site_description: Information on how to deliver a great mentorship experience.
 site_author: Martin Breuss
 nav:
-  - Start Here: README.md
+  - README: README.md
   - Requirements: 01_requirements.md
-  - New Mentors: 02_new_mentors.md
-  - Mentorship Cheatsheet: 03_mentorship_process.md
+  - Onboarding: 02_new_mentors.md
+  - Mentorship: 03_mentorship_process.md
   - Labs & Projects: 04_code_labs.md
-  - On Mentorship: 04_how_to_mentor.md
-  - Mentor Tools: 05_tools.md
+  - Philosophy: 04_how_to_mentor.md
+  - Tools: 05_tools.md
   - Community: 06_community.md
   - Payment: 07_payment.md
   - Checklist: 08_checklist.md
-  - FAQ: 09_faq.md
+  - FAQs: 09_faq.md
   - Feedback: 10_feedback.md
   - Bookmarks: 11_bookmarks.md
   - Templates: 12_templates.md
   - Student Notes: 13_student_notes.md
-  - Mentorship Practical Tips: 14_tips.md
+  - Practical Tips: 14_tips.md
   - StayAtHome FAQ: 15_home_faq.md
-  - Code of Conduct: 16_code_of_conduct.md
+  - Code Of Conduct: 16_code_of_conduct.md
 theme:
   name: readthedocs
   shortcuts:

@@ -1,46 +1,50 @@
-# Coding exercises (Labs & Projects)
+# Coding Exercises (Labs & Projects)
 
 We want our students to **practice coding** as much as possible.
 
 For this, we provide them with:
 
-* Coding Quizzes (in-course)
-* Labs & Projects (GitHub)
+- Coding Quizzes (in-course)
+- Labs & Projects (GitHub)
 
 During your 1:1 calls, **talk with your student about the code they wrote**. Discuss labs and project code, ask them _why_ they solved a challenge how they did, and give them hints about other possible solutions.
 
 In short: **Talk about code!**. It really helps.
 
-## Why code locally?
+## Coding Locally
 
 Unlike most online courses, we don't put our focus on an in-browser coding environment. Our focus is on:
 
-* coding locally
-* in a real-world environment
-* training students to use all the tools and setup they will _actually_ use
+- coding **locally**
+- coding in a **real-world** environment
+- **training** students to use all the tools and setup they will _actually_ use
 
-Therefore, while we provide some auto-graded in-browser exercises, the **Labs & Projects** on GitHub, which students are meant to complete on their own local setup, are more important.
+We provide some auto-graded exercises in the browser, but the **Labs & Projects** on GitHub, which students are meant to complete on their own local setup, are more important.
 
-## Getting the Labs
+## Getting The Labs
 
 Download the labs from the **in-course link** provided in the course you're working with. You can also fetch it here:
 
-* [Python Labs](https://github.com/CodingNomads/python_fundamentals)
-* [Java Labs](https://github.com/CodingNomads/online-java-fundamentals)
+- [Python Labs](https://github.com/CodingNomads/python_fundamentals)
+- [Java Labs](https://github.com/CodingNomads/online-java-fundamentals)
+- [Data Science & Machine Learning Labs](https://github.com/CodingNomads/data-science-machine-learning)
+- [Django Labs](https://github.com/CodingNomads/django-web-dev)
+- [Flask Labs](https://github.com/CodingNomads/flask-labs)
+- [JavaScript Labs](https://github.com/CodingNomads/javascript-labs)
+- [Quant Trading Labs](https://github.com/CodingNomads/quant-trading)
 
-## Getting the Projects
+## Getting The Projects
 
-Project instructions are linked individually when a student reaches a certain section. You can either access them through the course, or download the complete repository here:
+Some project instructions might be linked individually after a student reaches a certain section. You can either access them through the course, or download the complete repository here:
 
-* [Python Projects](https://github.com/CodingNomads/python_miniprojects)
-* Java Projects
+- [Python Projects](https://github.com/CodingNomads/python_miniprojects)
 
-## Solution Code Repository
+## Getting Solution Code
 
 To assist you as a mentor with providing great assistance to your students, we offer <ins>private solution code repositories</ins>:
 
-* [Python Labs & Projects Solutions Repo](https://github.com/martin-martin/python-fundamentals-solutions).
-* Java Labs & Projects Solutions Repo
+- [Python Labs & Projects Solutions Repo](https://github.com/martin-martin/python-fundamentals-solutions)
+- Java Labs & Projects Solutions Repo
 
 You will need to be accepted as a contributor. If you are an active mentor and you don't have access to the relevant repo, please write to <img style="display: inline-block;" alt="contact address for martin" src="../images/email_martin.png"/>.
 

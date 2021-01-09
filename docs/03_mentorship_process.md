@@ -134,7 +134,7 @@ Students can thereby re-watch helpful parts of a meeting. Some students will be 
 
 Recorded sessions also give us the possibility to provide feedback and suggestions to you regarding mentorship. We won't peek into your sessions unless you ask for feedback, or in case there seems to be any trouble. We will always communicate this to you beforehand, and accessing your video recordings will always happen while in communication with you.
 
-# <span style="color: lightgray;">Session Reports (currently optional)</span>
+### <span style="color: lightgray;">Submit Session Reports (currently optional)</span>
 
 <span style="color: lightgray;">
 At the end of each session, we ask you to give a short report on how it went that day.
@@ -151,7 +151,7 @@ At the end of each session, we ask you to give a short report on how it went tha
 
 ## Weekly Mentor Standup
 
-Every Friday, we ask our **active mentors** to complete a quick form. In this form you'll check in about this week's mentorship. You can raise concerns regarding a student's progress, so we can help in intervening quickly.
+Every Friday, we ask our **active mentors** to complete a quick form. In this form you'll check in about this week's mentorship. You can raise concerns regarding a student's progress, so we can help and intervene quickly, if necessary.
 
 <ins>Please make sure to submit this form every week</ins>:
 
@@ -186,8 +186,6 @@ After reviewing your student's capstone project code and letting us know that th
 - **Ask For Satisfaction**: Ask your student if there is anything we can do to make them completely satisfied with our service. We want to provide great mentorship and we want our students to be happy and satisfied. If they have feedback and wishes, let them know we'll do our best and pass on their suggestions to us.
 - **Ask For Reviews**: Reviews are important to help others discover and trust our mentoring services. Ask your student to leave us a review on [SwitchUp](https://www.switchup.org/bootcamps/codingnomads) and [CourseReport](https://www.coursereport.com/schools/codingnomads). They can write one and copy-paste to the other service. This is extremely helpful for getting the word out and building trust for our future students.
 - **Point To Our Community**: Re-iterate that alumni of our courses are very welcome to keep asking and answering questions on our [Forum](http://forum.codingnomads.co/) and our chat community. They can keep reaching out to us and other students. We would love for them to be an active part of the CodingNomads community.
-
----
 
 ## Troubleshooting
 

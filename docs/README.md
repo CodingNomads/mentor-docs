@@ -1,4 +1,8 @@
-# Quick Links
+# CodingNomads Mentor Docs
+
+This resource contains information for active and prospective CodingNomads Mentors.
+
+## Quick Links
 
 If you're already a CodingNomads mentor, use the _Search docs_ feature in the top left corner to look for answers. For quick info, check out the tl;dr page: [Mentorship Practical Tips](14_tips.md).
 
@@ -10,9 +14,7 @@ Below are more links to relevant sections:
 - 🛠 **[Tools For Mentors](05_tools.md)**: Processes, programs and tools that can be helpful to support you when conducting mentorship
 - ✅ **[Student Support Checklist](08_checklist.md)**: Quick checklist to keep most important points in mind
 
----
-
-# Applying As a CodingNomads Mentor
+## Mentor Application
 
 If you are new to this page and you are interested in mentoring for CodingNomads, please start by watching this short introductory video:
 
@@ -20,7 +22,7 @@ If you are new to this page and you are interested in mentoring for CodingNomads
 
 To apply for working with us, please keep on reading below.
 
-## Step-by-Step
+## Step-by-Step Application Process
 
 Follow these links step-by-step to gather all the info related to being a [CodingNomads](http://codingnomads.co/) Mentor.
 
