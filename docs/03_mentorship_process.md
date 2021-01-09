@@ -12,9 +12,9 @@ After you've become a part of our Mentor community, we will want to connect you 
 2. **Student Info**: Once you accept, we'll send you the student's background info.
 3. **First Contact**: We send a shared email to both you and your student, to introduce you and establish the initial contact.
 4. **Orientation Call**: You reach out to your new mentee in order to schedule an orientation call. Please send them a calendar invite and the contact method you'll use to get in touch. [Calendly](https://calendly.com/) is a useful tool to help you find a common time slot.
-5. **Recurring Weekly Call**: During your orientation call, you will schedule your [standing weekly 1-on-1 call](03_mentorship_process.md#core-duty-#2-weekly-1-on-1-calls) with your student.
+5. **Recurring Weekly Call**: During your orientation call, you will schedule your [standing weekly 1-on-1 call](03_mentorship_process.md#core-duty-2-weekly-1-on-1-calls) with your student.
 
-**Note:** We use Zoom to record all meetings for the student and our records. Here's info on [Using Zoom for scheduling, video sessions, and recordings](05_tools.md#video-sessions-and-recordings-zoom).
+**Note:** We use Zoom to record all meetings for the student and our records. Here's info on [Using Zoom for scheduling, video sessions, and recordings](05_tools.md#video-sessions-and-recordings-with-zoom).
 
 ### Orientation Call
 
@@ -33,7 +33,7 @@ After you've become a part of our Mentor community, we will want to connect you 
 Our students need to know that **you are with them and care for their progress**:
 
 - **Reach out to them regularly** to ask how things are going
-- Stay up-to-date with their **progress** using their [Outline Report](05_toold.md#progress-check-ins-with-the-learning-platform)
+- Stay up-to-date with their **progress** using their [Outline Report](05_tools.md#progress-check-ins-with-the-learning-platform)
 - **Share** an interesting link with them
 
 We want each of our mentors to **make every student feel truly supported**. If possible, think of your students more as friends rather than sticking to a stiff and formal student-teacher relationship.
@@ -72,7 +72,7 @@ Knowing where your students are currently at, what they have succeeded to do and
 
 Our platform offers ways to stay up-to-date with your students' progress. Here are instructions on how to find your students' progress logs. Please **bookmark** these pages for quick access:
 
-- [How to find your student's progress log](05_toold.md#progress-check-ins-with-the-learning-platform)
+- [How to find your student's progress log](05_tools.md#progress-check-ins-with-the-learning-platform)
 
 Before your call, make sure to check where your student is at. This will also help you find topics to discuss if your student doesn't have any specific questions.
 
