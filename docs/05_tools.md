@@ -1,9 +1,20 @@
 # Tools for CodingNomads Mentors
 
-A collection of quick how-to guides for using the necessary tools to be an effective CodingNomads Mentor.
+This page contains a collection of quick how-to guides for using the necessary tools to be an effective CodingNomads Mentor. It starts of with a list of the absolutely essential tools, then describes different tools and how to use them in more detail.
 
-<!-- Removing the TOC because it breaks the collapsible side-bar navigation -->
 [TOC]
+
+## Essential Software
+
+You'll need these tools in order to be able to mentor a CodingNomads student:
+
+- [TopTracker](05_tools.md#time-tracking-with-toptracker)
+- [Google Calendar](05_tools.md#recording-meetings-on-google-calendar) with access to _CN Mentorship_ calendar
+- [Zoom](05_tools.md#video-sessions-and-recordings-with-zoom)
+- [Google Photos](05_tools.md#storage-with-google-photos)
+- [Learning Platform](05_tools.mdprogress-check-ins-with-the-learning-platform)
+
+Please make sure to install these programs and request access, where necessary. You'll find more detailed description in the dedicated sections.
 
 ## Student Communication Templates
 
@@ -93,9 +104,13 @@ We use **Zoom** for 1-on-1 calls, because it allows screen sharing and screen re
 
 ### Set Up Zoom
 
+Follow the official steps to get started with Zoom:
+
 1. [Download Zoom client](https://zoom.us/download)
 2. [Install the browser extension](https://zoom.us/download) (same page, further down)
 3. Connect your Google account
+
+Installing the browser extension is optional, and you can schedule all your meetings directly from the Zoom client, if you prefer.
 
 ### Schedule A Student Meeting
 
@@ -205,7 +220,9 @@ Uploading the screen recordings of your 1:1 sessions allows your students to che
 
 You'll need to keep track of how your student is progressing through the course materials in order to give them actionable feedback and help them keep moving.
 
-To find your students' progress logs, go to the course page on the CodingNomads learning platform. You'll see a button in the top left called _Participants_. Click it:
+Make sure that you have an active account on the [CodingNomads learning platform](https://platform.codingnomads.co/learn/). After you've completed onboarding, you'll get upgraded to the role of _Non-editing Teacher_ to be able to access everything. If you need that access and don't have it yet, please contact <img style="display: inline-block;" alt="contact address for martin" src="../images/email_martin.png"/>.
+
+To find your students' **progress logs**, go to the main course page of your course. You'll see a button in the top left called _Participants_. Click it:
 
 ![Access Participants](images/report_participants.png)
 

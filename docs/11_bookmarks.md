@@ -18,6 +18,13 @@ This page contains **resources that you will need frequently**. Please copy the 
 - <span style="color:lightgray;">[Session Report Form](https://docs.google.com/forms/d/e/1FAIpQLSfcYcVSnGAIhEB4wNr4tURIqQ_6lRa0xo7ARpWeDuhFq9a7bA/viewform)</span>
 - [Weekly Mentor Standup](https://docs.google.com/forms/d/e/1FAIpQLSdZEKcxX9ZYE-M1P8xZ8Wuipkt2W2lE1ArtZCUUO6z1pOtuRA/viewform)
 
+## Essential Software
+
+- [TopTracker](05_tools.md#time-tracking-with-toptracker)
+- [Google Calendar](05_tools.md#recording-meetings-on-google-calendar) with access to _CN Mentorship_ calendar
+- [Zoom](05_tools.md#video-sessions-and-recordings-with-zoom)
+- [Google Photos](05_tools.md#storage-with-google-photos)
+
 ## Other Links
 
 - [Mentorship Docs](README.md)
