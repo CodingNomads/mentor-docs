@@ -24,6 +24,7 @@ This page contains **resources that you will need frequently**. Please copy the 
 - [Google Calendar](05_tools.md#recording-meetings-on-google-calendar) with access to _CN Mentorship_ calendar
 - [Zoom](05_tools.md#video-sessions-and-recordings-with-zoom)
 - [Google Photos](05_tools.md#storage-with-google-photos)
+- [GitHub](05_tools.md#code-reviews-with-github)
 
 ## Other Links
 

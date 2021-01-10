@@ -13,18 +13,9 @@ You'll need these tools in order to be able to mentor a CodingNomads student:
 - [Zoom](05_tools.md#video-sessions-and-recordings-with-zoom)
 - [Google Photos](05_tools.md#storage-with-google-photos)
 - [Learning Platform](05_tools.mdprogress-check-ins-with-the-learning-platform)
+- [GitHub](05_tools.md#code-reviews-with-github)
 
 Please make sure to install these programs and request access, where necessary. You'll find more detailed description in the dedicated sections.
-
-## Student Communication Templates
-
-You can set communication snippets up as [Gmail templates](https://www.lifewire.com/how-to-set-up-and-use-email-templates-in-gmail-1172103) or copy-paste the content from the resource linked below. Please replace the fields marked with `{ALL_CAPS}`.
-
-Feel free to personalize as much as you want to. These templates are meant to make it quicker for you to get started communicating with your students, but _personal_ communication is priceless for good mentorship results.
-
-- [Student Communication Templates](12_templates.md)
-
-Please add any relevant repeating communications that you create so that other mentors can benefit from it, or let us know when you think that something is missing.
 
 ## Time Tracking With TopTracker
 
@@ -287,6 +278,16 @@ A Trello card can include:
 ![Trello card displaying different formatting possibilities](images/trello_card.png)
 
 Please **add yourself as a Member to the card** so that it will be easier for us to get in contact if we need more information.
+
+## Student Communication Templates
+
+You can set communication snippets up as [Gmail templates](https://www.lifewire.com/how-to-set-up-and-use-email-templates-in-gmail-1172103) or copy-paste the content from the resource linked below. Please replace the fields marked with `{ALL_CAPS}`.
+
+Feel free to personalize as much as you want to. These templates are meant to make it quicker for you to get started communicating with your students, but _personal_ communication is priceless for good mentorship results.
+
+- [Student Communication Templates](12_templates.md)
+
+Please add any relevant repeating communications that you create so that other mentors can benefit from it, or let us know when you think that something is missing.
 
 ## Other Useful Tools
 
