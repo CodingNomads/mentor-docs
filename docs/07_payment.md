@@ -6,20 +6,19 @@
 
 For mentors who bank outside of the USA, we use **TransferWise** bank transfers, which charge the lowest recipient fee (~ 1%) and best exchange rate than any other service we've found.
 
-Please **send us the following information**:
+We need the following information from you to complete your payment. The most secure way to share this information is over the phone, so please schedule a phone call with Kim to provide your payment information.
 
 - Full name as listed on your bank account
 - Residential address on your bank account
-  - Street address
-  - City
-  - Country
-  - Postal code
+    - Street address
+    - City
+    - Country
+    - Postal code
 - Bank account number / IBAN
-- Currency type (must be a currency other than USD)
+- Currency type
 - Name of bank
 - SWIFT-BIC code for your bank
-
-This information allows us to send your payment your way.
+- Any other country-specific banking information (e.g. for CAD and GBP)
 
 ## Mentors With A US Bank Account
 
@@ -35,14 +34,14 @@ US citizens must also fill the [Form W-9 for Independent Contractors](https://ww
 
 ## Monthly Payment Process
 
-To receive payment, it is only necessary that you have your time tracked with TopTracker.
+To receive payment, it is only necessary that you have your time tracked with TopTracker. TopTracker automatically sends us an invoice each month for each of your students (projects).
 
 Please keep the following in mind:
 
 - **Time Tracking:** Since you are keeping time in TopTracker and we have access to these time entries, you don't need to send us anything additional once we have your payment details.
 - **Hour Matching:** Please make sure that the hours on your TopTracker report accurately reflect the time you worked.
 
-We will process your invoice no later than the 15th day of the month.
+We will process your invoice no later than the 15th day of the following month.
 
 For example: For the hours you worked in **December**, you will be paid by **January 15**.
 
