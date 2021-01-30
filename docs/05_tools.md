@@ -9,7 +9,7 @@ This page contains a collection of quick how-to guides for using the necessary t
 You'll need these tools in order to be able to mentor a CodingNomads student:
 
 - [TopTracker](05_tools.md#time-tracking-with-toptracker)
-- [Google Calendar](05_tools.md#recording-meetings-on-google-calendar) with access to _CN Mentorship_ calendar
+- [Google Calendar](05_tools.md#recording-meetings-on-google-calendar)
 - [Zoom](05_tools.md#video-sessions-and-recordings-with-zoom)
 - [Google Photos](05_tools.md#storage-with-google-photos)
 - [Learning Platform](05_tools.mdprogress-check-ins-with-the-learning-platform)
@@ -62,9 +62,7 @@ Please follow this workflow to keep track of the time you spend working with you
 
 ## Scheduling With Google Calendar
 
-You'll use **Google Calendar** for scheduling your student calls. If you don't have a Google account, please [sign up for one](https://accounts.google.com/signup/v2/webcreateaccount?service=cl&continue=https%3A%2F%2Fcalendar.google.com%2Fcalendar%2Frender&gmb=exp&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp) and accept the invite to our shared mentor calendar.
-
-If you haven't received an invitation to the shared mentor calendar, please request an invite by writing to <img style="display: inline-block;" alt="contact address for martin" src="../images/email_martin.png"/>.
+You'll use **Google Calendar** for scheduling your student calls. If you don't have a Google account, please [sign up for one](https://accounts.google.com/signup/v2/webcreateaccount?service=cl&continue=https%3A%2F%2Fcalendar.google.com%2Fcalendar%2Frender&gmb=exp&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp).
 
 ### Booking Meetings With Calendly
 
@@ -76,18 +74,14 @@ Calendly can significantly reduce the effort needed to find a time that works fo
 
 ### Recording Meetings On Google Calendar
 
-Every student meeting you have needs to be recorded on the shared **CN Mentorship Calendar**:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e-G2UtY97QY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-We use this information to keep track of how far along students are in their subscription.
+Every student meeting you have needs to be recorded on our **CN Scheduling Calendar** at `calendar@codingnomads.co`. We use this information to keep track of how far along students are in their subscription.
 
 This means you need to:
 
-- **schedule** every recurring student meeting on this calendar
-- **update** any changes to your student meetings on this calendar
+- **invite** `calendar@codingnomads.co` as a _Guest_ to every recurring student meeting
+- **update** any changes to your student meetings on these shared calendar events
 
-Sometimes, students will need to cancel or move a meeting. Make sure that this is reflected on the _CN Mentorship Calendar_. **We can only guarantee payment for meetings that show up on this calendar.**
+Sometimes, students will need to cancel or move a meeting. Make sure that this is reflected on the calendar event that `calendar@codingnomads.co` is added to as a _Guest_. **We can only guarantee payment for meetings that show up on this calendar.**
 
 ## Video Sessions and Recordings With Zoom
 
