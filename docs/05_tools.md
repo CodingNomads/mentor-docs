@@ -31,7 +31,7 @@ To get started, please follow these steps:
 
 ![Screenshot of creating a new project on TopTracker](images/toptracker_onboarding.png)
 
-- **Invite** Ryan or Martin to the project as a _Supervisor_
+- **Invite** `admin@codingnomads.co` to the project as a _Supervisor_
 
 ![Screenshot of inviting a supervisor to a project](images/toptracker_invite.png)
 
