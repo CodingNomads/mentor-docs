@@ -28,6 +28,7 @@ To get started, please follow these steps:
 - **Sign up** for a free account by clicking _Get Started as a Freelancer_.
 - **Notify** Ryan or Martin to add you to the _Onboarding_ project. You'll receive an invitation from `admin@codingnomads.co` to join the project called _Onboarding_ as a _Freelancer_.
 - **Track** the time you spend on onboarding under that project. You can also add manual time entries, for the time you tracked before we managed to invite you to the project.
+- **Download** [TopTracker for Desktop](https://www.toptal.com/tracker), if you prefer to track your time in a dedicated app.
 
 **Skip Payoneer Setup:** We _don't_ use Payoneer for payment. You can skip that section while setting up your TopTracker account.
 
