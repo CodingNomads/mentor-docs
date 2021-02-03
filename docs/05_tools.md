@@ -25,17 +25,9 @@ Please use **TopTracker** to record your time spent mentoring.
 
 To get started, please follow these steps:
 
-- **Download** [TopTracker for Desktop](https://www.toptal.com/tracker)
-- **Sign up** for a free account by clicking _Get Started as a Freelancer_
-- **Create** a new Project called _Onboarding_
-
-![Screenshot of creating a new project on TopTracker](images/toptracker_onboarding.png)
-
-- **Invite** `admin@codingnomads.co` to the project as a _Supervisor_
-
-![Screenshot of inviting a supervisor to a project](images/toptracker_invite.png)
-
-- **Track** time you spent on onboarding under that project
+- **Sign up** for a free account by clicking _Get Started as a Freelancer_.
+- **Notify** Ryan or Martin to add you to the _Onboarding_ project. You'll receive an invitation from `admin@codingnomads.co` to join the project called _Onboarding_ as a _Freelancer_.
+- **Track** the time you spend on onboarding under that project. You can also add manual time entries, for the time you tracked before we managed to invite you to the project.
 
 **Skip Payoneer Setup:** We _don't_ use Payoneer for payment. You can skip that section while setting up your TopTracker account.
 
@@ -43,7 +35,7 @@ Tracking your mentorship time will work similarly. In the next section, you'll s
 
 ### Track Mentorship Time
 
-Once you've started working with a student, we will set up a **Project** with your **student's name** and invite you as a freelancer. From then on, you'll track the time you spend mentoring this student in this dedicated project. If you are working with multiple students, make sure to record your time for each student in the right project.
+Once you've started working with a student, we will set up a **Project** with your **student's name** and invite you as a _Freelancer_. From then on, you'll track the time you spend mentoring this student in their dedicated project. If you are working with multiple students, make sure to record your time for each student in the right project.
 
 To minimize your effort, you can limit your tracking entries to the following keywords:
 
