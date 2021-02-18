@@ -55,3 +55,17 @@ Learning new things only happens through struggle, training, and repetition. The
 Prompt your students to trust the process, encourage them to keep trying themselves as well as consult [our forum](https://forum.codingnomads.co/) and you as their mentor for support and tips.
 
 Make it clear to them that you are **trained to assist them in figuring out the solution by themselves** - which is the only way to increase their understanding and skills.
+
+## Getting Additional Practice
+
+Please encourage your students to also use external coding practice tools. You may be familiar with a site that you enjoy using yourself. Introduce your student to them, form teams, and check on their progress. Whatever tool makes your student practice coding is a great addition to their learning process.
+
+Here are a few external sites that you can consider for additional coding practice exercises:
+
+- <a href='https://codingbat.com/' target='_blank'>CodingBat</a>
+- <a href='https://www.hackerrank.com/auth/signup' target='_blank'>HackerRank</a>
+- <a href='https://adventofcode.com/' target='_blank'>Advent of Code</a>
+- <a href='https://leetcode.com/' target='_blank'>LeetCode</a>
+- <a href='http://www.pythontutor.com/visualize.html' target='_blank'>Python Tutor</a>
+
+Please add any of your own favorites via a PR. :)
