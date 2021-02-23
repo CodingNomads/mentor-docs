@@ -67,5 +67,6 @@ Here are a few external sites that you can consider for additional coding practi
 - <a href='https://adventofcode.com/' target='_blank'>Advent of Code</a>
 - <a href='https://leetcode.com/' target='_blank'>LeetCode</a>
 - <a href='http://www.pythontutor.com/visualize.html' target='_blank'>Python Tutor</a>
+- <a href-'https://www.codingame.com/start' target='_blank'>Codingame</a>
 
 Please add any of your own favorites via a PR. :)
