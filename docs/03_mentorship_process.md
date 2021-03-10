@@ -84,7 +84,7 @@ Most mentored courses include at least one larger project, called the **capstone
 - **Answer** question they have, and help them with finding solutions.
 - Code **review** their project code thoroughly.
 
-We suggest you to <a href='14_tips.md#do-code-reviews-on-github' target='_blank'>do your code reviews on GitHub</a>, as this will additionally prepare your students for the real-world experience of receiving code reviews directly in their code on GitHub, as well as to help them practice the process associated with that.
+We suggest you to [do your code reviews on GitHub](14_tips.md#do-code-reviews-on-github), as this will additionally prepare your students for the real-world experience of receiving code reviews directly in their code on GitHub, as well as to help them practice the process associated with that.
 
 This will be the largest project your students have worked on so far, so be patient and supportive and help them to get it done. There's nothing quite as useful and motivating as having a completed project that you built by yourself :)
 
