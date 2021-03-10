@@ -76,13 +76,27 @@ Our platform offers ways to stay up-to-date with your students' progress. Here a
 
 Before your call, make sure to check where your student is at. This will also help you find topics to discuss if your student doesn't have any specific questions.
 
-### Grade Student Submissions
+### Code Review The Capstone Project
 
-Our platform includes auto-graded submissions and other types of submissions that are meant to be manually graded.
+Most mentored courses include at least one larger project, called the **capstone** project. This project makes your students put the content they are learning into practice. Your responsibility as their mentor is to support them through their work on the capstone project:
+
+- **Push** them to keep working on it and get it done.
+- **Answer** question they have, and help them with finding solutions.
+- Code **review** their project code thoroughly.
+
+We suggest you to <a href='14_tips.md#do-code-reviews-on-github' target='_blank'>do your code reviews on GitHub</a>, as this will additionally prepare your students for the real-world experience of receiving code reviews directly in their code on GitHub, as well as to help them practice the process associated with that.
+
+This will be the largest project your students have worked on so far, so be patient and supportive and help them to get it done. There's nothing quite as useful and motivating as having a completed project that you built by yourself :)
+
+### Grade Platform Submissions
+
+Our platform includes some auto-graded submissions (quizzes) and other types of submissions that are meant to be manually graded (assignments).
 
 We are planning to include some form of grading into the mentor's responsibilities since it's motivating for students to see written feedback and encouragement regarding their submissions when done by a thoughtful and supportive mentor.
 
-However, the way these manual submissions are currently set up is only as **check-in points for students**. Therefore, **you do not currently need to grade student submissions**.
+However, the way these manual submissions are currently set up is only as **check-in points** for students. Therefore, you do not currently need to grade student submissions.
+
+Please make sure to give your students feedback if they ask about any of their submissions, and pro-actively check in with them on whether they want to discuss any of the code they submitted.
 
 ## CORE DUTY #2: Weekly 1-On-1 Calls
 
@@ -179,13 +193,16 @@ To stay up-to-date with our students' progress on the organization team, we ask 
 
 ### The Final Call
 
-After reviewing your student's capstone project code and letting us know that they have completed the course, you'll go on a final close-out call with your student. Similar to your intro call, this call will be a little different than your other 1:1s. Here are some helpful tips to keep in mind:
+After [reviewing your student's capstone project code](#code-review-the-capstone-project) and **letting us know** that they have completed the course, you'll go on a final close-out call with your student. Similar to your intro call, this call will be a little different than your other 1:1s. Here are some helpful tips to keep in mind:
 
 - **It's The End**: Clearly state to your student that the upcoming call will be your final call. This gives them a chance to revisit topics and assemble some questions that might still linger on their minds.
+- **Request Certificate**: Each course includes a Google form at the end that students can submit to request their completion certificate. Encourage them to fill this form if you assess that they have put in the work and completed the course.
 - **Give Pointers**: By the time your final call comes around, you will know your student's interests well, so you're encouraged to provide them with tips and suggestions on how to continue their learning journey following their interests.
 - **Ask For Satisfaction**: Ask your student if there is anything we can do to make them completely satisfied with our service. We want to provide great mentorship and we want our students to be happy and satisfied. If they have feedback and wishes, let them know we'll do our best and pass on their suggestions to us.
 - **Ask For Reviews**: Reviews are important to help others discover and trust our mentoring services. Ask your student to leave us a review on [SwitchUp](https://www.switchup.org/bootcamps/codingnomads) and [CourseReport](https://www.coursereport.com/schools/codingnomads). They can write one and copy-paste to the other service. This is extremely helpful for getting the word out and building trust for our future students.
 - **Point To Our Community**: Re-iterate that alumni of our courses are very welcome to keep asking and answering questions on our [Forum](http://forum.codingnomads.co/) and our chat community. They can keep reaching out to us and other students. We would love for them to be an active part of the CodingNomads community.
+
+Please make sure to encourage your student to submit the Google form to request a certificate of completion, if you assess that they have put in the work and completed the course. **Let us know** over chat or email that your student is ready to graduate! 🎉
 
 ## Troubleshooting
 
