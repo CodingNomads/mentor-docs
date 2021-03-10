@@ -68,5 +68,6 @@ Here are a few external sites that you can consider for additional coding practi
 - <a href='https://leetcode.com/' target='_blank'>LeetCode</a>
 - <a href='http://www.pythontutor.com/visualize.html' target='_blank'>Python Tutor</a>
 - <a href='https://www.codingame.com/start' target='_blank'>CodinGame</a>
+- <a href='https://challenges.aquaq.co.uk/' target='_blank'>AquaQ Challenge Hub</a>
 
 Please add any of your own favorites via a PR. :)
