@@ -23,4 +23,4 @@ Please add your feedback and suggestions in the appropriate board:
 
 If you have a solution to an issue on there, or a suggestion for improvements that you want to build it for us, let's talk! **We value and respect the technical skills of our mentors**!
 
-Reach out to me at <img style="display: inline-block;" alt="contact address for martin" src="../images/email_martin.png"/>.
+Reach out to me at <img style="display: inline-block;" alt="contact address for ryan" src="../images/email_ryan.png"/>.

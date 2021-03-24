@@ -210,9 +210,9 @@ Check out our [FAQ page](09_faq.md).
 
 ## Mentor Support And Questions
 
-If anything regarding the mentorship process is unclear and isn't covered by this document, or if something else went wrong that you need to talk to someone about directly, please feel free to reach out on Slack to me (@Martin Breuss) or Ryan (@Ryan Desmond) or per email: <img style="display: inline-block;" alt="contact address for martin" src="../images/email_martin.png"/>.
+If anything regarding the mentorship process is unclear and isn't covered by this document, or if something else went wrong that you need to talk to someone about directly, please feel free to reach out on Slack to me (@Martin Breuss) or Ryan (@Ryan Desmond) or per email: <img style="display: inline-block;" alt="contact address for ryan" src="../images/email_ryan.png"/>.
 
 If you have questions in regards to your payment, or the payment process in general, please reach out to <img style="display: inline-block;" alt="contact address for kim" src="../images/email_kim.png"/>.
 
-- **Mentorship Contact**: <img style="display: inline-block;" alt="contact address for martin" src="../images/email_martin.png"/>
+- **Mentorship Contact**: <img style="display: inline-block;" alt="contact address for ryan" src="../images/email_ryan.png"/>
 - **Payment Contact**: <img style="display: inline-block;" alt="contact address for kim" src="../images/email_kim.png"/>

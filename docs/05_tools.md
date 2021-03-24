@@ -180,7 +180,7 @@ Name the album with your name and your student's name:
 
 ![Name the new folder](images/photos_create.png)
 
-Share the album with that student as well as with <img style="display: inline-block;" alt="contact address for martin" src="../images/email_martin.png"/>:
+Share the album with that student as well as with <img style="display: inline-block;" alt="contact address for ryan" src="../images/email_ryan.png"/>:
 
 ![Share folder with student and metamentor](images/photos_invite.png)
 
@@ -198,7 +198,7 @@ Uploading the screen recordings of your 1:1 sessions allows your students to che
 
 You'll need to keep track of how your student is progressing through the course materials in order to give them actionable feedback and help them keep moving.
 
-Make sure that you have an active account on the [CodingNomads learning platform](https://platform.codingnomads.co/learn/). After you've completed onboarding, you'll get upgraded to the role of _Non-editing Teacher_ to be able to access everything. If you need that access and don't have it yet, please contact <img style="display: inline-block;" alt="contact address for martin" src="../images/email_martin.png"/>.
+Make sure that you have an active account on the [CodingNomads learning platform](https://platform.codingnomads.co/learn/). After you've completed onboarding, you'll get upgraded to the role of _Non-editing Teacher_ to be able to access everything. If you need that access and don't have it yet, please contact <img style="display: inline-block;" alt="contact address for ryan" src="../images/email_ryan.png"/>.
 
 To find your students' **progress logs**, go to the main course page of your course. You'll see a button in the top left called _Participants_. Click it:
 

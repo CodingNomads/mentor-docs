@@ -14,7 +14,7 @@ Write an email to <img style="display: inline-block;" alt="contact address for k
 
 ## Whom To Contact Regarding General Mentorship Questions?
 
-Write an email to <img style="display: inline-block;" alt="contact address for martin" src="../images/email_martin.png"/> or ping me on slack @Martin Breuss.
+Write an email to <img style="display: inline-block;" alt="contact address for ryan" src="../images/email_ryan.png"/> or ping me on slack @Ryan Desmond.
 
 ## My Student Didn't Show During Scheduled 1-On-1 Calls
 
@@ -32,13 +32,13 @@ You have no obligation to reschedule any meeting with the student if it happens 
 
 Please understand that we can't pay for extra time spent scheduling calls, which is why we'd like to avoid it as much as possible. This is also why we strongly suggest to set up firm and clear meeting times with your students.
 
-If rescheduling happens **often**, please let the student know that they should find a different time slot for your 1-on-1 call. Also, please inform me at <img style="display: inline-block;" alt="contact address for martin" src="../images/email_martin.png"/>.
+If rescheduling happens **often**, please let the student know that they should find a different time slot for your 1-on-1 call. Also, please inform me at <img style="display: inline-block;" alt="contact address for ryan" src="../images/email_ryan.png"/>.
 
 ## My Student Has Not Responded Since x Time
 
 Some students need a tad more encouragement than others. Please attempt to get and stay in contact with your mentee even if they seem unresponsive. Ask them if there's any way you can help (coding-related or maybe with time management tips), send encouraging words, an interesting link or a funny coding-related meme.
 
-However, if you haven't heard back from your mentee in 2 weeks, please reach out to <img style="display: inline-block;" alt="contact address for martin" src="../images/email_martin.png"/>.
+However, if you haven't heard back from your mentee in 2 weeks, please reach out to <img style="display: inline-block;" alt="contact address for ryan" src="../images/email_ryan.png"/>.
 
 ## The Website Says Students Get Unlimited Support - How Much Time Should I Invest?
 

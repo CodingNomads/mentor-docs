@@ -46,7 +46,7 @@ To assist you as a mentor with providing great assistance to your students, we o
 - [Python Labs & Projects Solutions Repo](https://github.com/martin-martin/python-fundamentals-solutions)
 - Java Labs & Projects Solutions Repo
 
-You will need to be accepted as a contributor. If you are an active mentor and you don't have access to the relevant repo, please write to <img style="display: inline-block;" alt="contact address for martin" src="../images/email_martin.png"/>.
+You will need to be accepted as a contributor. If you are an active mentor and you don't have access to the relevant repo, please write to <img style="display: inline-block;" alt="contact address for ryan" src="../images/email_ryan.png"/>.
 
 **NOTE: Please avoid giving students answers directly!**
 

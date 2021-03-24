@@ -10,7 +10,7 @@ Use our mentor slack channel and our [mentor-related Forum](http://forum.codingn
 
 ### Slack Channel
 
-We have a mentor-only slack channel called **#mentors-internal**. If you haven't been added, please contact <img style="display: inline-block;" alt="contact address for martin" src="../images/email_martin.png"/>.
+We have a mentor-only slack channel called **#mentors-internal**. If you haven't been added, please contact <img style="display: inline-block;" alt="contact address for ryan" src="../images/email_ryan.png"/>.
 
 To make sure you're posting in the right channel, I'd suggest to _star_ the channel so it remains pinned to the top of your channel list:
 
@@ -22,7 +22,7 @@ Please remember that information in our slack channels is _ephemeral_. Anything 
 
 Our forum has a _Staff_ section that is invisible to students. Use the _Mentorship_ category to post and discuss ideas with your fellow mentors and the rest of our team.
 
-If you don't have access to this section, please contact <img style="display: inline-block;" alt="contact address for martin" src="../images/email_martin.png"/>.
+If you don't have access to this section, please contact <img style="display: inline-block;" alt="contact address for ryan" src="../images/email_ryan.png"/>.
 
 - [Mentorship category on the Forum](http://forum.codingnomads.co/c/staff/mentorship)
 
