@@ -51,7 +51,10 @@ Watch the screencast below, which shows you how mentorship time tracking with To
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kho8-5TcapE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Please follow this workflow to keep track of the time you spend working with your student. **Your compensation is based on the recorded time.**
+Please follow this workflow to keep track of the time you spend working with your student. **Your compensation is based on the recorded time, and the invoices you generate (see next step).**
+
+### Track Mentorship Time
+On the 1st day of each month, please generate an invoice for **each of your TopTracker projects** by going into each project, adjusting the dates to the first and last day of the previous month, and generating the invoice.
 
 ## Scheduling With Google Calendar
 
