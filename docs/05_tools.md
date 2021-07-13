@@ -53,8 +53,20 @@ Watch the screencast below, which shows you how mentorship time tracking with To
 
 Please follow this workflow to keep track of the time you spend working with your student. **Your compensation is based on the recorded time, and the invoices you generate (see next step).**
 
-### Track Mentorship Time
-On the 1st day of each month, please generate an invoice for **each of your TopTracker projects** by going into each project, adjusting the dates to the first and last day of the previous month, and generating the invoice.
+### Generate and Submit Your Invoices
+
+On the first day of each month, please submit an invoice for each of your TopTracker projects for the previous month. Please see the screenshot below for this process, and refer to the [Monthly Payment Process](07_payment.md#monthly-payment-process) for more details about invoicing and payments.
+
+1. Click _Invoices_ tab on the left
+2. Click the green button called _Create Invoice_ in the top right 
+3. Select the project you want to invoice for
+4. Adjust dates to the first and last day of the previous month
+5. Click _Save Draft_ and _Preview_ in the bottom right
+6. Click _Send Invoice_
+
+![Select Dates for TopTracker Invoice](images/toptracker_select_dates.png)
+
+You need to submit a separate invoice for each of your students. Please submit all invoices each month in order to get paid.
 
 ## Scheduling With Google Calendar
 

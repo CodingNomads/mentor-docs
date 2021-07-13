@@ -34,16 +34,25 @@ US citizens must also fill the [Form W-9 for Independent Contractors](https://ww
 
 ## Monthly Payment Process
 
-To receive payment, it is only necessary that you have your time tracked with TopTracker. TopTracker automatically sends us an invoice each month for each of your students (projects).
+On the first day of each month, please go into your TopTracker _Invoices_ section, then create and submit an invoice for each of your projects for the previous month:
+
+![Select Dates for TopTracker Invoice](images/toptracker_select_dates.png)
+
+We will process invoices two times at the beginning of each month:
+
+1. If you submit your invoices by the 1st, you'll get paid by the 10th or sooner.
+2. If you submit by the 10th, you'll get paid by the 15th.
+
+For example, for the hours you invoiced from December, you will be paid by January 15.
+
+If you don't submit by the 10th, you won't get paid until the next month's invoicing cycle, or the month after you choose to submit your invoices.
+
+Please help us keep this process efficient by remembering to submit your invoices, so we can pay you faster! Ultimately it is up to you to submit your invoices on time to get paid on time.
 
 Please keep the following in mind:
 
-- **Time Tracking:** Since you are keeping time in TopTracker and we have access to these time entries, you don't need to send us anything additional once we have your payment details.
-- **Hour Matching:** Please make sure that the hours on your TopTracker report accurately reflect the time you worked.
-
-We will process your invoice no later than the 15th day of the following month.
-
-For example: For the hours you worked in **December**, you will be paid by **January 15**.
+- **Time Tracking:** Since you are keeping time in TopTracker and we have access to these time entries, you don't need to send us anything additional once we have your payment details - just the monthly invoice generated for each project.
+- **Hour Matching:** Please make sure that the hours on your TopTracker report accurately reflect the time you worked.
 
 ## Payment Support
 
