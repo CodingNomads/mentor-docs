@@ -89,7 +89,9 @@ This means you need to:
 - **invite** `calendar@codingnomads.co` as a _Guest_ to every recurring student meeting
 - **update** any changes to your student meetings on these shared calendar events
 
-Sometimes, students will need to cancel or move a meeting. Make sure that this is reflected on the calendar event that `calendar@codingnomads.co` is added to as a _Guest_. **We can only guarantee payment for meetings that show up on this calendar.**
+Sometimes, students will need to cancel or move a meeting. Make sure that this is reflected on the calendar event that `calendar@codingnomads.co` is added to as a _Guest_.
+
+**We can only guarantee payment for meetings that show up on this calendar.**
 
 ## Video Sessions and Recordings With Zoom
 
