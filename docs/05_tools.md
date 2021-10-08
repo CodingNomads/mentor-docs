@@ -12,7 +12,7 @@ You'll need these tools in order to be able to mentor a CodingNomads student:
 - [Google Calendar](05_tools.md#recording-meetings-on-google-calendar)
 - [Zoom](05_tools.md#video-sessions-and-recordings-with-zoom)
 - [Google Photos](05_tools.md#storage-with-google-photos)
-- [Learning Platform](05_tools.mdprogress-check-ins-with-the-learning-platform)
+- [Learning Platform](05_tools.md#progress-check-ins-with-the-learning-platform)
 - [GitHub](05_tools.md#code-reviews-with-github)
 
 Please make sure to install these programs and request access, where necessary. You'll find more detailed description in the dedicated sections.
