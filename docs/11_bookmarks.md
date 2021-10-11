@@ -31,4 +31,3 @@ This page contains **resources that you will need frequently**. Please copy the 
 - [Mentorship Docs](README.md)
 - [Google Calendar](https://calendar.google.com/) - Make sure you have access to the "**CN Mentorship**" calendar
 - [Mentorship Forum category](http://forum.codingnomads.co/c/staff/mentorship)
-- [Feedback Trello Boards](https://trello.com/cnsuggestions1/home)

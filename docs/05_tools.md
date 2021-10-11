@@ -249,39 +249,6 @@ We use GitHub inline comments for code reviews. Check out the forum post [Giving
 
 If you are not familiar with giving code reviews in GitHub, check out our [Guide on giving GitHub Reviews](14_tips.md#do-code-reviews-on-github).
 
-## Feedback With Trello
-
-We welcome your feedback and suggestions! To keep them organized, please add them to the relevant [Feedback Trello Boards](https://trello.com/cnsuggestions1/home).
-
-Once you complete onboarding, we will add you to the CN Feedback team so you can access the board home page.
-
-![Trello Home overview of feedback boards](images/trello_home.png)
-
-Each board has the same structure with the following columns:
-
-- Backlog
-- Doing
-- Done
-- Wishlist
-
-![Trello Board structure](images/trello_board.png)
-
-Please add your bug reports to _Backlog_ and your improvement suggestions to _Wishlist_.
-
-Include every useful piece of information that you can provide, to make it easier for us to tackle the challenge.
-
-A Trello card can include:
-
-- Comments
-- Screenshots
-- Links to course sections
-- Links with more info, code repos, etc.
-- Labels
-- Members
-
-![Trello card displaying different formatting possibilities](images/trello_card.png)
-
-Please **add yourself as a Member to the card** so that it will be easier for us to get in contact if we need more information.
 
 ## Student Communication Templates
 
