@@ -11,7 +11,7 @@ After you've become a part of our Mentor community, we will want to connect you 
 1. **Availability**: We reach out to you to see if you're available to take on a new student.
 2. **Student Info**: Once you accept, we'll send you the student's background info.
 3. **First Contact**: We send a shared email to both you and your student, to introduce you and establish the initial contact.
-4. **First Call**: You reach out to your new mentee to schedule your first call, which is a full-time mentor call. Please send them a calendar invite and the contact method you'll use to get in touch. [Calendly](https://calendly.com/) is a useful tool to help you find a common time slot.
+4. **First Call**: You reach out to your new mentee to schedule your first call, which is a full-time mentor call. Please send a calendar invite to the student and calendar@codingnomads.co, and the contact method you'll use to get in touch. [Calendly](https://calendly.com/) is a useful tool to help you find a common time slot.
 5. **Recurring Weekly Call**: During your first call, you will schedule your [standing weekly 1-on-1 call](03_mentorship_process.md#core-duty-2-weekly-1-on-1-calls) with your student.
 
 **Note:** We use Zoom to record all meetings for the student and our records. Here's info on [Using Zoom for scheduling, video sessions, and recordings](05_tools.md#video-sessions-and-recordings-with-zoom).
