@@ -12,7 +12,9 @@ Please submit your 1) IRS form and 2) Direct Deposit Authorization Form to <img 
 
 If you are a US citizen or resident, have a US social security number / ITIN, and/or you file a tax return in the United States, please complete, sign, and send to CodingNomads:
 
-1. [IRS form W-9](https://www.irs.gov/pub/irs-pdf/fw9.pdf) for independent contractors. Next year (by January 31), we will provide you with form 1099-NEC to file your US taxes.
+1. [IRS form W-9](https://www.irs.gov/pub/irs-pdf/fw9.pdf) for independent contractors. Next year by January 31, if you billed more than $600 in the previous year, we will provide you with form 1099-NEC to file on your US taxes. 
+
+Please be aware that in general, after your first year of contracting, the IRS expects you to submit quarterly estimated tax payments. If you do not pay estimated taxes, the IRS may charge penalties when you file your annual return. Not to be a buzz kill, but...chat with your accountant or Kim if you have questions about that.
 2. [Direct Deposit Authorization Form](https://drive.google.com/file/d/1MsYAWVkjDAfRB5Au7BKbMmRLh2KyuC72/view?usp=sharing) using the following instructions:
 
 ### If you have Zelle
