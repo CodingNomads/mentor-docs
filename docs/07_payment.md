@@ -1,36 +1,35 @@
-# Payment Information
+# Payment & Tax Information
+
+This page contains information and required forms regarding your US tax filing status and how you get paid - hooray!
+
+Please review the information below that corresponds with your US tax status.
 
 [TOC]
 
-## Mentors Without A US Bank Account
+Please submit your 1) IRS form and 2) Direct Deposit Authorization Form to <img style="display: inline-block;" alt="contact address for kim" src="../images/email_kim.png"/>. For added security, please share these docs in a Google Drive Folder, or send via a secure file sharing system like Dropbox.
 
-For mentors who bank outside of the USA, we use **TransferWise** bank transfers, which charge the lowest recipient fee (~ 1%) and best exchange rate than any other service we've found.
+## US Citizens/Residents
 
-We need the following information from you to complete your payment. The most secure way to share this information is over the phone, so please schedule a phone call with Kim to provide your payment information.
+If you are a US citizen or resident, have a US social security number / ITIN, and/or you file a tax return in the United States, please complete, sign, and send to CodingNomads:
 
-- Full name as listed on your bank account
-- Residential address on your bank account
-    - Street address
-    - City
-    - Country
-    - Postal code
-- Bank account number / IBAN
-- Currency type
-- Name of bank
-- SWIFT-BIC code for your bank
-- Any other country-specific banking information (e.g. for CAD and GBP)
+1. [IRS form W-9](https://www.irs.gov/pub/irs-pdf/fw9.pdf) for independent contractors. Next year (by January 31), we will provide you with form 1099-NEC to file your US taxes.
+2. [Direct Deposit Authorization Form](https://drive.google.com/file/d/1MsYAWVkjDAfRB5Au7BKbMmRLh2KyuC72/view?usp=sharing) using the following instructions:
 
-## Mentors With A US Bank Account
+### If you have Zelle
 
-For mentors who bank within the USA, we use **Zelle** bank transfers.
+For US contractors we typically pay by Zelle ACH transfers, which are free of charge. Zelle partners with most major US banks, and must be linked to your checking account (not your debit card).
 
-To send you payment, we only need:
+If you have a Zelle email address / phone number, please include it in the Direct Deposit Form. Zelle members do not need to provide your personal banking information in the Form.
 
-- the **email address** associated with your bank account
+### If you don’t have Zelle
 
-If you are not already signed up with Zelle, you will receive an email at the address you provide with directions on how to complete the receipt of your payment.
+If you do not have Zelle, we pay by Wise ACH bank transfers, which charge the recipient a <1% fee. Please fill out all of your information in the Direct Deposit Form to receive ACH transfers.
 
-US citizens must also fill the [Form W-9 for Independent Contractors](https://www.irs.gov/pub/irs-pdf/fw9.pdf), and email the completed form to Kim: <img style="display: inline-block;" alt="contact address for kim" src="../images/email_kim.png"/>
+## Non US Citizens/Residents
+
+If you are not a US Citizen or resident, and you do NOT file a tax return in the US, please complete, sign, and send to CodingNomads:
+
+1. [Direct Deposit Authorization Form](https://drive.google.com/file/d/1MsYAWVkjDAfRB5Au7BKbMmRLh2KyuC72/view?usp=sharing). For international contractors, we pay by Wise ACH bank transfers. Wise charges the lowest recipient fee (~1%) and offers the best exchange rates of any other service we've found.
 
 ## Monthly Payment Process
 
