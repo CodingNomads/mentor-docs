@@ -26,11 +26,9 @@ Record 25 minutes in your TopTracker activities and make sure to mention it was 
 
 ## My Student Wants To Reschedule With Prior Notice
 
-If a student needs to reschedule one of their meetings and does so with adequate prior notice (12 hours or more), we'd encourage you to find a new time with them. Life can get in the way, and as long as this is an exception, and you can manage to make time in your own schedule, we want to support students to have their mentor calls. You can add 5 minutes of billable time via TopTracker for each reschedule. That said, we expect reschedules to be rare.
+If a student needs to reschedule one of their meetings and does so with adequate prior notice (12 hours or more), we'd encourage you to find a new time with them. Life can get in the way, and as long as this is an exception, and you can manage to make time in your own schedule, we want to support students to have their mentor calls. You can bill for 5-10 minutes for each reschedule if needed. That said, we hope and expect reschedules to be rare.
 
 You have no obligation to reschedule any meeting with the student if it happens outside of the agreed-upon time slot. We understand that you have other work to do, and we want to set clear examples to avoid time spent on scheduling wherever possible. If you do want to reschedule, it is at your own discretion to do so.
-
-Please understand that we can't pay for extra time spent scheduling calls, which is why we'd like to avoid it as much as possible. This is also why we strongly suggest to set up firm and clear meeting times with your students.
 
 If rescheduling happens **often**, please let the student know that they should find a different time slot for your 1-on-1 call. Also, please inform me at <img style="display: inline-block;" alt="contact address for ryan" src="../images/email_ryan.png"/>.
 
