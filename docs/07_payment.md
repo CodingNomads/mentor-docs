@@ -1,8 +1,8 @@
 # Payment & Tax Information
 
-This page contains information and required forms regarding your US tax filing status and how you get paid - hooray!
+This page contains information and required forms regarding tax filing status and how you get paid - hooray!
 
-Please review the information below that corresponds with your US tax status.
+Please review the information below that corresponds with your tax status.
 
 [TOC]
 
