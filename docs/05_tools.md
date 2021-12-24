@@ -1,6 +1,6 @@
 # Tools for CodingNomads Mentors
 
-This page contains a collection of quick how-to guides for using the necessary tools to be an effective CodingNomads Mentor. It starts of with a list of the absolutely essential tools, then describes how to use them in more detail.
+This page contains a collection of quick how-to guides for using the necessary tools to be an effective CodingNomads Mentor. It starts with a list of the absolutely essential tools, then describes how to use them in more detail.
 
 [TOC]
 
@@ -14,7 +14,7 @@ You'll need these tools in order to be able to mentor a CodingNomads student:
 - [Learning Platform](05_tools.md#progress-check-ins-with-the-learning-platform)
 - [GitHub](05_tools.md#code-reviews-with-github)
 
-Please make sure to install these programs and request access where necessary. You'll find more detailed description in the dedicated sections.
+Please make sure to install these programs and request access where necessary. You'll find more detailed descriptions in the dedicated sections.
 
 ## Time Tracking With TopTracker
 
@@ -43,13 +43,17 @@ To minimize your effort, you can limit your tracking entries to the following ke
 4. code review
 5. organization
 
-We will also invite you to two projects called **mentor_admin** and "Community Support".  Mentor admin can be used miscellaneous administrative activities such as internal meetings (e.g., meetings with Ryan). "Community Support" can be used to answer questions on the forum or the general slack channels (i.e., supporting students that aren't assigned to you). Please add a note in TopTracker that specifies what you're doing during this time (e.g., "meeting with Ryan").
+We will also invite you to two projects called "mentor_admin" and "Community Support". Mentor_admin can be used for miscellaneous administrative activities such as internal meetings (e.g., meeting with Ryan). “Community Support” can be used to answer questions on the forum or the general slack channels (i.e., helping students for which you don’t have a specific project). When charging to these two projects, please be as specific as possible in the TopTracker activity description. For example: “supporting Tiffany on Slack, connecting to databases, general JDBC” or “responded to this question: https://forum.codingnomads.co/t/lab-9-data-wrangle-a-dataset/1244”
 
 Watch the screencast below, which shows you how mentorship time tracking with TopTracker works in practice:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kho8-5TcapE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Please follow this workflow to keep track of the time you spend working with your student. **Your compensation is based on the recorded time, and the invoices you generate (see next step).**
+
+### Wait, but what if I forget turn on my tracker?  Or, even worse, forget to turn it off?
+TopTracker allows you to manually add, edit, or delete time.
+
 
 ### Generate and Submit Your Invoices
 
