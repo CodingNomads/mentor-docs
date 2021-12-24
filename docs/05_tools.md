@@ -1,6 +1,6 @@
 # Tools for CodingNomads Mentors
 
-This page contains a collection of quick how-to guides for using the necessary tools to be an effective CodingNomads Mentor. It starts of with a list of the absolutely essential tools, then describes different tools and how to use them in more detail.
+This page contains a collection of quick how-to guides for using the necessary tools to be an effective CodingNomads Mentor. It starts of with a list of the absolutely essential tools, then describes how to use them in more detail.
 
 [TOC]
 
@@ -11,11 +11,10 @@ You'll need these tools in order to be able to mentor a CodingNomads student:
 - [TopTracker](05_tools.md#time-tracking-with-toptracker)
 - [Google Calendar](05_tools.md#recording-meetings-on-google-calendar)
 - [Zoom](05_tools.md#video-sessions-and-recordings-with-zoom)
-- [Google Photos](05_tools.md#storage-with-google-photos)
 - [Learning Platform](05_tools.md#progress-check-ins-with-the-learning-platform)
 - [GitHub](05_tools.md#code-reviews-with-github)
 
-Please make sure to install these programs and request access, where necessary. You'll find more detailed description in the dedicated sections.
+Please make sure to install these programs and request access where necessary. You'll find more detailed description in the dedicated sections.
 
 ## Time Tracking With TopTracker
 
@@ -26,17 +25,15 @@ Please use **TopTracker** to record your time spent mentoring.
 To get started, please follow these steps:
 
 - **Sign up** for a free account by clicking _Get Started as a Freelancer_.
-- **Notify** Ryan or Martin to add you to the _Onboarding_ project. You'll receive an invitation from `admin@codingnomads.co` to join the project called _Onboarding_ as a _Freelancer_.
+- **Notify** Jared (or Ryan) to add you to the _Onboarding_ project. You'll receive an invitation from `admin@codingnomads.co` to join the project called _Onboarding_ as a _Freelancer_.
 - **Track** the time you spend on onboarding under that project. You can also add manual time entries, for the time you tracked before we managed to invite you to the project.
 - **Download** [TopTracker for Desktop](https://www.toptal.com/tracker), if you prefer to track your time in a dedicated app.
 
 **Skip Payoneer Setup:** We _don't_ use Payoneer for payment. You can skip that section while setting up your TopTracker account.
 
-Tracking your mentorship time will work similarly. In the next section, you'll see how you'll track your mentorship time once you've started working with a student.
-
 ### Track Mentorship Time
 
-Once you've started working with a student, we will set up a **Project** with your **student's name** and invite you as a _Freelancer_. From then on, you'll track the time you spend mentoring this student in their dedicated project. If you are working with multiple students, make sure to record your time for each student in the right project.
+Once you've started working with a student, we will set up a **Project** with your **student's name** and invite you as a _Freelancer_. From then on, you'll track the time you spend mentoring this student in their dedicated project. If you are working with multiple students, make sure to record your time for each student in the correct project. 
 
 To minimize your effort, you can limit your tracking entries to the following keywords:
 
@@ -45,7 +42,8 @@ To minimize your effort, you can limit your tracking entries to the following ke
 3. slack
 4. code review
 5. organization
-6. team meetings
+
+We will also invite you to two projects called **mentor_admin** and "Community Support".  Mentor admin can be used miscellaneous administrative activities such as internal meetings (e.g., meetings with Ryan). "Community Support" can be used to answer questions on the forum or the general slack channels (i.e., supporting students that aren't assigned to you). Please add a note in TopTracker that specifies what you're doing during this time (e.g., "meeting with Ryan").
 
 Watch the screencast below, which shows you how mentorship time tracking with TopTracker works in practice:
 
@@ -72,11 +70,15 @@ You need to submit a separate invoice for each of your students. Please submit a
 
 You'll use **Google Calendar** for scheduling your student calls. If you don't have a Google account, please [sign up for one](https://accounts.google.com/signup/v2/webcreateaccount?service=cl&continue=https%3A%2F%2Fcalendar.google.com%2Fcalendar%2Frender&gmb=exp&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp).
 
+**Always invite "calendar@codingnomads.co" to all meetings** 
+
+**Also Please include the student's name in the meeting title**.  For example "Ryan and Michael". This helps us to keep track of the student's meetings.   
+
 ### Booking Meetings With Calendly
 
 To make life easier for you, you can use [Calendly](https://calendly.com/). It's a handy tool that allows you to block out your availability and let students book meeting times with you through a shareable link.
 
-Using their free tier you can specify the times you are available for meetings, then send your student a link where they can choose a time that fits well for them. They can then book a meeting with you at that time that works for you both.
+Using their free tier, you can specify the times you are available for meetings, then send your student a link where they can choose a time that works for them.
 
 Calendly can significantly reduce the effort needed to find a time that works for both you and your students. It also integrates with Google Calendar.
 
@@ -86,12 +88,14 @@ Every student meeting you have needs to be recorded on our **CN Scheduling Calen
 
 This means you need to:
 
-- **invite** `calendar@codingnomads.co` as a _Guest_ to every recurring student meeting
+- **invite** `calendar@codingnomads.co` to every student meeting
 - **update** any changes to your student meetings on these shared calendar events
 
-Sometimes, students will need to cancel or move a meeting. Make sure that this is reflected on the calendar event that `calendar@codingnomads.co` is added to as a _Guest_.
+Sometimes, students will need to cancel or move a meeting. Make sure to update the calendar by moving or deleting the meeting.
 
 **We can only guarantee payment for meetings that show up on this calendar.**
+
+You will also be invited to a calendar invite that represents the student's last week at CodingNomads.  If you and your student decide not to meet one week, please update the calendar to add a week to the student's program.  For example, if your student requests a week off for christmas (encouraged!), and their last date is January 1st, then update the calendar to show that their last date is now January 8th.  If there is any confusion on this topic, please ask Jared or Michael. 
 
 ## Video Sessions and Recordings With Zoom
 
@@ -123,8 +127,6 @@ You'll see the Zoom settings dialog pop up:
 
 ![Zoom setting dialog](images/zoom_settings.png)
 
-You can select _Record the meeting automatically on the local computer_ so you won't have to remember to hit the _Record_ button when you start a student meeting.
-
 Click _Continue_. Zoom will take you to a Google Calendar event creation dialogue that has the Zoom-related information already filled in.
 
 Set the meeting time and use the scheduling options to make it a recurring meeting:
@@ -141,75 +143,9 @@ Finally, invite your student by adding their email address and send the message:
 
 Your Zoom link will be included in the calendar invite the student receives. Double-check that the meeting you set up is a recurring event, and that it's recorded in the _CN Mentorship Calendar_. It should appear in that calendar also for the coming week.
 
-### Record A 1-On-1 Session
+### Recording 1-On-1 Sessions
 
-If you set the meeting to record automatically, as suggested above, you can skip the first steps. When your meeting begins, make sure that the recording is running.
-
-If you did _not_ set up the automatic recording, click _Record_ -> _Record on this computer_ or click the _Record_ button in the options bar at the bottom once your student meeting has started:
-
-![Start recording by pressing the Record button](images/zoom_hit_record.png)
-
-Once your call is finished, click _End Meeting_ and then _End Meeting for all_:
-
-![Ending a Zoom meeting](images/zoom_end.png)
-
-You'll then get a pop-up telling you that the video is being processed:
-
-![Zoom converting the video after ending the call](images/zoom_converting.png)
-
-When the processing is done, the recording will be in your `~/Documents/Zoom/` folder, titled with the date of your session. Each session will have its own folder with a few files in it:
-
-![Files generated by Zoom](images/zoom_file.png)
-
-The only file you need is the `.mp4` file, that you'll upload to the shared folder.
-
-### Upload The Recorded Session
-
-Please rename the `zoom_0.mp4` file with a self-explanatory title, e.g.: `date_studentname_topic.mp4`:
-
-![Renamed zoom recording file](images/zoom_file_rename.png)
-
-Then upload the recording to your shared Google Photos album (see below) by simply dragging it there.
-
-After the video has finished uploading, you can delete it from your local machine.
-
-## Storage With Google Photos
-
-Google Photos allows free video uploads and storage for the video resolution that we are working with. That means the screen recordings won't count against your Google storage space quota.
-
-The screencast below walks you through:
-
-- how to **set up** a new Google Photos **album**
-- how to **share it** with us and your student
-- how to **upload** a recorded session
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/auJFJgR_sa4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-The text below walks you through the same topics of the screencast in written form.
-
-Navigate to [Google Photos](https://photos.google.com/) (and sign in to your account if necessary).
-
-Create a new **Shared Album** in your Google Photos account **for each student**:
-
-![Creating a new shared album](images/photos_shared_album.png)
-
-Name the album with your name and your student's name:
-
-![Name the new folder](images/photos_create.png)
-
-Share the album with that student as well as with <img style="display: inline-block;" alt="contact address for ryan" src="../images/email_ryan.png"/>:
-
-![Share folder with student and metamentor](images/photos_invite.png)
-
-When sharing the folder, you can add the following message to the invite:
-
-> _Hi! This is our shared album where you'll be able to access the screen recordings of our 1-on-1 sessions._
-
-**Upload the Zoom recordings** of meetings with that student to the student-specific albums by dragging the file onto the open album window:
-
-![Upload recorded video to shared folder](images/photos_upload.png)
-
-Uploading the screen recordings of your 1:1 sessions allows your students to check back on topics that you discussed and helps them in their learning process.
+We used to ask mentors to record every meeting: **this is no longer required**  Instead, please encourage your students to record sessions if they'd like to.
 
 ## Progress Check-Ins With The Learning Platform
 
