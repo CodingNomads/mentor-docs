@@ -16,6 +16,11 @@ Write an email to <img style="display: inline-block;" alt="contact address for k
 
 Write an email to <img style="display: inline-block;" alt="contact address for michael" src="../images/email_michael.png"/> or ping @Michael on slack.
 
+## What if I forget turn on my tracker?!  Or, even worse, forget to turn it off?
+On its web application, in the "my activities" tab, TopTracker allows you to manually add, edit, or delete time.
+
+<img style="display: inline-block;" alt="how to edit time on TopTracker" src="../images/edit_time.png"/> 
+
 ## My Student Didn't Show During Scheduled 1-On-1 Calls
 
 Your meeting time slot should be on a **fixed time every week**. If a student does not show up for your meeting and doesn't contact you more than 12 hours ahead of your meeting time, this will be considered a **no-show**.
