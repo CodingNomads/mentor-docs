@@ -51,8 +51,10 @@ Watch the screencast below, which shows you how mentorship time tracking with To
 
 Please follow this workflow to keep track of the time you spend working with your student. **Your compensation is based on the recorded time, and the invoices you generate (see next step).**
 
-### Wait, but what if I forget turn on my tracker?  Or, even worse, forget to turn it off?
-TopTracker allows you to manually add, edit, or delete time.
+### Wait, but what if I forget turn on my tracker?!  Or, even worse, forget to turn it off?
+On its web application, in the "my activities" tab, TopTracker allows you to manually add, edit, or delete time.
+
+<img style="display: inline-block;" alt="how to edit time on TopTracker" src="../images/esit_time.png"/> 
 
 
 ### Generate and Submit Your Invoices
