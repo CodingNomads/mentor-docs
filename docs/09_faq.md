@@ -19,7 +19,7 @@ Write an email to <img style="display: inline-block;" alt="contact address for m
 ## What if I forget turn on my tracker?!  Or, even worse, forget to turn it off?
 On its web application, in the "my activities" tab, TopTracker allows you to manually add, edit, or delete time.
 
-<img style="display: inline-block;" alt="how to edit time on TopTracker" src="../images/edit_time.png"/> 
+<img style="display: inline-block;" alt="how to edit time on TopTracker" src="../images/editing_time.png"/> 
 
 ## My Student Didn't Show During Scheduled 1-On-1 Calls
 
