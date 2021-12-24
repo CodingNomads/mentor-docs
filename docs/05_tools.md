@@ -43,14 +43,15 @@ To minimize your effort, you can limit your tracking entries to the following ke
 4. code review
 5. organization
 
-### Mentor_Admin and Community Support Projects
-We will also invite you to two projects called "mentor_admin" and "Community Support". Mentor_admin can be used for miscellaneous administrative activities such as internal meetings (e.g., meeting with Ryan). “Community Support” can be used to answer questions on the forum or the general slack channels (i.e., helping students for which you don’t have a specific project). When charging to these two projects, please be as specific as possible in the TopTracker activity description. For example: “supporting Tiffany on Slack, connecting to databases, general JDBC” or “responded to this question: https://forum.codingnomads.co/t/lab-9-data-wrangle-a-dataset/1244”
 
 Watch the screencast below, which shows you how mentorship time tracking with TopTracker works in practice:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kho8-5TcapE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Please follow this workflow to keep track of the time you spend working with your student. **Your compensation is based on the recorded time, and the invoices you generate (see next step).**
+
+### Mentor_Admin and Community Support Projects
+We will also invite you to two projects called "mentor_admin" and "Community Support". Mentor_admin can be used for miscellaneous administrative activities such as internal meetings (e.g., meeting with Ryan). “Community Support” can be used to answer questions on the forum or the general slack channels (i.e., helping students for which you don’t have a specific project). When charging to these two projects, please be as specific as possible in the TopTracker activity description. For example: “supporting Tiffany on Slack, connecting to databases, general JDBC” or “responded to this question: https://forum.codingnomads.co/t/lab-9-data-wrangle-a-dataset/1244”
 
 ### Wait, but what if I forget turn on my tracker?!  Or, even worse, forget to turn it off?
 On its web application, in the "my activities" tab, TopTracker allows you to manually add, edit, or delete time.
