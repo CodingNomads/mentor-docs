@@ -68,3 +68,12 @@ You can also set up an agreement with your student that they check in with you e
 Also, ask them to share their GitHub account with you. You can subscribe to be notified when they push updates, which makes it easier for you to keep track of their progress with the labs.
 
 > Being up-to-date with your students' progress helps to build an understanding of their knowledge and blind spots.
+
+## For What Tasks Do I Charge To The _Mentor Admin_, and _Community Support_ Projects?
+
+**Student Project** - Anything directly related to supporting your student. For example, meetings, follow-ups, meeting prep, code reviews, researching & sending additional resources, scheduling, Slack, etc.
+
+**Mentor_Admin** - Items not directly related to student support, but needed to get the job done. For example, completing student report logs, mentor stand-ups, internal communication / meetings with CodingNomads, etc.
+
+**Community Support** - Anything related to supporting the community! This includes making posts / responding to posts on CodingNomads' forum and Slack for students who you are not billing for, attending CN community events, etc.
+Onboarding - Time needed to go through CN Mentor Onboarding Docs & Checklist, and review course materials as needed.

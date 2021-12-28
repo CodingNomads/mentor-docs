@@ -48,7 +48,7 @@ Watch the screencast below, which shows you how mentorship time tracking with To
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kho8-5TcapE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Please follow this workflow to keep track of the time you spend working with your student. **Your compensation is based on the recorded time, and the invoices you generate (see next step).**
+Please follow this workflow to keep track of the time you spend working with your student. **Your compensation is based on the recorded tixme, and the invoices you generate (see next step).**
 
 ### Mentor_Admin and Community Support Projects
 We will also invite you to two projects called _mentor_admin_ and _Community Support_. _Mentor_admin_ can be used for miscellaneous administrative activities such as internal meetings (e.g., _Python Mentors Meeting_). _Community Support_ can be used to answer questions on the forum or the general slack channels (i.e., helping students for which you don’t have a specific project). 

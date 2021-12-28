@@ -15,12 +15,12 @@ During your paid onboarding time, you are expected to use this time to complete 
   - **Explore TopTracker** and go through the process of recording your time
 - **Log in** to our **learning platform** and get familiar with its navigation, as well as where you can keep track of students' progress
 - **Skim** over the whole course content, so that you understand the course structure, which topics we discuss, and how we approach them
-- **Clone** the relevant GitHub repository that contains the labs for your course and look into the code to make sure you understand the instructions
+- **Clone** the relevant GitHub repository(s) that contain(s) the labs for your course(s) and look into the code to make sure you understand the instructions
 - **Sign up** for and introduce yourself on our Discussion **Forum**
 
-You don't need to go through the course that you're mentoring for in depth. However, you should already be familiar with the topics the course covers.
+You don't need to go through the course for which you're mentoring in depth. However, you should already be familiar with the topics the course covers.
 
-It is your responsibility to know what the course contains and what the students are learning each week. Also, make sure that you are familiar with the associated labs on GitHub, so you'll be able to guide your students' through their questions efficiently.
+It is your responsibility to know what the course contains and what the students are learning each week. Also, make sure that you are familiar with the associated labs on GitHub, so you'll be able to guide your students' through their questions efficiently.  Also, make sure you have access to the labs' solutions.
 
 As their mentor and guide you need to be aware of your students' tasks as well as their progress.
 

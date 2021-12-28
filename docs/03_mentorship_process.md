@@ -1,6 +1,6 @@
 # CodingNomads Mentorship Process
 
-This document contains a breakdown of the logistics surrounding our mentorship process, with links to other documents that have more in-depth descriptions.
+This document contains a breakdown of the logistics surrounding our mentorship process, with links to other documents that have in-depth descriptions.
 
 [TOC]
 
