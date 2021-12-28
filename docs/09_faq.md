@@ -75,3 +75,5 @@ Also, ask them to share their GitHub account with you. You can subscribe to be n
 
 **Community Support** - Anything related to supporting the community! This includes making posts / responding to posts on CodingNomads' forum and Slack for students who you are not billing for, attending CN community events, etc.
 
+If you have any doubts about how or what to charge, please contact Kim, Michael, Ryan, or Jared!
+
