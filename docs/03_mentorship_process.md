@@ -4,23 +4,23 @@ This document contains a breakdown of the logistics surrounding our mentorship p
 
 [TOC]
 
-## Start To Work With A Student
+## Starting To Work With A Student
 
-After you've become a part of our Mentor community, we will want to connect you with students. This happens as follows:
+After you've become a part of our mentor community, we will want to connect you with students. This happens as follows:
 
 1. **Availability**: We reach out to you to see if you're available to take on a new student.
 2. **Student Info**: Once you accept, we'll send you the student's background info.
-3. **First Contact**: We send a shared email to both you and your student, to introduce you and establish the initial contact.
-4. **First Call**: You reach out to your new mentee to schedule your first call, which is a full-time mentor call. Please send a calendar invite to the student and calendar@codingnomads.co, and the contact method you'll use to get in touch. [Calendly](https://calendly.com/) is a useful tool to help you find a common time slot.
+3. **First Contact**: We send a shared email to both you and your student, to establish the initial contact.
+4. **First Call**: You reach out to your student to schedule your first call, which is a full-time mentor call. Please send a calendar invite to the student and calendar@codingnomads.co, and the contact method you'll use to get in touch. [Calendly](https://calendly.com/) is a useful tool to help you find a common time slot.
 5. **Recurring Weekly Call**: During your first call, you will schedule your [standing weekly 1-on-1 call](03_mentorship_process.md#core-duty-2-weekly-1-on-1-calls) with your student.
 
 **Note:** We use Zoom to record all meetings for the student and our records. Here's info on [Using Zoom for scheduling, video sessions, and recordings](05_tools.md#video-sessions-and-recordings-with-zoom).
 
 ### First Call
 
-**Preparation**: Before your first call, ask the students per email to make as much progress on the beginning sections of the course (machine setup etc.) as possible. This will make your first meeting more productive - a great way for the student to kick off!
+**Preparation**: Before your first call, ask the students to make as much progress on the beginning sections of the course (machine setup etc.) as possible. This will make your first meeting more productive - a great way for the student to kick off!
 
-**Introduction**: Since this will be the first time that you and your mentee meet face-to-face, take 10-15 minutes  to get to know them and discuss their goals and expectations for the course. Setting clear expectations as well as clearly knowing _why_ the student is taking the course is helpful for themselves, as well as for you, in order to better keep them accountable.
+**Introduction**: Since this will be the first time that you and your student meet face-to-face, take 10-15 minutes  to get to know them and discuss their goals and expectations for the course. Setting clear expectations as well as clearly knowing _why_ the student is taking the course is helpful for themselves, as well as for you, in order to better keep them accountable.
 
 **Screen-Sharing**: Next dive right into letting them share their screen. Make sure they’ve got everything installed correctly, IDE downloaded, labs open in the IDE and able to run applications and push their work to GitHub. Help them fix what might still be missing. If there is extra time, go further into using Git or getting cozy working with their IDE.
 
@@ -29,33 +29,31 @@ After you've become a part of our Mentor community, we will want to connect you 
 
 ## CORE DUTY #1: Make Your Support Felt
 
-Our students need to know that **you are with them and care for their progress**:
+Our students need to know that **you are with them and care about their progress**:
 
 - **Reach out to them regularly** to ask how things are going
 - Stay up-to-date with their **progress** using their [Outline Report](05_tools.md#progress-check-ins-with-the-learning-platform)
 - **Share** an interesting link with them
 
-We want each of our mentors to **make every student feel truly supported**. If possible, think of your students more as friends rather than sticking to a stiff and formal student-teacher relationship.
+We want each of our mentors to **make every student feel truly supported**. If possible, think of your students more as friends rather than sticking to a stiff, formal student-teacher relationship.
 
-Like good friends, we want students to feel that we are here for them when they need us. Laughter and friendship go a long way in making sure the learning process is fun, and therefore also productive.
+Like good friends, we want students to feel that we are here for them when they need us. Laughter and friendship go a long way in making sure the learning process is fun!
 
 ### Get To Know Your Student
 
-When you are assigned to a student, we will send you their background info.
-
 Use your first call to ask them about themselves. Tell them a little bit about yourself as well. Getting to know each other and exchanging personal thoughts is often nicer on a video call than in writing.
 
-We also recommend **keeping a document** with info and notes about your students. It helps to keep track of their individual wishes, motivations, and concerns. These notes are for yourself, but ultimately to improve the individual experience for each of your students. If you want you can copy and use our example draft:
+We will also provide a log file with info and notes about your student. Please add a brief, ~1-2 sentence, entry to the log after every call.  It helps to keep track of their progress, motivations, and concerns. The log file is a good place to document the student's goals from week-to-week.  
 
-- [Student Notes](13_student_notes.md)
+It is also helpful to work with your student to develop a rough timeline for completing their coursework. Ask them how many hours per week they are able to dedicate to the course and help them set expectations for themselves (while remaining flexible).  The optimistic "pushing hard" timeline for most courses is to work an average of 15 hours per week and finish in 12 weeks.  You can check with the course creator or experienced mentors for insight on how long it takes students to finish particular modules, or the course in general.
 
 ### Answer Forum Questions
 
 Prompt your students to post to, answer, and discuss on the [CodingNomads Forum](http://forum.codingnomads.co). We want to promote the forum as a helpful and welcoming place where students and mentors interact and share knowledge.
 
-Therefore we welcome if you:
+Therefore we welcome you to:
 
-- Monitor the Forum regularly
+- Check the Forum regularly
 - Prompt your students to discuss questions on the forum
 - Answer your students' questions
 - Answer other students' questions
@@ -67,7 +65,7 @@ The more information you and your students share in the public forum, the more b
 
 ### Stay Up-To-Date With Your Students' Progress
 
-Knowing where your students are currently at, what they have succeeded to do and what they might be struggling with, is an important piece in making them understand that we care for their learning process and progress.
+Knowing where your students are currently at, what they have succeeded to do and with what they might be struggling is important so they can feel that we care about their learning process.
 
 Our platform offers ways to stay up-to-date with your students' progress. Here are instructions on how to find your students' progress logs. Please **bookmark** these pages for quick access:
 
@@ -85,7 +83,7 @@ Most mentored courses include at least one larger project, called the **capstone
 
 We suggest you to [do your code reviews on GitHub](14_tips.md#do-code-reviews-on-github), as this will additionally prepare your students for the real-world experience of receiving code reviews directly in their code on GitHub, as well as to help them practice the process associated with that.
 
-This will be the largest project your students have worked on so far, so be patient and supportive and help them to get it done. There's nothing quite as useful and motivating as having a completed project that you built by yourself :)
+This will be the largest project your students have worked on so far, so be patient and supportive and help them to get it done. There's nothing quite as useful and motivating as having a completed project that you built by yourself :).
 
 ### Grade Platform Submissions
 
@@ -99,7 +97,7 @@ Please make sure to give your students feedback if they ask about any of their s
 
 ## CORE DUTY #2: Weekly 1-On-1 Calls
 
-Alongside with making sure your students feel supported and taken care of during their learning process, the weekly 45-minute 1-on-1 calls are what constitute your core mentorship offering.
+Alongside with making sure your students feel supported and taken care of during their learning process, the weekly 1-on-1 calls are what constitute your core mentorship offering.  We recommend scheduling these calls for 1 hour.  We encourage you, if possible, not to schedule meetings back-to-back so that a meeting can run long if needed.  You’re also encouraged to hop on extra calls with your students if your schedule permits and you feel like text is insufficient for answering a particular question, or that that would be the best way to get your student unstuck!
 
 - [Using Zoom for scheduling, video sessions, and recordings](05_tools.md#video-sessions-and-recordings-with-zoom)
 
@@ -128,7 +126,7 @@ During your 1-on-1 call, you **review their labs together and discuss their code
 
 - See more in [Labs & Projects](04_code_labs.md)
 
-You will **discuss challenging concepts** from the course materials if the student has not quite gotten a grip on them yet. Interested students have interesting questions! Help them find the answers. You are there to help them get unstuck, and help them learn _how_ to get unstuck by themselves.
+You will **discuss challenging concepts** from the course materials if the student has not quite gotten a grip on them yet. Interested students have interesting questions! Help them find the answers. You are there to help them get unstuck, and help them learn _how_ to get unstuck by themselves (i.e., helping them to learn how to google the right questions!).
 
 Finally, you will help them create **study schedules**, set realistic **expectations**, and check in with them on their progress. You are there to **hold them accountable** for their plans. Help them set generous plans for themselves so that they will be able to stick to their plans.
 
@@ -139,32 +137,25 @@ Finally, you will help them create **study schedules**, set realistic **expectat
 - **Answer** student questions
 - **Help** them schedule and stick to their plans
 
-### Record Your Video Calls
+### Recording Video Calls
 
-Please, **screen-record every student 1-on-1 call**. Having their mentor session recorded is useful for the students because then they can refer back to the video file after their call.
+Encourage students to **screen-record your 1-on-1 calls**. Having their mentor session recorded is useful for the students because then they can refer back to the video afterward.
 
-Students can thereby re-watch helpful parts of a meeting. Some students will be more relaxed during the call since they know they can always come back and check if they think they missed something. It also helps us to refer to a shared resource, if any problems should arise.
-
-Recorded sessions also give us the possibility to provide feedback and suggestions to you regarding mentorship. We won't peek into your sessions unless you ask for feedback, or in case there seems to be any trouble. We will always communicate this to you beforehand, and accessing your video recordings will always happen while in communication with you.
+Students can thereby re-watch helpful parts of a meeting. Some students will be more relaxed during the call since they know they can always come back and check if they think they missed something. 
 
 ### <span style="color: lightgray;">Submit Session Reports (currently optional)</span>
 
 <span style="color: lightgray;">
-At the end of each session, we ask you to give a short report on how it went that day.
+At the end of each session, we ask you to add a brief entry into the students log file.
 </span>
-
-<span style="color: lightgray;">Linked below you will find a Google Form with a few questions.</span>
-
-<span style="color: lightgray;">Please bookmark this form, and **submit a filled-out copy after every call**. This recap **will _not_ be visible to your student** nor to other mentors, but only to you and the CodingNomads team.</span>
 
 <span style="color: lightgray;">We want to keep it short so it doesn't take much of your time. However, consistently keeping short recaps is helpful to monitor student progress and anticipate challenges.
 </span>
 
-- [Session Report Form](https://docs.google.com/forms/d/e/1FAIpQLSfcYcVSnGAIhEB4wNr4tURIqQ_6lRa0xo7ARpWeDuhFq9a7bA/viewform)
 
 ## Weekly Mentor Standup
 
-Every Friday, we ask our **active mentors** to complete a quick form. In this form you'll check in about this week's mentorship. You can raise concerns regarding a student's progress, so we can help and intervene quickly, if necessary.
+Every Friday, we ask you to complete a quick form. In this form you'll check in about this week's mentorship. You can raise concerns regarding a student's progress, so we can help and intervene quickly, if necessary.
 
 <ins>Please make sure to submit this form every week</ins>:
 
@@ -180,13 +171,17 @@ To keep track of the time you spend on mentoring your students, please use the T
 
 ## Wrap Up Working With A Student
 
-When you student progresses well through the course, they will eventually reach the end and graduate.
+When you student progresses well through the course, they will eventually reach the end and graduate.  At this time, please fill out the student close-out form.  
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSc44AA8IKJrmjULAqyBFPGvTT-gSXschAH6Yu358EIFKAkyrw/viewform" target="_blank">![Weekly mentor standup form](images/form_close_out.png)</a>
+
+Please also fill out the form in the unfortunate event that the student drops out.
 
 ### Progress Notifications
 
-To stay up-to-date with our students' progress on the organization team, we ask you to send us a couple of progress updates throughout each student's course journey:
+So that the management team can stay up-to-date with our students' progress, we ask you to send us a couple of progress updates throughout each student's course journey:
 
-- **50% Complete**: Send a chat message or email to Martin when your students is about halfway through the course. This is not an exact marker point, but an approximation.
+- **50% Complete**: Send a chat message or email to Jared and Michael when your students is about halfway through the course. This is not an exact marker point, but an approximation.
 - **Capstone Started**: Inform us when your student has started working on their capstone project (chat message or email)
 - **Capstone Reviewed**: Once your student has finished their capstone project and you have reviewed and approved their code on GitHub, send us the final progress notification per chat message or email. This message should reach us before your final call with the student. Receiving this information from you is extremely important, so that we can commence the close-out process for that student.
 
@@ -205,13 +200,13 @@ Please make sure to encourage your student to submit the Google form to request 
 
 ## Troubleshooting
 
-Check out our [FAQ page](09_faq.md).
+Check out our [FAQ page](09_faq.md).  Feel free to reach out to Michael or anyone in the management team!
 
 ## Mentor Support And Questions
 
-If anything regarding the mentorship process is unclear and isn't covered by this document, or if something else went wrong that you need to talk to someone about directly, please feel free to reach out on Slack to me (@Martin Breuss) or Ryan (@Ryan Desmond) or per email: <img style="display: inline-block;" alt="contact address for ryan" src="../images/email_ryan.png"/>.
+If anything regarding the mentorship process is unclear and isn't covered by this document, or if something else went wrong that you need to talk to someone about directly, please feel free to reach out on Slack to me (@Michael) or Ryan (@Ryan Desmond) or on email: <img style="display: inline-block;" alt="contact address for michael" src="../images/email_michael.png"/>, <img style="display: inline-block;" alt="contact address for ryan" src="../images/email_ryan.png"/>.
 
 If you have questions in regards to your payment, or the payment process in general, please reach out to <img style="display: inline-block;" alt="contact address for kim" src="../images/email_kim.png"/>.
 
-- **Mentorship Contact**: <img style="display: inline-block;" alt="contact address for ryan" src="../images/email_ryan.png"/>
+- **Mentorship Contact**: <img style="display: inline-block;" alt="contact address for michael" src="../images/email_michael.png"/>
 - **Payment Contact**: <img style="display: inline-block;" alt="contact address for kim" src="../images/email_kim.png"/>
