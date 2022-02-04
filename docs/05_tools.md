@@ -35,7 +35,7 @@ To get started, please follow these steps:
 
 Once you've started working with a student, we will set up a **Project** with your **student's name** and invite you as a _Freelancer_. From then on, you'll track the time you spend mentoring this student in their dedicated project. If you are working with multiple students, make sure to record your time for each student in the correct project. 
 
-To minimize your effort, you can limit your tracking entries to the following keywords:
+To minimize your effort, when logging time to a student project, you can limit your tracking entries to the following keywords:
 
 1. call
 2. forum
@@ -53,9 +53,9 @@ Please follow this workflow to keep track of the time you spend working with you
 ### Mentor_Admin and Community Support Projects
 We will also invite you to two projects called _mentor_admin_ and _Community Support_. _Mentor_admin_ can be used for miscellaneous administrative activities such as internal meetings (e.g., _Python Mentors Meeting_). _Community Support_ can be used to answer questions on the forum or the general slack channels (i.e., helping students for which you don’t have a specific project). 
 
-**When charging to these two projects, please be as specific as possible in the TopTracker activity description.** For example: “supporting Tiffany on Slack, connecting to databases, general JDBC” or “responded to this question: https://forum.codingnomads.co/t/lab-9-data-wrangle-a-dataset/1244”.
+**When charging to these two projects, please put both a keyword (from the list above) and a specific description in the TopTracker activity description.** For example: “Slack: supporting Tiffany, connecting to databases, general JDBC” or “Forum: responded to this question: https://forum.codingnomads.co/t/lab-9-data-wrangle-a-dataset/1244”.  This desription format helps us to understand how to allocate budget for these two projects.
 
-### Wait, but what if I forget turn on my tracker?!  Or, even worse, forget to turn it off?
+### Wait, but what if I forget turn on my tracker?!  Or, even worse, forget to turn it off!?!
 On its web application, in the "my activities" tab, TopTracker allows you to manually add, edit, or delete time.
 
 <img style="display: inline-block;" alt="how to edit time on TopTracker" src="../images/editing_time.png"/> 
