@@ -2,7 +2,7 @@
 
 _You can print this page to make sure you check off your tasks for supporting your students._
 
-Most important is to make your student <ins>understand that you care for them and their learning progress</ins>.
+<ins>The most important thing is to make sure your student understands that you care for them and their learning progress</ins>!
 
 ## Setup Support
 
@@ -18,10 +18,10 @@ Most important is to make your student <ins>understand that you care for them an
   - Any questions?
   - Any interesting links you found that you can share with them?
 - [Keep a document](13_student_notes.md) with notes on their wishes, struggles, and info on their progress and process in general
-- Conduct weekly 45-minute 1-on-1 video chat sessions
+- Conduct weekly 1-on-1 video chat sessions
   - Discuss any questions that students have
   - Together check up on the lab/project code they wrote and give them actionable feedback
   - Help them create a schedule and stay accountable
 - Fill and submit the [session report](https://docs.google.com/forms/d/e/1FAIpQLSfcYcVSnGAIhEB4wNr4tURIqQ_6lRa0xo7ARpWeDuhFq9a7bA/viewform)
 
-These are the required tasks when you mentor for CodingNomads students. We welcome any additional involvement from your side - [here are some thoughts and suggestions](04_how_to_mentor.md).
+These are the required tasks when you mentor for CodingNomads students. Of course, we welcome any additional involvement - [here are some thoughts and suggestions](04_how_to_mentor.md).
