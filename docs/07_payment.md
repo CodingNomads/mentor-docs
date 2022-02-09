@@ -13,6 +13,7 @@ Please submit your 1) IRS form and 2) Direct Deposit Authorization Form to <img 
 If you are a US citizen or resident, have a US social security number / ITIN, and/or you file a tax return in the United States, please complete, sign, and send to CodingNomads:
 
 1. [IRS form W-9](https://www.irs.gov/pub/irs-pdf/fw9.pdf) for independent contractors. Next year by January 31, if you billed more than $600 in the previous year, we will provide you with form 1099-NEC to file on your US taxes. Please be aware that in general, after your first year of contracting, the IRS expects you to submit quarterly estimated tax payments. If you do not pay estimated taxes, the IRS may charge penalties when you file your annual return. Not to be a buzzkill...but in case you didn't know! Chat with your accountant or Kim if you have questions about that.
+
 2. [Direct Deposit Authorization Form](https://drive.google.com/file/d/1-u27F07GgBDpI0Mm2b4DFy0fiIJhTNpe/view?usp=sharing) using the following instructions:
 
 ### If you have Zelle
@@ -29,7 +30,15 @@ If you do not have Zelle, we pay by Wise ACH bank transfers, which charge the re
 
 If you are not a US Citizen or resident, and you do NOT file a tax return in the US, please complete, sign, and send to CodingNomads:
 
-1. [Direct Deposit Authorization Form](https://drive.google.com/file/d/1-u27F07GgBDpI0Mm2b4DFy0fiIJhTNpe/view?usp=sharing). For international contractors, we pay by Wise ACH bank transfers. Wise charges the lowest recipient fee (~1%) and offers the best exchange rates of any other service we've found.
+1.  [IRS form W-8 BEN](https://www.irs.gov/pub/irs-pdf/fw8ben.pdf). 
+This form states that you:
+	- are not a US citizen or resident,
+	- do not have a US SSN / ITIN,
+	- do not pay US taxes, and you do pay taxes in your home country,
+	- and therefore you are not subject to having money withheld in the US because your country has a tax treaty with the US to avoid double taxation. Generally you can find your US tax treaty information online, or consult your tax professional if you have questions.
+This form does not get submitted to the IRS, rather it's a form CodingNomads keeps on file in the case that we get audited to explain why we do not withhold 30% of your paycheck for US taxes.
+
+2.	[Direct Deposit Authorization Form](https://drive.google.com/file/d/1-u27F07GgBDpI0Mm2b4DFy0fiIJhTNpe/view?usp=sharing). For international contractors, we pay by Wise ACH bank transfers. Wise charges the lowest recipient fee (~1%) and offers the best exchange rates of any other service we've found.
 
 ## Monthly Payment Process
 
