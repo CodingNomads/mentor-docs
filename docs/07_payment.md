@@ -38,6 +38,14 @@ This form states that you:
 	- and therefore you are not subject to having money withheld in the US because your country has a tax treaty with the US to avoid double taxation. Generally you can find your US tax treaty information online, or consult your tax professional if you have questions.
 This form does not get submitted to the IRS, rather it's a form CodingNomads keeps on file in the case that we get audited to explain why we do not withhold 30% of your paycheck for US taxes.
 
+1.  [IRS form W-8 BEN](https://www.irs.gov/pub/irs-pdf/fw8ben.pdf). 
+This form states that you are not subject to having money withheld from your paychecks for US taxes, because you meet ALL of the following:
+	- are not a US citizen nor resident,
+	- do not have a US SSN / ITIN,
+	- do pay taxes in your home country, and have a tax treaty with the US (most countries do). Generally you can find your US tax treaty information online, or consult your tax professional.
+
+This form does not get submitted to the IRS, rather we must keep it on file in the case of an audit.
+
 2.	[Direct Deposit Authorization Form](https://drive.google.com/file/d/1-u27F07GgBDpI0Mm2b4DFy0fiIJhTNpe/view?usp=sharing). For international contractors, we pay by Wise ACH bank transfers. Wise charges the lowest recipient fee (~1%) and offers the best exchange rates of any other service we've found.
 
 ## Monthly Payment Process
