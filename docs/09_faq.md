@@ -23,7 +23,7 @@ On its web application, in the "my activities" tab, TopTracker allows you to man
 
 ## My Student Wants To Reschedule A Meeting
 
-If a student needs to reschedule one of their meetings and does so with adequate notice (12 hours or more), we'd encourage you to find a new time with them. Life can get in the way, and as long as this is an exception, and you can manage to make time in your own schedule, we want to support students to have their mentor sessions. You can bill for 5-10 minutes for each reschedule if needed. That said, we hope, and expect reschedules to be rare.
+If a student needs to reschedule one of their meetings and does so with adequate notice (12 hours or more), we'd encourage you to find a new time with them. Life can get in the way, and as long as this is an exception, and you can manage to make time in your own schedule, we want to support students to have their mentor sessions. We hope, and expect reschedules to be rare.
 
 You have no obligation to reschedule any meeting with the student if it happens outside of the agreed-upon time slot. We understand that you have other work to do, and we want to set clear examples to avoid time spent on scheduling wherever possible. If you do want to reschedule, it is at your own discretion to do so.
 
@@ -33,10 +33,13 @@ If rescheduling happens **often**, please let the student know that they should 
 
 Your meeting time slot should be on a **fixed time every week**. If a student does not show up for your meeting and doesn't contact you more than 12 hours ahead of the scheduled time, this will be considered a **no-show**.
 
-If you haven't heard from your student until the meeting time, please wait for 10 minutes to see whether they are just late, then cancel the call. Record the no-show in your Session Report. **Please charge 50% of the scheduled call time in the event of a no-show.** This also applies if the student cancels within 12 hours of a shceduled meeting.
+If you haven't heard from your student until the meeting time, please wait for 10 minutes to see whether they are just late, then cancel the call. Record the no-show in your Session Report. **You may charge 50% of the scheduled call time in the event of a no-show.** This also applies if the student cancels within 12 hours of a shceduled meeting.
 
 Record the 50% time in your TopTracker activities and make sure to mention it was a no-show in your Session Report. **Please clearly communicate to your students that we aim for a professional environment**, which means, in this case, to stick to scheduled meetings as much as possible, and give at least 24 hours notice if they need to cancel.
 
+After a no-show, please make sure to check in with the student and get confirmation that they’ll attend the next meeting. Please contact Michael if: 
+-you don’t hear from the student for a week after the no-show,
+-if they don’t show up for two weeks in a row (despite confirming their expected attendance).
 
 
 ## My Student Has Not Responded For Several Days 
