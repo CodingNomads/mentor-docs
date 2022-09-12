@@ -111,7 +111,7 @@ Discord includes screen-sharing capabilities that can be used for 1-on-1 session
 
 ### Set Up Discord
 
-Before proceeding, please reference the ![Discord Guide for Members](https://codingnomads.github.io/discord-guide/) to get an idea of what the Discord experience looks like for subscribing members. The process of joining the server is the same for mentors. The difference is that shortly after joining, roles will be added to your profile that unlock additional channels and abilities on the server.
+Before proceeding, please reference the <a href='https://codingnomads.github.io/discord-guide/' target='_blank'>Discord Guide for Members</a> to get an idea of what the Discord experience looks like for subscribing members. The process of joining the server is the same for mentors. The difference is that shortly after joining, roles will be added to your profile that unlock additional channels and abilities on the server.
 
 ### Server Roles
 
