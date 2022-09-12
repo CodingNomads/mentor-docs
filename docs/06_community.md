@@ -6,17 +6,11 @@ We're all better in a bunch, and socially learning from your peers is a great an
 
 ## Internal Communication
 
-Use our mentor slack channel and our [mentor-related Forum](http://forum.codingnomads.co/c/staff/mentorship) section to interact with your fellow mentors.
+Use our mentor Discord channel and our [mentor-related Forum](http://forum.codingnomads.co/c/staff/mentorship) section to interact with your fellow mentors.
 
-### Slack Channel
+### Discord Channel
 
-We have a mentor-only slack channel called **#mentors-internal**. If you haven't been added, please contact <img style="display: inline-block;" alt="contact address for michael" src="../images/email_michael.png"/>.
-
-To make sure you're posting in the right channel, I'd suggest to _star_ the channel so it remains pinned to the top of your channel list:
-
-![Starring a channel in Slack for easy access](images/slack_star_channel.png)
-
-Please remember that information in our slack channels is _temporary_. Anything you write here will only be available for a few weeks at most. It is great for chatting and quick information exchange, however, if you and your fellow mentors have some great ideas or suggestions, please add those thoughts for discussion into the Forum since it is persistent and searchable.
+We have a mentor-only Discord channel called `#mentors-internal`. If you haven't been added, please contact <img style="display: inline-block;" alt="contact address for michael" src="../images/email_michael.png"/>.
 
 ### Mentor Forum Section
 

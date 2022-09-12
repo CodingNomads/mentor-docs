@@ -14,7 +14,7 @@ Write an email to <img style="display: inline-block;" alt="contact address for k
 
 ## Who To Contact Regarding General Mentorship Questions?
 
-Write an email to <img style="display: inline-block;" alt="contact address for michael" src="../images/email_michael.png"/> or ping @Michael on slack.
+Write an email to <img style="display: inline-block;" alt="contact address for michael" src="../images/email_michael.png"/> or ping `@Michael` on Discord.
 
 ## What if I forget turn on my tracker?!  Or, even worse, forget to turn it off?
 On its web application, in the "my activities" tab, TopTracker allows you to manually add, edit, or delete time.
@@ -50,7 +50,7 @@ However, if you haven't heard back from your mentee in more than a week, please 
 
 ## The Website Says Students Get Unlimited Support - How Much Time Should I Invest?
 
-This means that students are not limited to just their one weekly call. If they want, they can ask questions any time to their mentor on slack or, if they'd like a potentially quicker answer, the public chat channels.  They also have access to the forum.
+This means that students are not limited to just their one weekly call. If they want, they can ask questions any time to their mentor on Discord or, if they'd like a potentially quicker answer, the public chat channels.  They also have access to the forum.
 
 Few students go over the 1.5, occasionally 2, hours of direct 1-on-1 mentorship per week. Most students stay below it. So if there are a few students here and there that are really soaking up your mentor time, then it's okay because they can basically absorb the mentorship time that we have allotted and budgeted for other students, but that those other students haven't used.
 
@@ -76,7 +76,7 @@ Also, ask them to share their GitHub account with you. You can subscribe to be n
 
 **Mentor_Admin** - Items not directly related to student support, but needed to get the job done. For example, completing student report logs, mentor stand-ups, internal communication / meetings with CodingNomads, etc.
 
-**Community Support** - Anything related to supporting the community! This includes making posts / responding to posts on CodingNomads' forum and Slack for students who you are not billing for, attending CN community events, etc.
+**Community Support** - Anything related to supporting the community! This includes making posts / responding to posts on CodingNomads' forum and Discord for students who you are not billing for, attending CN community events, etc.
 
 If you have any doubts about how or what to charge, please contact Kim, Michael, Ryan, or Jared!
 

@@ -204,7 +204,7 @@ Check out our [FAQ page](09_faq.md).  Feel free to reach out to Michael or anyon
 
 ## Mentor Support And Questions
 
-If anything regarding the mentorship process is unclear and isn't covered by this document, or if something else went wrong that you need to talk to someone about directly, please feel free to reach out on Slack to me (@Michael) or Ryan (@Ryan Desmond) or on email: <img style="display: inline-block;" alt="contact address for michael" src="../images/email_michael.png"/>, <img style="display: inline-block;" alt="contact address for ryan" src="../images/email_ryan.png"/>.
+If anything regarding the mentorship process is unclear and isn't covered by this document, or if something else went wrong that you need to talk to someone about directly, please feel free to reach out on Discord to me (@Michael) or Ryan (@Ryan Desmond) or on email: <img style="display: inline-block;" alt="contact address for michael" src="../images/email_michael.png"/>, <img style="display: inline-block;" alt="contact address for ryan" src="../images/email_ryan.png"/>.
 
 If you have questions in regards to your payment, or the payment process in general, please reach out to <img style="display: inline-block;" alt="contact address for kim" src="../images/email_kim.png"/>.
 

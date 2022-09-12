@@ -35,7 +35,7 @@ Here are some examples of what these notes could look like. You don't need to wr
 
 ### 2019-05-02
 
-Still setting up with the student. They are using Linux, so they've stumbled into a couple of issues. We installed Slack and Zoom together, as well as git, and cloned the repo so they can begin to work on the labs.
+Still setting up with the student. They are using Linux, so they've stumbled into a couple of issues. We installed Discord together, as well as git, and cloned the repo so they can begin to work on the labs.
 
 They haven't had much time because of a big project at work but said it's done now and as of tomorrow will have more time to focus fully on the course.
 

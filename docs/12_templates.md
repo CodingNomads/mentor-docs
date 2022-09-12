@@ -27,7 +27,7 @@ Looking forward to meeting you :)
 ```md
 Hi again `{STUDENT_NAME}`,
 
-I sent you a Slack message with this same info, and I want to email it too to make sure it reaches you. Let's try to keep our conversations in Slack moving forward. Slack is designed for conversation, and it's easier to keep our communication in one place. Sorry for the duplicate info if you already saw this on Slack :)
+I sent you a Discord message with this same info, and I want to email it too to make sure it reaches you. Let's try to keep our conversations in Discord moving forward. Discord is designed for conversation, and it's easier to keep our communication in one place. Sorry for the duplicate info if you already saw this on Discord :)
 
 I'm hoping to set up a call with you for this week so that we can get to know each other and touch base on learning methods, priorities, goals, etc., as we'll make sure that you're all set up and ready to get started.
 
@@ -45,12 +45,12 @@ Looking forward to hearing from you,
 CodingNomads
 ```
 
-## Slack Response And Forum Prompt
+## Discord Response And Forum Prompt
 
 ```md
 Hi `{STUDENT_NAME}`! Great to hear from you! :)
 
-You're welcome to contact me here on slack any time, and you can also use the `{COURSE_CHANNEL}` channel for any course and content-related thoughts.
+You're welcome to contact me here on Discord any time, and you can also use the `{COURSE_CHANNEL}` channel for any course and content-related thoughts.
 
 You can also use any other channel here that makes sense to you!
 
@@ -93,7 +93,7 @@ On another note, here are some social accounts you can check out and follow. It'
 
 `{COURSE_SOCIAL_LINKS}`
 
-That's it! Hope you have a nice week and again, please reach out on Slack if you have any questions.
+That's it! Hope you have a nice week and again, please reach out on Discord if you have any questions.
 
 All the best,
 

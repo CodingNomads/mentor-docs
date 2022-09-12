@@ -10,7 +10,7 @@ You'll need these tools in order to be able to mentor a CodingNomads student:
 
 - [TopTracker](05_tools.md#time-tracking-with-toptracker)
 - [Google Calendar](05_tools.md#recording-meetings-on-google-calendar)
-- [Zoom](05_tools.md#video-sessions-and-recordings-with-zoom)
+- [Discord](05_tools.md#video-sessions-and-communication-with-discord)
 - [Learning Platform](05_tools.md#progress-check-ins-with-the-learning-platform)
 - [GitHub](05_tools.md#code-reviews-with-github)
 
@@ -39,7 +39,7 @@ To minimize your effort, when logging time to a student project, you can limit y
 
 1. call
 2. forum
-3. slack
+3. discord
 4. code review
 5. organization
 
@@ -51,15 +51,14 @@ Watch the screencast below, which shows you how mentorship time tracking with To
 Please follow this workflow to keep track of the time you spend working with your student. **Your compensation is based on the recorded tixme, and the invoices you generate (see next step).**
 
 ### Mentor_Admin and Community Support Projects
-We will also invite you to two projects called _mentor_admin_ and _Community Support_. _Mentor_admin_ can be used for miscellaneous administrative activities such as internal meetings (e.g., _Python Mentors Meeting_). _Community Support_ can be used to answer questions on the forum or the general slack channels (i.e., helping students for which you don’t have a specific project). 
+We will also invite you to two projects called _mentor_admin_ and _Community Support_. _Mentor_admin_ can be used for miscellaneous administrative activities such as internal meetings (e.g., _Python Mentors Meeting_). _Community Support_ can be used to answer questions on the forum or the general Discord channels (i.e., helping students for which you don’t have a specific project). 
 
-**When charging to these two projects, please put both a keyword (from the list above) and a specific description in the TopTracker activity description.** For example: “Slack: supporting Tiffany, connecting to databases, general JDBC” or “Forum: responded to this question: https://forum.codingnomads.co/t/lab-9-data-wrangle-a-dataset/1244”.  This desription format helps us to understand how to allocate budget for these two projects.
+**When charging to these two projects, please put both a keyword (from the list above) and a specific description in the TopTracker activity description.** For example: “Discord: supporting Tiffany, connecting to databases, general JDBC” or “Forum: responded to this question: https://forum.codingnomads.co/t/lab-9-data-wrangle-a-dataset/1244”.  This desription format helps us to understand how to allocate budget for these two projects.
 
 ### Wait, but what if I forget turn on my tracker?!  Or, even worse, forget to turn it off!?!
 On its web application, in the "my activities" tab, TopTracker allows you to manually add, edit, or delete time.
 
 <img style="display: inline-block;" alt="how to edit time on TopTracker" src="../images/editing_time.png"/> 
-
 
 ### Generate and Submit Your Invoices
 
@@ -80,10 +79,6 @@ You need to submit a separate invoice for each of your students. Please submit a
 
 You'll use **Google Calendar** for scheduling your student calls. If you don't have a Google account, please [sign up for one](https://accounts.google.com/signup/v2/webcreateaccount?service=cl&continue=https%3A%2F%2Fcalendar.google.com%2Fcalendar%2Frender&gmb=exp&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp).
 
-**Always invite "calendar@codingnomads.co" to all meetings** 
-
-**Also Please include the student's name in the meeting title**.  For example "Ryan and Michael". This helps us to keep track of the student's meetings.   
-
 ### Booking Meetings With Calendly
 
 To make life easier for you, you can use [Calendly](https://calendly.com/). It's a handy tool that allows you to block out your availability and let students book meeting times with you through a shareable link.
@@ -94,68 +89,90 @@ Calendly can significantly reduce the effort needed to find a time that works fo
 
 ### Recording Meetings On Google Calendar
 
-Every student meeting you have needs to be recorded on our **CN Scheduling Calendar** at `calendar@codingnomads.co`. We use this information to keep track of how far along students are in their subscription.
+Every student meeting you have needs to be recorded on our **CN Scheduling Calendar** at `calendar@codingnomads.co`. We use this information to keep track of student's meetings and how far along they are in their subscription.
 
 This means you need to:
 
+- **include** the student _and_ mentor names in the event title - for example "Ryan & Michael"
 - **invite** `calendar@codingnomads.co` to every student meeting
 - **update** any changes to your student meetings on these shared calendar events
 
 Sometimes, students will need to cancel or move a meeting. Make sure to update the calendar by moving or deleting the meeting.
 
+![Example Google Calendar Event](images/google-calendar.png)
+
 **We can only guarantee payment for meetings that show up on this calendar.**
 
 You will also be invited to a calendar invite that represents the student's last week at CodingNomads.  If you and your student decide not to meet one week, please update the calendar to add a week to the student's program.  For example, if your student requests a week off for christmas (encouraged!), and their last date is January 1st, then update the calendar to show that their last date is now January 8th.  If there is any confusion on this topic, please ask Jared or Michael. 
 
-## Video Sessions and Recordings With Zoom
+## Video Sessions and Communication With Discord
 
-We use **Zoom** for 1-on-1 calls, because it allows screen sharing and screen recording. Watch the [official video walkthrough](https://www.youtube.com/watch?v=E0XmIIXcrEY) for installing the client and scheduling a meeting.
+Discord includes screen-sharing capabilities that can be used for 1-on-1 sessions with students. Google Meet is our recommended alternative in case a student would like to record sessions.
 
-### Set Up Zoom
+### Set Up Discord
 
-Follow the official steps to get started with Zoom:
+Before proceeding, please reference the ![Discord Guide for Members](https://codingnomads.github.io/discord-guide/) to get an idea of what the Discord experience looks like for subscribing members. The process of joining the server is the same for mentors. The difference is that shortly after joining, roles will be added to your profile that unlock additional channels and abilities on the server.
 
-1. [Download Zoom client](https://zoom.us/download)
-2. [Install the browser extension](https://zoom.us/download) (same page, further down)
-3. Connect your Google account
+### Server Roles
 
-Installing the browser extension is optional, and you can schedule all your meetings directly from the Zoom client, if you prefer.
+Permissions on the server are moderated using roles. All users who have been verified for access are assigned the **Member** role. Roles are then "stacked", adding additional permissions to a user. For example:
 
-### Schedule A Student Meeting
+* Subscribing members (self-study): **Member**
+* Mentored students: **Member** + **Mentored**
+* Mentors: **Member** + **Mentor**
+* Mentor/Moderators: **Member** + **Mentor** + **Moderator**
 
-This screencast and the text below it walk you through how to schedule a meeting using Zoom, and how to make sure it's recorded on the shared _CN Mentorship Calendar_.
+![Role Colors](https://raw.githubusercontent.com/CodingNomads/static/main/discord/discord-roles.png?raw=true)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lHRX9b_NmEA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Username color on the server is dictated by their "highest ranking" role. Mentors can easily be identified by the yellow color of their name. Members and Mentored students are represented by slightly different shades of blue.
 
-The text below sums up the content of the video in writing, and shows how to schedule the meeting using Zoom's browser extension:
+![Mentor Color](https://raw.githubusercontent.com/CodingNomads/static/main/discord/discord-mentor.png?raw=true)
 
-Click _Schedule a Meeting_ in the browser extension:
+There are also a collection of "interest roles" that can be applied to your profile by visiting the `#interest-management` channel. We ask mentors to add all topics they can assist with to their profile.
 
-![Scheduling a Zoom meeting from the browser extension](images/zoom_schedule_meeting.png)
+### Channels
 
-You'll see the Zoom settings dialog pop up:
+Please take the time to visit the `#introduce-yourself` channel and share a short bio message with the community. Let everyone know you are human!
 
-![Zoom setting dialog](images/zoom_settings.png)
+Support channels are broken down into two categories. Your focus as a mentor will be on the channels within the `MENTORED SUPPORT` category. These channels are only accessible by mentored students, and should be actively monitored by all mentors who have the ability to assist.
 
-Click _Continue_. Zoom will take you to a Google Calendar event creation dialogue that has the Zoom-related information already filled in.
+For example, if you are a **Java** mentor, you should right-click the `#Java` channel (in the MENTORED SUPPORT category) and under Notification Settings -> Select **All**.
 
-Set the meeting time and use the scheduling options to make it a recurring meeting:
+You can also right-click the CodingNomads server icon on the left and click Notification Settings for a dialog with additional options. Here you can quickly set up notification overrides for individual channels or entire categories.
 
-![Option to set a recurring meeting](images/zoom_recurring.png)
+![Notification Overrides](https://raw.githubusercontent.com/CodingNomads/static/main/discord/discord-notifications.png?raw=true)
 
-Use the calendar dropdown to change the calendar from your default personal calendar to our shared _CN Mentorship Calendar_:
+The `#general_...` support channels (within the `CODINGNOMADS` category) are community supported - please do not bill for support in these channels. Admin staff will lend a hand to help members here, and point them to the forum in the case of more complicated requests.
 
-![Change the default calendar to our Mentor calendar](images/zoom_change_calendar.jpg)
+The way Discord handles direct messages between two individuals is different than Slack. If you message a user on Discord, you are taken out of the server, in to your private messaging area. This means that server nicknames or server profiles no longer apply. If you are "Sam Smith" on the CodingNomads server, but your username is "smoothcriminal5000", the student is suddenly communicating with **smoothcriminal5000**. Not a professional look. This goes both ways as well, all of the sudden you have to keep track of your student's real name, _and_ username (which may not be pretty).
 
-Finally, invite your student by adding their email address and send the message:
+To avoid this situation, all mentors will require _two_ dedicated channels for each of their actively mentored students - a **Text** channel and a **Voice** channel. The format should always be consistent:
 
-![Invite your student to the zoom meeting](images/zoom_invite_guests.png)
+`#firstname-lastname`
 
-Your Zoom link will be included in the calendar invite the student receives. Double-check that the meeting you set up is a recurring event, and that it's recorded in the _CN Mentorship Calendar_. It should appear in that calendar also for the coming week.
+And if you are Sam Smith, these channels will be located within a category titled:
 
-### Recording 1-On-1 Sessions
+`SAM'S STUDENTS` or `SAM'S MENTEES`
 
-We used to ask mentors to record every meeting: **this is no longer required**  Instead, please encourage your students to record sessions if they'd like to.
+This way, all direct communication between you and your students remains inside the CodingNomads server and will not impede on your personal message space. This configuration also comes with the added benefit of allowing custom notification settings for each student.
+
+![Student Channels](https://raw.githubusercontent.com/CodingNomads/static/main/discord/discord-sam.png?raw=true)
+
+### Mentor Support and Sessions
+
+Your student's dedicated text channel is the primary space for direct support. Encourage students to reach out often, assured that you will respond at your earliest convenience. For times when you will be unavailable for an extended period, point students to the `MENTORED SUPPORT` category channels for support. That way, other mentors can step in to help.
+
+Voice channels in Discord have built-in screen sharing capabilities. This allows mentors and students to quickly and easily connect for recurring and impromptu support sessions. Once you and your student both join the dedicated voice channel, you can start chatting right away. When the student is ready to share their screen, they can simply click one of two "Share Your Screen" buttons.
+
+![Screen Sharing](https://raw.githubusercontent.com/CodingNomads/static/main/discord/discord-screen.png?raw=true)
+
+From there, they can choose to share a single window (Applications), or the entire screen (Screens).
+
+If you or your student have trouble sharing - black screen, constant loading, etc. it has been found that disabling the following Discord setting can help:
+
+**Settings** -> **Voice & Video** -> **Open H264 Video Codec provided by Cisco Systems, Inc.** -> _Disable_
+
+As mentioned, we recommend sticking to the audio channels in Discord for 1-on-1 sessions with your students. However, if your student would like to record their 1-on-1 sessions, or either party is having any difficulty with meeting over Discord, we recommend using Google Meet as an alternative.
 
 ## Progress Check-Ins With The Learning Platform
 

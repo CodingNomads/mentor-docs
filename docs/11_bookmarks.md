@@ -6,7 +6,7 @@ This page contains **resources that you will need frequently**. Please copy the 
 
 - [CodingNomads Learning Platform](https://platform.codingnomads.co/learn/my/)
 - [CodingNomads Forum](http://forum.codingnomads.co/)
-- [Slack Community](https://codingnomads-chat.slack.com/messages), or use the Desktop app
+- [Discord Community](https://discord.gg/amhafdRMhc), we recommend the Desktop app
 
 ## Mentorship Tools
 
