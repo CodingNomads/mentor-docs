@@ -168,6 +168,14 @@ Voice channels in Discord have built-in screen sharing capabilities. This allows
 
 From there, they can choose to share a single window (Applications), or the entire screen (Screens).
 
+![Screen Sharing](https://raw.githubusercontent.com/CodingNomads/static/main/discord/discord-share.png?raw=true)
+
+After clicking **Go Live**, please set the quality selector to **Better Text Readability** for the best experience.
+
+![Screen Sharing](https://raw.githubusercontent.com/CodingNomads/static/main/discord/discord-share-quality.png?raw=true)
+
+Please guide your student through these steps as well. 
+
 If you or your student have trouble sharing - black screen, constant loading, etc. it has been found that disabling the following Discord setting can help:
 
 **Settings** -> **Voice & Video** -> **Open H264 Video Codec provided by Cisco Systems, Inc.** -> _Disable_
