@@ -97,13 +97,16 @@ When your student believes the project is nearing “complete” and is ready fo
 2. Use each feature of the application, testing for functionality.
 3. Conduct a thorough code review of the entire project.
 4. Utilize the course-specific capstone requirements to ensure the project is up to standard.
+
    * <a href='https://platform.codingnomads.co/learn/mod/page/view.php?id=2397' target='_blank'>Java Programming</a>
    * <a href='https://platform.codingnomads.co/learn/mod/page/view.php?id=8543' target='_blank'>Advanced Java & Spring</a>
    * <a href='https://platform.codingnomads.co/learn/mod/page/view.php?id=8583' target='_blank'>Python</a>
    * DSML
    * <a href='https://platform.codingnomads.co/learn/mod/page/view.php?id=8585' target='_blank'>Flask</a>
    * Django
+   
 5. Complete and submit the relevant capstone review form.
+
    * <a href='https://forms.gle/WdoBvNjBFwCWwuxKA' target='_blank'>Java, Python, Spring, Flask, Django</a>
    * DSML
 
