@@ -51,7 +51,7 @@ It is also helpful to work with your student to develop a rough timeline for com
 
 Prompt your students to post to, answer, and discuss on the [CodingNomads Forum](http://forum.codingnomads.co). We want to promote the forum as a helpful and welcoming place where students and mentors interact and share knowledge.
 
-Therefore we welcome you to:
+Therefore, we welcome you to:
 
 - Check the Forum regularly
 - Prompt your students to discuss questions on the forum
@@ -84,6 +84,30 @@ Most mentored courses include at least one larger project, called the **capstone
 We suggest you to [do your code reviews on GitHub](14_tips.md#do-code-reviews-on-github), as this will additionally prepare your students for the real-world experience of receiving code reviews directly in their code on GitHub, as well as to help them practice the process associated with that.
 
 This will be the largest project your students have worked on so far, so be patient and supportive and help them to get it done. There's nothing quite as useful and motivating as having a completed project that you built by yourself :).
+
+#### Capstone Review Guidance
+
+Capstone projects should be completely new and personal. Students should not reuse old example projects or code from the course material. Each line of code should be written from scratch, with intention. They'll need to clearly demonstrate comprehension of the course material, and also the ability to stand on their own.
+
+As your student’s project begins to progress, assist them in making decisions that will benefit the quality of the project. Provide constructive feedback during weekly sessions, targeting the specific feature they are currently working on. Give the student a list of tasks to accomplish before next week’s session.
+
+When your student believes the project is nearing “complete” and is ready for demonstration, have them share a GitHub link. This is when you’ll perform a top-to-bottom review. Take notes during each step below of any fixes or adjustments that are required.
+
+1. Clone the repo and follow instructions in their README to get the project running.
+2. Use each feature of the application, testing for functionality.
+3. Conduct a thorough code review of the entire project.
+4. Utilize the course-specific capstone requirements to ensure the project is up to standard.
+   * <a href='https://platform.codingnomads.co/learn/mod/page/view.php?id=2397' target='_blank'>Java Programming</a>
+   * <a href='https://platform.codingnomads.co/learn/mod/page/view.php?id=8543' target='_blank'>Advanced Java & Spring</a>
+   * <a href='https://platform.codingnomads.co/learn/mod/page/view.php?id=8583' target='_blank'>Python</a>
+   * DSML
+   * <a href='https://platform.codingnomads.co/learn/mod/page/view.php?id=8585' target='_blank'>Flask</a>
+   * Django
+5. Complete and submit the relevant capstone review form.
+   * <a href='https://forms.gle/WdoBvNjBFwCWwuxKA' target='_blank'>Java, Python, Spring, Flask, Django</a>
+   * DSML
+
+Provide your student with final constructive feedback based on your notes. Once the student makes additional changes based on this feedback, a second review is not necessary - encourage them to post the project publicly on Discord for further community review.
 
 ### Grade Platform Submissions
 
