@@ -103,8 +103,8 @@ When your student believes the project is nearing “complete” and is ready fo
     - <a href='https://platform.codingnomads.co/learn/mod/page/view.php?id=8583' target='_blank'>Python</a>
     - DSML
     - <a href='https://platform.codingnomads.co/learn/mod/page/view.php?id=8585' target='_blank'>Flask</a>
-    - Django
-   
+    - <a href='https://platform.codingnomads.co/learn/mod/page/view.php?id=8640' target='_blank'>Django</a>
+
 5. Complete and submit the relevant capstone review form:  
 
       - <a href='https://forms.gle/WdoBvNjBFwCWwuxKA' target='_blank'>Java, Python, Spring, Flask, Django</a>  
