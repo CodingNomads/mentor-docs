@@ -33,7 +33,7 @@ Here are some examples of what these notes could look like. You don't need to wr
 
 ## Calls
 
-### 2019-05-02
+### 2024-01-02
 
 Still setting up with the student. They are using Linux, so they've stumbled into a couple of issues. We installed Discord together, as well as git, and cloned the repo so they can begin to work on the labs.
 
@@ -41,13 +41,13 @@ They haven't had much time because of a big project at work but said it's done n
 
 They are self-taught with SQL and worked as a data analyst before. It's clear that they know how to google and are motivated to work through stuff. They were a bit worried there'd be too much reading for their taste, but I explained about the labs and projects and that I'm happy to provide more project ideas and links to make it even more practical. That seemed to resound well with them.
 
-### 2019-05-09
+### 2024-01-09
 
-They skimmed over the exercises and completed some that they didn't know so well yet (File I/O etc.). I introduced code reviews, both that I can do them if they submit links, as well as that I'll want students to do it for each other on the Forum, if possible.
+They skimmed over the exercises and completed some that they didn't know so well yet (File I/O etc.). I introduced code reviews, both that I can do them if they submit links, as well as that I'll want students to do it for each other on Discord, if possible.
 
 They are originally from Veenendaal, which is fun for me because I spent two weeks there working with a friend on a startup idea.
 
-They've been working on a Django project before (a course platform, essentially) and they'll keep doing that while brushing up on the topics covered in our course. I introduced that it's very useful that they know something already, and that they'll be able to learn a lot through teaching others on the Forum. They're looking forward to the interactions and discussions. I think it will be helpful to direct them to use the Forums as often as possible since they could provide good contributions AND seem to learn very well through discussing and explaining topics.
+They've been working on a Django project before (a course platform, essentially) and they'll keep doing that while brushing up on the topics covered in our course. I introduced that it's very useful that they know something already, and that they'll be able to learn a lot through teaching others on Discord. They're looking forward to the interactions and discussions. I think it will be helpful to direct them to use Discord as often as possible since they could provide good contributions AND seem to learn very well through discussing and explaining topics.
 ```
 
 ## Template

@@ -1,4 +1,4 @@
-# Requirements to Become a CodingNomads Mentor
+# Getting Started
 
 Welcome! We're thrilled that you are interested in becoming a Mentor for CodingNomads. This document describes what mentorship means to CodingNomads, and what we look for in an ideal mentor. Please read this document carefully. If you have questions please reach out to Ryan, via <img style="display: inline-block;" alt="contact address for ryan" src="../images/email_ryan.png"/>.
 
@@ -32,6 +32,6 @@ We're all humans here, let's be nice to each other.
 
 We want to work with **mentors who know their topics well and enjoy helping others learn**. If you want to mentor e.g. for our Python course, you should know Python well. If you want to mentor for Java, you should know Java. The course that you are mentoring for should be a rich learning experience for your student, which requires a certain level of expertise and fluidity with the technology.
 
-That said, we care a lot about professional development and want to give you opportunities to grow as well. We want to work with mentors who are interested in learning and education, who want to improve their own capacities as programmers and educators. Because of this, mentors who have worked with us for more than 1 year will have the opportunity to take any of our online courses free of charge. Pro-bono mentors - who are volunteering their time as a part of our pro-bono courses for underserved communities or students unemployed due to COVID-19 - will have free access to our online course curriculum after working with students for more than 2 months.
+That said, we care a lot about professional development and want to give you opportunities to grow as well. We want to work with mentors who are interested in learning and education, who want to improve their own capacities as programmers and educators. Because of this, mentors who have worked with us for more than 1 year will have the opportunity to take any of our online courses free of charge. 
 
 We want to work with mentors who are excited to give input and suggestions to us and their fellow mentors, as well as learn from our students and mentor community. We want to work with mentors who are motivated to help with improving CodingNomads' courses and mentorship service for the benefit of all our students.

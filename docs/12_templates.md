@@ -17,7 +17,7 @@ Welcome to CodingNomads! I'm excited to be working with you.
 
 I'll send along some scheduling information shortly so that we can set up our first meeting.
 
-If you'd like, we'd love for you to post an introduction about yourself on the [Introductions thread in our forum](https://forum.codingnomads.co/t/introductions/29) when you get a chance.
+If you'd like, we'd love for you to post an introduction about yourself on the Introductions thread on [Discord](https://codingnomads.com/discord)
 
 Looking forward to meeting you :)
 ```
@@ -45,7 +45,7 @@ Looking forward to hearing from you,
 CodingNomads
 ```
 
-## Discord Response And Forum Prompt
+## Discord Response And Prompt
 
 ```md
 Hi `{STUDENT_NAME}`! Great to hear from you! :)
@@ -54,9 +54,9 @@ You're welcome to contact me here on Discord any time, and you can also use the 
 
 You can also use any other channel here that makes sense to you!
 
-When you get the time, please write a quick intro on our forum: https://forum.codingnomads.co/t/introductions/29
+When you get the time, please write a quick intro on [Discor](https://codingnomads.com/discord)
 
-The forum is a great resource for searching for, asking, discussing, and answering questions - talking about code essentially!
+Discord is a great resource for searching for, asking, discussing, and answering questions - talking about code essentially!
 
 Glad to have you on board and let me know if you need anything.
 ```

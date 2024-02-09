@@ -4,9 +4,8 @@ This page contains **resources that you will need frequently**. Please copy the 
 
 ## Student Interactions
 
-- [CodingNomads Learning Platform](https://platform.codingnomads.co/learn/my/)
-- [CodingNomads Forum](http://forum.codingnomads.co/)
-- [Discord Community](https://discord.gg/amhafdRMhc), we recommend the Desktop app
+- [CodingNomads Learning Platform](https://codingnomads.com)
+- [Discord Community](https://codingnomads.com/discord), we recommend the Desktop app
 
 ## Mentorship Tools
 
@@ -30,4 +29,3 @@ This page contains **resources that you will need frequently**. Please copy the 
 
 - [Mentorship Docs](README.md)
 - [Google Calendar](https://calendar.google.com/) - Make sure you have access to the "**CN Mentorship**" calendar
-- [Mentorship Forum category](http://forum.codingnomads.co/c/staff/mentorship)

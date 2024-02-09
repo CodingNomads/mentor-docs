@@ -10,11 +10,10 @@ After you've become a part of our mentor community, we will want to connect you 
 
 1. **Availability**: We reach out to you to see if you're available to take on a new student.
 2. **Student Info**: Once you accept, we'll send you the student's background info.
-3. **First Contact**: We send a shared email to both you and your student, to establish the initial contact.
+3. **First Contact**: We send a shared email to both you and your student, to establish the initial contact. We will also create a dedicated Discord channel for you and your mentee. After we share an introduction, please respond at your earliest convenience rather than waiting for the student to respond. Our goal is to be proactively helpful and ready.
 4. **First Call**: You reach out to your student to schedule your first call, which is a full-time mentor call. Please send a calendar invite to the student and calendar@codingnomads.co, and the contact method you'll use to get in touch. [Calendly](https://calendly.com/) is a useful tool to help you find a common time slot.
 5. **Recurring Weekly Call**: During your first call, you will schedule your [standing weekly 1-on-1 call](03_mentorship_process.md#core-duty-2-weekly-1-on-1-calls) with your student.
 
-**Note:** We use Zoom to record all meetings for the student and our records. Here's info on [Using Zoom for scheduling, video sessions, and recordings](05_tools.md#video-sessions-and-recordings-with-zoom).
 
 ### First Call
 
@@ -47,19 +46,17 @@ We will also provide a log file with info and notes about your student. Please a
 
 It is also helpful to work with your student to develop a rough timeline for completing their coursework. Ask them how many hours per week they are able to dedicate to the course and help them set expectations for themselves (while remaining flexible).  The optimistic "pushing hard" timeline for most courses is to work an average of 15 hours per week and finish in 12 weeks.  You can check with the course creator or experienced mentors for insight on how long it takes students to finish particular modules, or the course in general.
 
-### Answer Forum Questions
+### Answer Discord Questions
 
-Prompt your students to post to, answer, and discuss on the [CodingNomads Forum](http://forum.codingnomads.co). We want to promote the forum as a helpful and welcoming place where students and mentors interact and share knowledge.
+Prompt your students to post to, answer, and discuss on the [CodingNomads Discord](http://codingnomads.com/discord). We want to promote our Discord server as a helpful and welcoming place where students and mentors interact and share knowledge.
 
 Therefore, we welcome you to:
 
-- Check the Forum regularly
+- Check Discord regularly
 - Prompt your students to discuss questions on the forum
 - Answer your students' questions
 - Answer other students' questions
 - Contribute interesting posts
-
-<a href="http://forum.codingnomads.co" target="_blank">![CodingNomads Forum home page](images/cn_forum.png)</a>
 
 The more information you and your students share in the public forum, the more benefit will come to the rest of our community.
 
@@ -67,7 +64,7 @@ The more information you and your students share in the public forum, the more b
 
 Knowing where your students are currently at, what they have succeeded to do and with what they might be struggling is important so they can feel that we care about their learning process.
 
-Our platform offers ways to stay up-to-date with your students' progress. Here are instructions on how to find your students' progress logs. Please **bookmark** these pages for quick access:
+Our platform offers ways to stay up-to-date with your students' progress. Here are instructions on how to find your students' progress logs. 
 
 - [How to find your student's progress log](05_tools.md#progress-check-ins-with-the-learning-platform)
 
@@ -98,35 +95,30 @@ When your student believes the project is nearing “complete” and is ready fo
 3. Conduct a thorough code review of the entire project.
 4. Utilize the course-specific capstone requirements to ensure the project is up to standard:  
 
-    - <a href='https://platform.codingnomads.co/learn/mod/page/view.php?id=2397' target='_blank'>Java Programming</a>
-    - <a href='https://platform.codingnomads.co/learn/mod/page/view.php?id=8543' target='_blank'>Advanced Java & Spring</a>
-    - <a href='https://platform.codingnomads.co/learn/mod/page/view.php?id=8583' target='_blank'>Python</a>
-    - DSML
-    - <a href='https://platform.codingnomads.co/learn/mod/page/view.php?id=8585' target='_blank'>Flask</a>
-    - <a href='https://platform.codingnomads.co/learn/mod/page/view.php?id=8640' target='_blank'>Django</a>
+    - <a href='https://codingnomads.com/java-301-capstone-project-introduction' target='_blank'>Java Programming</a>
+    - <a href='https://codingnomads.com/java-spring-capstone-checklist' target='_blank'>Advanced Java & Spring</a>
+    - <a href='https://codingnomads.com/python-301-capstone-project-requirements' target='_blank'>Python</a>
+    - <a href='https://codingnomads.com/dsml-capstone-proposal-instructions' target='_blank'>DSML</a>
+    - <a href='https://codingnomads.com/report-capstone-project-deep-learning' target='_blank'>Deep Learning - UPDATE ME</a>
+    - <a href='https://platform.codingnomads.co/learn/mod/page/view.php?id=8585' target='_blank'>Flask - UPDATE ME</a>
+    - <a href='https://platform.codingnomads.co/learn/mod/page/view.php?id=8640' target='_blank'>Django - UPDATE ME</a>
 
 5. Complete and submit the relevant capstone review form:  
 
       - <a href='https://forms.gle/WdoBvNjBFwCWwuxKA' target='_blank'>Java, Python, Spring, Flask, Django</a>  
       - DSML  
 
-Provide your student with final constructive feedback based on your notes. Once the student makes additional changes based on this feedback, a second review is not necessary - encourage them to post the project publicly on Discord for further community review.
-
-### Grade Platform Submissions
-
-Our platform includes some auto-graded submissions (quizzes) and other types of submissions that are meant to be manually graded (assignments).
-
-We are planning to include some form of grading into the mentor's responsibilities since it's motivating for students to see written feedback and encouragement regarding their submissions when done by a thoughtful and supportive mentor.
-
-However, the way these manual submissions are currently set up is only as **check-in points** for students. Therefore, you do not currently need to grade student submissions.
-
-Please make sure to give your students feedback if they ask about any of their submissions, and pro-actively check in with them on whether they want to discuss any of the code they submitted.
+Provide your student with final constructive feedback based on your notes. Once the student makes additional changes based on this feedback, a second review is recommended - encourage them to post the project publicly on Discord for further community review.
 
 ## CORE DUTY #2: Weekly 1-On-1 Calls
 
 Alongside with making sure your students feel supported and taken care of during their learning process, the weekly 1-on-1 calls are what constitute your core mentorship offering.  We recommend scheduling these calls for 1 hour.  We encourage you, if possible, not to schedule meetings back-to-back so that a meeting can run long if needed.  You’re also encouraged to hop on extra calls with your students if your schedule permits and you feel like text is insufficient for answering a particular question, or that that would be the best way to get your student unstuck!
 
 - [Using Zoom for scheduling, video sessions, and recordings](05_tools.md#video-sessions-and-recordings-with-zoom)
+
+### Set Weekly Goals Every Week
+
+This is one of the #1 pieces of feedback we get from students. They want help setting goals and they want accountability to stick to those goals. Setting realistic goals is a process that does not happen overnight. Start by setting ambitious but achievable goals for them each week and start to scale back if you see they are regularly coming up a bit short.
 
 ### Set A Fixed Meeting Time
 
@@ -141,11 +133,6 @@ Calls will be more productive if both you and your student come prepared.
 To make that more likely, you can:
 
 - send an email or chat message to your student one day before your call
-- or copy this [1:1 prep form template](https://docs.google.com/forms/d/e/1FAIpQLSdwZsajyzT8CnPWusgn5dB-9AwI2sZNxJR8PAl5MZZ_bvyldw/viewform) and send it to your student
-
-**NOTE:** In order to receive your students' answers when using the 1:1 prep form, you will need to _"Make a copy"_ and host it on your own Google Drive. The answers are sent to the account that hosts the form.
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdwZsajyzT8CnPWusgn5dB-9AwI2sZNxJR8PAl5MZZ_bvyldw/viewform" target="_blank">![1:1 meeting preparation form](images/form_meeting_prep.png)</a>
 
 ### Know What To Talk About
 
@@ -163,6 +150,7 @@ Finally, you will help them create **study schedules**, set realistic **expectat
 - **Discuss** course-related concepts
 - **Answer** student questions
 - **Help** them schedule and stick to their plans
+- **Set Goals** - they want goals and accountability
 
 ### Recording Video Calls
 
@@ -170,15 +158,11 @@ Encourage students to **screen-record your 1-on-1 calls**. Having their mentor s
 
 Students can thereby re-watch helpful parts of a meeting. Some students will be more relaxed during the call since they know they can always come back and check if they think they missed something. 
 
-### <span style="color: lightgray;">Submit Session Reports (currently optional)</span>
+### <span style="color: lightgray;">Submit Support Logs</span>
 
-<span style="color: lightgray;">
-At the end of each session, we ask you to add a brief entry into the students log file.
-</span>
+Any time you support your student we ask you to add a brief entry into the students log file. 
 
-<span style="color: lightgray;">We want to keep it short so it doesn't take much of your time. However, consistently keeping short recaps is helpful to monitor student progress and anticipate challenges.
-</span>
-
+<a href="https://codingnomads.com/mentor-portal" target="_blank">![Mentor Portal](images/log_file.jpg)</a>
 
 ## Weekly Mentor Standup
 
@@ -208,7 +192,7 @@ Please also fill out the form in the unfortunate event that the student drops ou
 
 So that the management team can stay up-to-date with our students' progress, we ask you to send us a couple of progress updates throughout each student's course journey:
 
-- **50% Complete**: Send a chat message or email to Jared and Michael when your students is about halfway through the course. This is not an exact marker point, but an approximation.
+- **50% Complete**: Send a chat message or email to the admin team when your student is about halfway through the course. This is not an exact marker point, but an approximation.
 - **Capstone Started**: Inform us when your student has started working on their capstone project (chat message or email)
 - **Capstone Reviewed**: Once your student has finished their capstone project and you have reviewed and approved their code on GitHub, send us the final progress notification per chat message or email. This message should reach us before your final call with the student. Receiving this information from you is extremely important, so that we can commence the close-out process for that student.
 
@@ -221,7 +205,7 @@ After [reviewing your student's capstone project code](#code-review-the-capstone
 - **Give Pointers**: By the time your final call comes around, you will know your student's interests well, so you're encouraged to provide them with tips and suggestions on how to continue their learning journey following their interests.
 - **Ask For Satisfaction**: Ask your student if there is anything we can do to make them completely satisfied with our service. We want to provide great mentorship and we want our students to be happy and satisfied. If they have feedback and wishes, let them know we'll do our best and pass on their suggestions to us.
 - **Ask For Reviews**: Reviews are important to help others discover and trust our mentoring services. Ask your student to leave us a review on [SwitchUp](https://www.switchup.org/bootcamps/codingnomads) and [CourseReport](https://www.coursereport.com/schools/codingnomads). They can write one and copy-paste to the other service. This is extremely helpful for getting the word out and building trust for our future students.
-- **Point To Our Community**: Re-iterate that alumni of our courses are very welcome to keep asking and answering questions on our [Forum](http://forum.codingnomads.co/) and our chat community. They can keep reaching out to us and other students. We would love for them to be an active part of the CodingNomads community.
+- **Point To Our Community**: Re-iterate that alumni of our courses are very welcome to keep asking and answering questions on [Discord](https://codingnomads.com/discord) and our chat community. They can keep reaching out to us and other students. We would love for them to be an active part of the CodingNomads community.
 
 Please make sure to encourage your student to submit the Google form to request a certificate of completion, if you assess that they have put in the work and completed the course. **Let us know** over chat or email that your student is ready to graduate! 🎉
 

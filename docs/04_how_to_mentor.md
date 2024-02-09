@@ -81,6 +81,6 @@ We're currently using **GitHub in-line comments** for code review. This gets stu
 
 Students should have easy access to code examples and exercises. We host our code on GitHub. Labs and example code are provided in a well-structured repository that students can download and push to their own GitHub.
 
-Students should also [set up a second remote that is pointing to the original repo](http://forum.codingnomads.co/t/adding-a-second-remote/68). We will keep the original repo up-to-date, e.g. with feedback received from you and your students.
+Students should also set up a second remote that is pointing to the original repo. We will keep the original repo up-to-date, e.g. with feedback received from you and your students.
 
 Students can then pull updates from that second remote. Encourage your students to set up that second remote and check up on whether there were any updates in the original repository every once in a while.

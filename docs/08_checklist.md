@@ -22,6 +22,6 @@ _You can print this page to make sure you check off your tasks for supporting yo
   - Discuss any questions that students have
   - Together check up on the lab/project code they wrote and give them actionable feedback
   - Help them create a schedule and stay accountable
-- Fill and submit the [session report](https://docs.google.com/forms/d/e/1FAIpQLSfcYcVSnGAIhEB4wNr4tURIqQ_6lRa0xo7ARpWeDuhFq9a7bA/viewform)
+- Write and submit a support log in the [mentor portal](https://codingnomads.com/mentor-portal)
 
 These are the required tasks when you mentor for CodingNomads students. Of course, we welcome any additional involvement - [here are some thoughts and suggestions](04_how_to_mentor.md).

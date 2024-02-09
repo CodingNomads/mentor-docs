@@ -50,7 +50,7 @@ However, if you haven't heard back from your mentee in more than a week, please 
 
 ## The Website Says Students Get Unlimited Support - How Much Time Should I Invest?
 
-This means that students are not limited to just their one weekly call. If they want, they can ask questions any time to their mentor on Discord or, if they'd like a potentially quicker answer, the public chat channels.  They also have access to the forum.
+This means that students are not limited to just their one weekly call. If they want, they can ask questions any time to their mentor on Discord or, if they'd like a potentially quicker answer, the public chat channels. 
 
 Few students go over the 1.5, occasionally 2, hours of direct 1-on-1 mentorship per week. Most students stay below it. So if there are a few students here and there that are really soaking up your mentor time, then it's okay because they can basically absorb the mentorship time that we have allotted and budgeted for other students, but that those other students haven't used.
 
@@ -71,12 +71,3 @@ You can also set up an agreement with your student that they check in with you e
 Also, ask them to share their GitHub account with you. You can subscribe to be notified when they push updates, which makes it easier for you to keep track of their progress with the labs.
 
 > Being up-to-date with your students' progress helps to build an understanding of their knowledge and blind spots.
-
-## For What Tasks Do I Charge To The _Mentor Admin_, and _Community Support_ Projects?
-
-**Mentor_Admin** - Items not directly related to student support, but needed to get the job done. For example, completing student report logs, mentor stand-ups, internal communication / meetings with CodingNomads, etc.
-
-**Community Support** - Anything related to supporting the community! This includes making posts / responding to posts on CodingNomads' forum and Discord for students who you are not billing for, attending CN community events, etc.
-
-If you have any doubts about how or what to charge, please contact Kim, Michael, Ryan, or Jared!
-

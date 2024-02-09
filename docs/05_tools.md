@@ -18,7 +18,7 @@ Please make sure to install these programs and request access where necessary. Y
 
 ## Time Tracking With TopTracker
 
-Please use **TopTracker** to record your time spent mentoring.
+Please use **TopTracker** to record your time spent mentoring. [https://tracker.toptal.com/](https://tracker.toptal.com/)
 
 ### Set Up TopTracker
 
@@ -48,12 +48,14 @@ Watch the screencast below, which shows you how mentorship time tracking with To
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kho8-5TcapE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Please follow this workflow to keep track of the time you spend working with your student. **Your compensation is based on the recorded tixme, and the invoices you generate (see next step).**
+Please follow this workflow to keep track of the time you spend working with your student. **Your compensation is based on the recorded time, and the invoices you generate (see next step).**
 
-### Mentor_Admin and Community Support Projects
-We will also invite you to two projects called _mentor_admin_ and _Community Support_. _Mentor_admin_ can be used for miscellaneous administrative activities such as internal meetings (e.g., _Python Mentors Meeting_). _Community Support_ can be used to answer questions on the forum or the general Discord channels (i.e., helping students for which you don’t have a specific project). 
+### Community Support Project
+We will also invite you to the _Community Support_ project. This ToppTracker project can be used to answer questions on Discord including the general community support Discord channels (i.e., helping students for which you don’t have a specific project). 
 
-**When charging to these two projects, please put both a keyword (from the list above) and a specific description in the TopTracker activity description.** For example: “Discord: supporting Tiffany, connecting to databases, general JDBC” or “Forum: responded to this question: https://forum.codingnomads.co/t/lab-9-data-wrangle-a-dataset/1244”.  This desription format helps us to understand how to allocate budget for these two projects.
+You are encouraged to answer any and all questions that are posted by any CodingNomads student on any community channel within CodingNomads’ Discord server. All CodingNomads mentors are permitted to bill for up to two (2) hours per week for answering general student questions and supporting students on any community Discord channel or thread. However, mentors are not permitted to bill for community support on private 1-on-1 channels. Billable community support must be visible to the community. Private 1-on-1 channels are only billable by mentors when working with a student assigned by CodingNomads. If you would like to extend the weekly maximum of two (2) billable hours for general community Discord support, this will need to be previously agreed upon in writing by both you and CodingNomads.
+
+**When charging to the community support project, please put both a keyword (from the list above) and a specific description in the TopTracker activity description.** For example: “Discord: supporting Tiffany, connecting to databases, general JDBC”. 
 
 ### Wait, but what if I forget turn on my tracker?!  Or, even worse, forget to turn it off!?!
 On its web application, in the "my activities" tab, TopTracker allows you to manually add, edit, or delete time.
@@ -142,7 +144,7 @@ You can also right-click the CodingNomads server icon on the left and click Noti
 
 ![Notification Overrides](https://raw.githubusercontent.com/CodingNomads/static/main/discord/discord-notifications.png?raw=true)
 
-The `#general_...` support channels (within the `CODINGNOMADS` category) are community supported - please do not bill for support in these channels. Admin staff will lend a hand to help members here, and point them to the forum in the case of more complicated requests.
+The `#general_...` support channels (within the `community support` category) are community supported. This is where you can bill up to 2 hours per week for community support. Admin staff will also often lend a hand to help members here.
 
 The way Discord handles direct messages between two individuals is different than Slack. If you message a user on Discord, you are taken out of the server, in to your private messaging area. This means that server nicknames or server profiles no longer apply. If you are "Sam Smith" on the CodingNomads server, but your username is "smoothcriminal5000", the student is suddenly communicating with **smoothcriminal5000**. Not a professional look. This goes both ways as well, all of the sudden you have to keep track of your student's real name, _and_ username (which may not be pretty).
 
@@ -157,6 +159,8 @@ And if you are Sam Smith, these channels will be located within a category title
 This way, all direct communication between you and your students remains inside the CodingNomads server and will not impede on your personal message space. This configuration also comes with the added benefit of allowing custom notification settings for each student.
 
 ![Student Channels](https://raw.githubusercontent.com/CodingNomads/static/main/discord/discord-sam.png?raw=true)
+
+These channels will be created for you automatically when paired with a student. Please keep your communications with your students to these channels, as well as the community channels within CodingNomads.
 
 ### Mentor Support and Sessions
 
@@ -186,33 +190,16 @@ As mentioned, we recommend sticking to the audio channels in Discord for 1-on-1 
 
 You'll need to keep track of how your student is progressing through the course materials in order to give them actionable feedback and help them keep moving.
 
-Make sure that you have an active account on the [CodingNomads learning platform](https://platform.codingnomads.co/learn/). After you've completed onboarding, you'll get upgraded to the role of _Non-editing Teacher_ to be able to access everything. If you need that access and don't have it yet, please contact <img style="display: inline-block;" alt="contact address for ryan" src="../images/email_ryan.png"/>.
+Make sure that you have an active account on the [CodingNomads learning platform](https://codingnomads.com). After you've completed onboarding, you'll get upgraded to the role of _Mentor_ to be able to access everything. If you need that access and don't have it yet, please contact <img style="display: inline-block;" alt="contact address for ryan" src="../images/email_ryan.png"/>.
 
-To find your students' **progress logs**, go to the main course page of your course. You'll see a button in the top left called _Participants_. Click it:
+To find your students' **progress logs**, follow these steps:
 
-![Access Participants](images/report_participants.png)
-
-This brings you to a page with a list of all course participants. Use the search field to find your student:
-
-![Overview page showing all Participants of the course](images/report_participants_view.jpg)
-
-Then click on the student's name to access their profile page.
-
-**Tip: Bookmark this page for each of your students, so you'll be able to access it quickly. Checking up on your students' progress shoud be a simple routine task that doesn't take much of your time.**
-
-On the right of that page, you can see a _Reports_ section. Feel free to explore the different types of reports:
-
-![How to access the 'Outline Report' for a student](images/report_click_outline.jpg)
-
-The **_Outline Report_** gives you a quick overview of which resources your student accessed, how often, and when. When a student has accessed a page, it'll show a view count and a date next to the resource name:
-
-![Outline Report showing pages visited by the student](images/report_seen.png)
-
-If they haven't accessed the resource yet, these two columns will be missing:
-
-![Outline Report showing pages not yet visited by the student](images/report_unseen.png)
-
-The **_Outline Report_** allows you to quickly understand where your student is currently at, whether they are making progress, and it can help you understand what they might be struggling with.
+1. Log into [codingnomads.com](https://codingnomads.com)
+2. Click on your user avatar image in the top right corner
+3. Click on "Mentor Portal"
+4. Under "current students", click on the students name
+5. Next, you will see all courses for which the student has a progress of > 0 - click on the appropriate course and scroll
+**Note:** This is also where you will be writing support logs for mentored students 
 
 ## Code Reviews With GitHub
 

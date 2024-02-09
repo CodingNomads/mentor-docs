@@ -6,19 +6,8 @@ We're all better in a bunch, and socially learning from your peers is a great an
 
 ## Internal Communication
 
-Use our mentor Discord channel and our [mentor-related Forum](http://forum.codingnomads.co/c/staff/mentorship) section to interact with your fellow mentors.
-
-### Discord Channel
-
 We have a mentor-only Discord channel called `#mentors-internal`. If you haven't been added, please contact <img style="display: inline-block;" alt="contact address for michael" src="../images/email_michael.png"/>.
 
-### Mentor Forum Section
-
-Our forum has a _Staff_ section that is invisible to students. Use the _Mentorship_ category to post and discuss ideas with your fellow mentors and the rest of our team.
-
-If you don't have access to this section, please contact <img style="display: inline-block;" alt="contact address for michael" src="../images/email_michael.png"/>.
-
-- [Mentorship category on the Forum](http://forum.codingnomads.co/c/staff/mentorship)
 
 ## Mentor Team Meetings
 

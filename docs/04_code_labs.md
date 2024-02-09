@@ -23,15 +23,7 @@ We provide some auto-graded exercises in the browser, but the **Labs & Projects*
 
 ## Getting The Labs
 
-Download the labs from the **in-course link** provided in the course you're working with. You can also fetch it here:
-
-- [Python Labs](https://github.com/CodingNomads/python_fundamentals)
-- [Java Labs](https://github.com/CodingNomads/online-java-fundamentals)
-- [Data Science & Machine Learning Labs](https://github.com/CodingNomads/data-science-machine-learning)
-- [Django Labs](https://github.com/CodingNomads/django-web-dev)
-- [Flask Labs](https://github.com/CodingNomads/flask-labs)
-- [JavaScript Labs](https://github.com/CodingNomads/javascript-labs)
-- [Quant Trading Labs](https://github.com/CodingNomads/quant-trading)
+Download the labs from the **in-course link** provided in the course you're working with. 
 
 ## Getting The Projects
 
@@ -52,7 +44,7 @@ You will need to be accepted as a contributor. If you are an active mentor and y
 
 Learning new things only happens through struggle, training, and repetition. Therefore, handing out solutions will be a disservice to your students.
 
-Prompt your students to trust the process, encourage them to keep trying themselves as well as consult [our forum](https://forum.codingnomads.co/) and you as their mentor for support and tips.
+Prompt your students to trust the process, encourage them to keep trying themselves as well as consult [Discord](https://codingnomads.com/discord) and you as their mentor for support and tips.
 
 Make it clear to them that you are **trained to assist them in figuring out the solution by themselves** - which is the only way to increase their understanding and skills.
 
