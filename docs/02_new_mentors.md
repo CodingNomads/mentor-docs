@@ -4,7 +4,7 @@ We are aware that no one knows everything, and that it takes some time to get fa
 
 ## Mentor Onboarding Tasks
 
-Please complete following tasks thoroughly:
+Please complete the following tasks thoroughly:
 
 - **Complete the Mentorship Onboarding Questionnaire** [here](https://codingnomads.com/page/mentorship-onboarding-form)
 - **Log in** to our **[learning platform](https://codingnomads.com)** and get familiar with its layout and structure
