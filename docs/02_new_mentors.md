@@ -7,6 +7,9 @@ We are aware that no one knows everything, and that it takes some time to get fa
 Please complete following tasks thoroughly:
 
 - **Complete the Mentorship Onboarding Questionnaire** [here](https://codingnomads.com/page/mentorship-onboarding-form)
+- **Log in** to our **[learning platform](https://codingnomads.com)** and get familiar with its layout and structure
+  - After logging in and creating an account on CodingNomads learning platform, please email <img style="display: inline-block;" alt="contact address for ryan" src="../images/email_ryan.png"/> and inform him that you have created your account and Ryan will update your permissions on the platform.
+- **Join our Discord server** After your permissions have been updated to that of a mentor, [click this link](https://codingnomads.com/discord) to connect to CodingNomads Discord server.
 - **Set up TopTracker** and start recording your time [https://www.toptal.com/tracker/](https://www.toptal.com/tracker/)
   - You will be invited to all relevant TopTracker projects. You do not need to create any projects.
   - You can click "NO" on any TopTracker setup questions such as "allow screenshots" and "track mouse clicks" or anything weird like that. We do not use those features. 
@@ -16,8 +19,6 @@ Please complete following tasks thoroughly:
   - **Install Zoom** and make sure you understand the workflow for scheduling and conducting a 1-on-1 meeting
     - If you prefer another video calling / screensharing provider that works for us. Our goal is to make these meetings as easy and seamless as possible for both you and the students. Whichever screensharing / video calling service you prefer should be just fine.
   - **Explore TopTracker** and go through the process of recording your time
-- **Log in** to our **[learning platform](https://codingnomads.com)** and get familiar with its layout and structure
-  - After creating an account on CodingNomads learning platform, please email <img style="display: inline-block;" alt="contact address for ryan" src="../images/email_ryan.png"/> and inform him that you have created your account and Ryan will update your permissions on the platform.
 - **Skim** over the course content of all relevant courses that you'll be mentoring. The idea here is that you understand the course structure, which topics are covered, etc
   - You don't need to go through the course for which you're mentoring in depth: you should already be familiar, in general, with the topics the course covers.
 - **Clone** the relevant GitHub repository(s) that contain(s) the labs for your course(s) and look into the code to make sure you understand the instructions. The GitHub repositories required for each course are covered in each course in a page such as "Get Course Labs".
