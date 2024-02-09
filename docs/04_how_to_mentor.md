@@ -23,7 +23,7 @@ However, you are there to help them navigate through the learning maze. Help the
 
 You can explain a concept to your mentee, if they don't yet have it all figured out.
 
-Next time you see someone ask the same question e.g. on the Forum, try to give your first **mentee** a chance to **explain it to the next person**! Send them a link, remind them that you went over this together, and ask them to answer the question for the other student. Explaining a concept to someone else is a very effective learning tool.
+Next time you see someone ask the same question e.g. on Discord, try to give your first **mentee** a chance to **explain it to the next person**! Send them a link, remind them that you went over this together, and ask them to answer the question for the other student. Explaining a concept to someone else is a very effective learning tool.
 
 ## Encourage Study Groups
 

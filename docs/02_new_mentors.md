@@ -8,7 +8,11 @@ We are aware that no one knows everything, and that it takes some time to get fa
 
 Please complete following tasks thoroughly:
 
+- **Complete the Mentorship Onboarding Questionnaire** [here](https://codingnomads.com/page/mentorship-onboarding-form)
 - **Set up TopTracker** and start recording your time (https://www.toptal.com/tracker/)[https://www.toptal.com/tracker/]
+  - You will be invited to all relevant TopTracker projects. You do not need to create any projects.
+  - You can click "NO" on any TopTracker setup questions such as "allow screenshots" and "track mouse clicks" or anything weird like that. We do not use those features. 
+  - We do not use Payoneer, or any other feature within TopTracker, for payment. You can skip that section while setting up your TopTracker account.
 - **Read these Mentor docs** to make yourself familiar with CodingNomads' mentorship process, logistics, and expectations
 - **Set up your system** with the necessary software for the relevant courses you'll be mentoring and give everything a test-run:
   - **Install Zoom** and make sure you understand the workflow for scheduling and conducting a 1-on-1 meeting
@@ -21,7 +25,7 @@ Please complete following tasks thoroughly:
 - **Clone** the relevant GitHub repository(s) that contain(s) the labs for your course(s) and look into the code to make sure you understand the instructions. The GitHub repositories required for each course are covered in each course in a page such as "Get Course Labs".
   - Please clone the relevant labs and get them setup on your system so that you can run them and explore them quickly.
 - **Request** access to the relevant GitHub repository(s) that contain(s) solutions to the labs for your course(s) by contacting a member of the management team.
-- **Sign up** for and introduce yourself on our [Discord server](https://codingnomads.com).
+- **Sign up** for and introduce yourself on our [Discord server](https://codingnomads.com). After you have joined we will update your server roles so you have access to the mentorship channels.
 
 
 It is your responsibility to know what the course contains and what the students are learning each week. Also, please make sure that you are familiar with the associated labs on GitHub, so you'll be able to guide your students' through their questions efficiently.  Also, make sure you have access to the labs' solutions.

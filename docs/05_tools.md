@@ -25,6 +25,7 @@ Please use **TopTracker** to record your time spent mentoring. [https://tracker.
 To get started, please follow these steps:
 
 - **Sign up** for a free account by clicking _Get Started as a Freelancer_.
+    - You can click "NO" on any TopTracker setup questions such as "allow screenshots" and "track mouse clicks" or anything weird like that. We do not use those features. 
 - **Notify** Jared (or Ryan) to add you to the _Onboarding_ project. You'll receive an invitation from `admin@codingnomads.co` to join the project called _Onboarding_ as a _Freelancer_.
 - **Track** the time you spend on onboarding under that project. You can also add manual time entries, for the time you tracked before we managed to invite you to the project.
 - **Download** [TopTracker for Desktop](https://www.toptal.com/tracker), if you prefer to track your time in a dedicated app.
@@ -35,13 +36,12 @@ To get started, please follow these steps:
 
 Once you've started working with a student, we will set up a **Project** with your **student's name** and invite you as a _Freelancer_. From then on, you'll track the time you spend mentoring this student in their dedicated project. If you are working with multiple students, make sure to record your time for each student in the correct project. 
 
-To minimize your effort, when logging time to a student project, you can limit your tracking entries to the following keywords:
+To minimize your effort, when logging time to a student project, you can limit your tracking entries to keywords such as:
 
 1. call
-2. forum
-3. discord
-4. code review
-5. organization
+2. discord
+3. code review
+4. etc
 
 
 Watch the screencast below, which shows you how mentorship time tracking with TopTracker works in practice:
@@ -203,7 +203,7 @@ To find your students' **progress logs**, follow these steps:
 
 ## Code Reviews With GitHub
 
-We use GitHub inline comments for code reviews. Check out the forum post [Giving and getting code reviews](http://forum.codingnomads.co/t/about-the-code-reviews-category/38) for suggestions on how to give helpful and effective code reviews.
+We use GitHub inline comments for code reviews.
 
 If you are not familiar with giving code reviews in GitHub, check out our [Guide on giving GitHub Reviews](14_tips.md#do-code-reviews-on-github).
 

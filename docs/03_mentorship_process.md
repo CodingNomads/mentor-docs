@@ -53,12 +53,12 @@ Prompt your students to post to, answer, and discuss on the [CodingNomads Discor
 Therefore, we welcome you to:
 
 - Check Discord regularly
-- Prompt your students to discuss questions on the forum
+- Prompt your students to discuss questions on Discord
 - Answer your students' questions
 - Answer other students' questions
 - Contribute interesting posts
 
-The more information you and your students share in the public forum, the more benefit will come to the rest of our community.
+The more questions and answers and discussion that you and your students share in Discord, the more benefit will come to the rest of our community.
 
 ### Stay Up-To-Date With Your Students' Progress
 
