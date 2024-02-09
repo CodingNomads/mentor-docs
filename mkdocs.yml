@@ -1,6 +1,6 @@
 site_name: CodingNomads Mentor Docs
 site_description: Information on how to deliver a great mentorship experience.
-site_author: Martin Breuss
+site_author: Martin Breuss & Ryan Desmond
 nav:
   - README: README.md
   - Requirements: 01_requirements.md
@@ -18,7 +18,7 @@ nav:
   - Templates: 12_templates.md
   - Student Notes: 13_student_notes.md
   - Practical Tips: 14_tips.md
-  - StayAtHome FAQ: 15_home_faq.md
+  - Cancellation Policy: 15_cancellation_policy.md
   - Code Of Conduct: 16_code_of_conduct.md
 theme:
   name: readthedocs
