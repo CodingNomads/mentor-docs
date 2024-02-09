@@ -7,7 +7,7 @@ We are aware that no one knows everything, and that it takes some time to get fa
 Please complete following tasks thoroughly:
 
 - **Complete the Mentorship Onboarding Questionnaire** [here](https://codingnomads.com/page/mentorship-onboarding-form)
-- **Set up TopTracker** and start recording your time (https://www.toptal.com/tracker/)[https://www.toptal.com/tracker/]
+- **Set up TopTracker** and start recording your time [https://www.toptal.com/tracker/](https://www.toptal.com/tracker/)
   - You will be invited to all relevant TopTracker projects. You do not need to create any projects.
   - You can click "NO" on any TopTracker setup questions such as "allow screenshots" and "track mouse clicks" or anything weird like that. We do not use those features. 
   - We do not use Payoneer, or any other feature within TopTracker, for payment. You can skip that section while setting up your TopTracker account.
