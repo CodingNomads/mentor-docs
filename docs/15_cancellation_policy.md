@@ -5,7 +5,7 @@ Included in CodingNomads' Terms of Service. [https://codingnomads.com/terms-of-s
 ### Cancellation Policy
 Students may cancel their subscription any time through their user profile at [https://codingnomads.com/profile](https://codingnomads.com/profile). 
 
-If you pre-paid for a multi-month Bootcamp / Mentorship program, you may request a refund for the months paid for after the current month when the cancellation was made. Students are not eligible for a prorated refund of any portion of the fee paid for the then-current monthly period. Partial fees for partial mentorship on a weekly basis are not permitted.
+If a student pre-paid for a multi-month Bootcamp / Mentorship program, they may request a refund for the months paid for after the current month when the cancellation was made. Students are not eligible for a prorated refund of any portion of the fee paid for the then-current monthly period. Partial fees for partial mentorship on a weekly basis are not permitted.
 
 Cancellation for Bootcamp / Mentorship programs must be made in writing to CodingNomads via admin@codingnomads.com. All refunds will be made within 60 days of the cancellation date. The student is responsible for any bank charges or fees involved with cancellation.
 
