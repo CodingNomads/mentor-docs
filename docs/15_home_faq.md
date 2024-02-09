@@ -2,6 +2,8 @@
 
 [Read our quick mentorship tips here](14_tips.md).
 
+[TOC]
+
 ## Having Trouble With A Student/Mentee?
 
 Please inform Ryan (![ryan's email address](images/email_ryan.png)) as quickly as possible and we'll help get everything sorted.

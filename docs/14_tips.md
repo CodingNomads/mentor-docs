@@ -2,6 +2,8 @@
 
 A collection of practical tips collected by mentors throughout the mentorship process. Feel free to add your own.
 
+[TOC]
+
 ## Structure Your 1-On-1 Sessions
 
 Here are some suggestions that can make it easier to set yourself and your student up for a productive 1:1 call.

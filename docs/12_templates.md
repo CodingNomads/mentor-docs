@@ -1,5 +1,7 @@
 # Student Communication Templates
 
+[TOC]
+
 You can set these up as [Gmail templates](https://www.lifewire.com/how-to-set-up-and-use-email-templates-in-gmail-1172103) or copy-paste the text from here. Please replace the fields marked with `{ALL_CAPS}`. Feel free to personalize as much as you want to.
 
 These templates are meant to make it quicker for you to get started communicating, but _personal_ communication is priceless for good mentorship results.

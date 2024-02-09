@@ -2,8 +2,6 @@
 
 We are aware that no one knows everything, and that it takes some time to get familiar when working in a new system. For this reason, we have created this documentation for you to help you get up to speed. Please note that you can bill for your time it takes you to complete the following onboarding steps.
 
-[TOC]
-
 ## Mentor Onboarding Tasks
 
 Please complete following tasks thoroughly:

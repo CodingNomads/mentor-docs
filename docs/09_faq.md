@@ -2,6 +2,8 @@
 
 Quick and searchable answers for common questions.
 
+[TOC]
+
 ## How Many Students Will I Mentor?
 
 We want to be able to invest in you and make you part of our mentor community. Therefore, we aim for a **minimum of 3 students** per mentor.
